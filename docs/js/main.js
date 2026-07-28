@@ -54,6 +54,16 @@ document.querySelectorAll(".feedback-form").forEach((form) => {
     }
 
     const payload = Object.fromEntries(new FormData(form));
+    // Turnstile 위젯이 주입하는 cf-turnstile-response를 워커가 기대하는 turnstileToken으로 변환한다.
+    payload.turnstileToken = payload["cf-turnstile-response"] || "";
+    delete payload["cf-turnstile-response"];
+
+    if (!payload.turnstileToken) {
+      status.textContent = "스팸 방지 확인을 완료해주세요.";
+      status.className = "feedback-status is-error";
+      return;
+    }
+
     submitButton.disabled = true;
     status.textContent = "전송 중…";
     status.className = "feedback-status";
@@ -65,17 +75,31 @@ document.querySelectorAll(".feedback-form").forEach((form) => {
         body: JSON.stringify(payload),
       });
 
-      if (!response.ok) throw new Error("request failed");
-
-      form.reset();
-      updateSubmitState();
-      status.textContent = "의견이 전송되었습니다. 감사합니다.";
-      status.className = "feedback-status is-success";
+      if (response.ok) {
+        const result = await response.json();
+        form.reset();
+        updateSubmitState();
+        status.innerHTML = result.url
+          ? `의견이 전송되었습니다. 감사합니다. <a href="${result.url}" target="_blank" rel="noreferrer">등록된 이슈 보기</a>`
+          : "의견이 전송되었습니다. 감사합니다.";
+        status.className = "feedback-status is-success";
+      } else if (response.status === 429) {
+        status.textContent = "요청이 너무 많습니다. 잠시 후 다시 시도해주세요.";
+        status.className = "feedback-status is-error";
+      } else if (response.status === 403) {
+        status.textContent = "스팸 방지 확인에 실패했습니다. 다시 시도해주세요.";
+        status.className = "feedback-status is-error";
+      } else {
+        status.textContent = "전송하지 못했습니다. 입력을 확인해주세요.";
+        status.className = "feedback-status is-error";
+      }
     } catch {
       status.textContent = "전송하지 못했습니다. 잠시 후 다시 시도해주세요.";
       status.className = "feedback-status is-error";
     } finally {
       submitButton.disabled = false;
+      // Turnstile 토큰은 1회용이라 제출 후 위젯을 리셋해 새 토큰을 받게 한다.
+      window.turnstile?.reset();
     }
   });
 });
