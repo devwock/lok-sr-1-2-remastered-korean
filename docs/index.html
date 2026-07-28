@@ -6,6 +6,7 @@
     <meta name="description" content="Legacy of Kain: Soul Reaver 1&2 Remastered 한글 패치 안내" />
     <title>Legacy of Kain: Soul Reaver 1&amp;2 Remastered 한글 패치</title>
     <link rel="stylesheet" href="./styles/main.css" />
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
   </head>
   <body>
     <header class="topbar">
@@ -85,13 +86,13 @@
         <p class="eyebrow">Feedback</p>
         <h2>개선할 점을 알려주세요.</h2>
         <p>어색한 표현, 오역, 버그, 제안을 남겨주시면 확인 후 반영하겠습니다.</p>
-        <form class="feedback-form" data-endpoint="https://YOUR-WORKER.workers.dev/issues">
+        <form class="feedback-form" data-endpoint="https://cloudflare-issue-worker.depsilion.workers.dev/issues">
           <fieldset class="feedback-tags">
             <legend>태그</legend>
-            <label><input name="tag" type="radio" value="의견" checked /> 의견</label>
-            <label><input name="tag" type="radio" value="버그" /> 버그</label>
-            <label><input name="tag" type="radio" value="번역" /> 번역</label>
-            <label><input name="tag" type="radio" value="질문" /> 질문</label>
+            <label><input name="tag" type="radio" value="feedback" checked /> 의견</label>
+            <label><input name="tag" type="radio" value="bug" /> 버그</label>
+            <label><input name="tag" type="radio" value="translation" /> 번역</label>
+            <label><input name="tag" type="radio" value="question" /> 질문</label>
           </fieldset>
           <label>제목
             <input name="title" type="text" maxlength="120" required placeholder="제목을 입력하세요" />
@@ -99,6 +100,7 @@
           <label>본문
             <textarea name="body" maxlength="4000" required placeholder="내용을 자세히 적어주세요"></textarea>
           </label>
+          <div class="cf-turnstile" data-sitekey="0x4AAAAAAD7t50AOmpPcOcoq"></div>
           <div class="feedback-form-actions">
             <button class="button primary" type="submit" disabled>전송</button>
             <a class="button" href="https://github.com/devwock/lok-sr-1-2-remastered-korean/issues" target="_blank" rel="noreferrer">GitHub Issue 열기</a>
