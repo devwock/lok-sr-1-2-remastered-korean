@@ -1,0 +1,23 @@
+##VPGEN02A,VPGEN02B,VPGEN02C,VPGEN02D
+우리는 살아남을 방법을 찾을 것이다!
+
+##VPGEN04A,VPGEN04B,VPGEN04C
+이 혐오스러운 인간들을 막을 방법을 찾아야해!
+
+##VPGEN06A,VPGEN06B,VPGEN06C
+우리는 사라판을 너무 오랫동안 과소평가했다.
+
+##VPGEN07A,VPGEN07B,VPGEN07C
+젠장, 저 사라판들!
+
+##VPGEN08A,VPGEN08B,VPGEN08C,VPGEN08D
+가까이 오지마!
+
+##VPGEN09A,VPGEN09B,VPGEN09C
+넌 대체 뭐야??
+
+##VPGEN11A,VPGEN11B,VPGEN11C
+그는 우리 중 하나가 아니야...
+
+##VPGEN12A,VPGEN12B,VPGEN12C
+이게 뭐지?

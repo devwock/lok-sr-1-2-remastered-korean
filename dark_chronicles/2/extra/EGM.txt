@@ -1,0 +1,32 @@
+##EGMSC01A,EGMSC01B,EGMSC01C
+너는 자격이 없다!
+
+##EGMSC02A,EGMSC02B,EGMSC02C
+이 배신의 길을 포기해라, 라지엘.
+
+##EGMSC03A,EGMSC03B,EGMSC03C
+너는 실패했다.
+
+##EGMSC04A,EGMSC04B,EGMSC04C
+배신자!
+
+##EGMSC05A,EGMSC05B,EGMSC05C
+케인을 파멸시켜라!
+
+##EGMSC06A,EGMSC06B,EGMSC06C
+나를 실망시키지 마라.
+
+##EGMSC07A,EGMSC07B
+너는 보잘것없는 존재이며, 스스로 생각하는 것보다 더 나약하다.
+
+##EGMSC08A,EGMSC08B,EGMSC08C,EGMSC08D
+내 말을 귀담아듣는 게 현명할 것이다, 라지엘.
+
+##EGMSC09A,EGMSC09B,EGMSC09C
+운명의 수레바퀴가 네 영혼을 향해 울부짖지만, 비록 그 굶주림은 결코 채워지지 않을 것이다.
+
+##EGMSC10A,EGMSC10B,EGMSC10C
+너의 운명이 부른다.
+
+##EGMSC11A,EGMSC11B,EGMSC11C
+발걸음을 조심해라, 라지엘.

@@ -1,0 +1,48 @@
+-챕터 7 – THE ELDER'S WARNING
+*After having met the vampire Vorador, unearthed the secrets of the Dark Forge, and
+*discovered more about the ancient architects of the Pillars, Raziel revisits the Elder God
+*in the subterranean Pillars chamber.
+#ELDER GOD
+Ah, my wayward child returns...
+*
+#RAZIEL
+Having unearthed more than you'd like, I suspect.
+What am I to make of these ruins that litter the land, and these images here in this
+chamber?
+*
+#ELDER GOD
+Merely the deceits of a failed civilization.
+You are being misled, Raziel.
+This ancient race hoped to manipulate the future with these scrawled misdirections.
+You must tread carefully.
+There are dark forces at work in this world, bent on subverting your true destiny.
+*
+#RAZIEL
+I have no doubt of that.
+The question is: am I in their presence right now?
+*
+#ELDER GOD
+Your arrogance will spell your demise, Raziel.
+Deny my will, and the arc of your destiny will reach a sudden conclusion.
+*
+#RAZIEL
+Your threats are unmoving.
+Even now I'm beyond your reach.
+*
+#ELDER GOD
+[(ominous)
+My reach is longer than you realize.
+This is a very dangerous game you're playing, Raziel...
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*

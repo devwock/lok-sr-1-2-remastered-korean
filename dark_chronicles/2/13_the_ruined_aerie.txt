@@ -1,0 +1,112 @@
+-챕터 13 – THE RUINED AERIE
+*Exploring the blasted landscape of Nosgoth's future, Raziel discovers the ruins of an
+*ancient cliff-dwelling civilization. The majestic facades are collapsed and toppled, as
+*though some great upheaval occurred here ages ago.
+*Raziel stands on a terrace beneath the cliffs, surveying the devastated architecture.
+#RAZIEL V.O.
+This edifice was clearly not crafted by human architects. As the figure beneath the balcony
+silently attested, these were the aeries of winged beings.
+Undoubtedly, I stood before the mountain refuge of the legendary Janos Audron – but the
+entire sanctuary lay in ruin, collapsed under the force of some ancient cataclysm.
+As I suspected, the Time Streamer's deception ensured that I was centuries too late to
+unearth anything of consequence here.
+*
+*Raziel scans the ruined canyon, and sees a narrow pass leading off to the west.
+#RAZIEL V.O.
+With nothing behind me but the wasteland I had traversed, I resolved to press on and
+explore these canyons further.
+*
+*Hearing footsteps behind him, Raziel turns to see Kain approaching.
+*He acknowledges Kain wryly –
+#RAZIEL
+Oh, no. Every time you turn up something monumental and terrible happens.
+I don't think I have the stomach for it.
+*
+#ΚΑΙΝ
+[(laughs softly)
+No drama this time, Raziel.
+*
+#RAZIEL
+You are persistent, crossing time like this to follow me.
+Still waiting for that coin of yours to land on its edge?
+*
+*Kain joins Raziel on the terrace overlooking the canyon.
+#KAIN
+I'm biding my time.
+*
+*He glances up at the ruined balcony above –
+#KAIN
+I see that Moebius has played a little trick on you.
+*
+#RAZIEL
+Yes – he clearly doesn't want me to meet this 'Janos Audron'.
+*
+*Kain looks away thoughtfully –
+#ΚΑΙΝ
+Perhaps...
+[Then, with sarcasm –
+Or maybe he merely hoped that it would harden your heart against me to see this wasteland
+which I single-handedly authored.
+*
+#RAZIEL
+My heart doesn't need hardening, Kain.
+If I even suspected that destroying you would make any difference, I would do it this
+instant.
+*
+#ΚΑΙΝ
+[(laughs approvingly)
+I knew you'd see through them, Raziel.
+Janos is indeed the key to your destiny, but you'll need to find your own way back into
+Nosgoth's past.
+Make no mistake though, Raziel – you and I are now in great danger.
+We are irritants here – malevolent forces are being marshaled to eliminate us.
+*
+#RAZIEL
+You talk as though we're allies.
+*
+#ΚΑΙΝ
+Regardless of your sentiments, Raziel, in their eyes – we are.
+*
+#RAZIEL
+Well, they're certainly trying to eliminate you, Kain, there can be no doubt of that.
+I am assaulted relentlessly with demands for your demise.
+Whatever it is that you're plotting, they're scared to death of you.
+As for me, I suspect they made a grave error when they allowed my unique resurrection.
+I don't think they know how to destroy me.
+*
+#ΚΑΙΝ
+You mustn't underestimate them, Raziel.
+*
+#RAZIEL
+And who exactly is this diabolical 'they' to which we keep referring?
+If there's some grand conspiracy going on, the right hand doesn't appear to know what the
+left is doing.
+Even Moebius seems to be caught out at every turn.
+*
+#ΚΑΙΝ
+Moebius is a puppet, Raziel – haven't you realized that yet?
+That's the sweetest irony in all of this – Nosgoth's 'great manipulator' is their
+plaything.
+But the ones pulling the strings haven't shown their faces, yet.
+*
+#RAZIEL
+They don't like us unwriting their carefully choreographed history, though, do they?
+*
+*Kain corrects Raziel –
+#ΚΑΙΝ
+You must understand, Raziel – we haven't unwritten history, we've merely rewritten it.
+The future flows around our petty actions, finding the path of least resistance while
+admitting only the slightest alterations.
+This is the reshuffling you felt, when you refused to kill me.
+And remember, Raziel, we are irritants in this regard, as well – history will not allow the
+introduction of a paradox.
+*
+#RAZIEL
+And if events cannot be reshuffled to accommodate the change?
+*
+#ΚΑΙΝ
+It is the irritant who's expelled.
+Bear in mind that this may be exactly the outcome our enemies are trying to provoke.
+We must tread very carefully.
+*
+*With this admonition, Kain vanishes.

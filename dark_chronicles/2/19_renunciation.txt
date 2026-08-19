@@ -1,0 +1,48 @@
+-챕터 19 – RENUNCIATION
+*Armed with the Reaver, Raziel has confronted and slain each of his former Sarafan brethren
+*in turn. Entering the Chapter House of the Stronghold, he finally comes face to face with
+*his former self – the Sarafan Inquisitor Raziel, who has apparently been waiting for him
+*here.
+*As he crosses the threshold, the portcullis slams down behind him – this is clearly a
+*trap, calculated to channel Raziel into combat with the most formidable of the Sarafan
+*commanders.
+*The Inquisitor addresses Raziel with self-righteous disdain, blissfully ignorant of this
+*demonic creature's true identity.
+#SARAFAN RAZIEL
+[(hatefully)
+So, vampire – here we are.
+You've destroyed my brethren – and now you've come for me?
+You'll find I am not such easy prey.
+*
+#RAZIEL
+I don't want to kill you, but I will if I must.
+Return the heart to me, and we can end this now.
+*
+#SARAFAN RAZIEL
+[(mocking)
+So you've come to avenge that filthy parasite, and reclaim his foul heart?
+You're a righteous fiend, aren't you?
+*
+#RAZIEL
+[(referring to Sarafan Raziel)
+Apparently I am.
+*
+#SARAFAN RAZIEL
+[(icily)
+No, vampire. This is where it ends, but you won't be leaving this room.
+Now, let's finish this – I'll make it mercifully quick.
+*
+#RAZIEL
+As you did for Janos.
+*
+#SARAFAN RAZIEL
+[(laughs coldly)
+No, that beast had eluded us for far too long.
+It would have been a shame to end him too quickly.
+[He continues, goading Raziel into battle –
+It's ironic, really – the 'great Janos Audron' turned out to be no challenge at all...
+thanks to you.
+Did you hear his cowardly screams when I tore that black heart out of his carcass?
+*
+*Raziel can no longer contain his rage – raising the Reaver, he lunges at the Sarafan
+*Inquisitor.

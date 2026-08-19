@@ -1,0 +1,2295 @@
+-PROLOGUE
+*Raziel enters the Chronoplast chamber, and surveys its tiered walkways and arcane dials,
+*noting both the mysterious device suspended from the domed ceiling, and the undulating
+*portal on the far side of the chamber. None of this interests him. He is looking for Kain.
+*Raziel hears a voice, and Kain reveals himself as he steps out from the shadows of the
+*upper tier.
+#케인
+마침내.
+자네의 그 더딘 진척에는 실망을 금할 길이 없네. 나는 자네가 이보다 더 일찍 이곳에 올 줄 알았지.
+말해 보게... 자네의 형제들을 살해할 때 일말의 가책이라도 있었나?
+*
+*Raziel slowly descends the stairway, keeping his eyes locked on Kain.
+#라지엘
+나를 심연으로 내던지라 명했을 때, 너는 일말의 가책이라도 느꼈나?
+*
+*Kain's only response is ironic laughter. He steps back toward one of the arcane dials and
+*prepares to turn it.
+#케인
+영겁의 시간은 참으로 가혹한 법이야, 라지엘.
+수 세기 전, 내가 이 방에 처음 숨어들었을 때, 나는 지식의 진정한 힘을
+헤아리지 못했네.
+[Kain throws the switch, and the Chronoplast device responds.
+미래를 안다는 것은, 라지엘 - 무한을 향해 뻗어 나가는 미래의 길과 흐름을 본다는 것...
+인간으로서는, 나는 결코 그토록 금지된 진실을 감당할 수 없었겠지.
+하지만 우리 각자는 과거의 모습보다 훨씬 더 거대한 존재가 되지 않았나.
+우리가 어찌 신과 같은 존재가 되었는지 우리의 온 영혼을 다해 느껴지지 않는가?
+그렇기에, 우리는 나뉠 수 없는 존재가 아니겠나? 우리 중 단 한 명이라도 서 있는 한, 우리는 군단일세...
+*
+*Kain descends the main staircase, and moves toward the second-tier dials.
+#케인
+우리의 미래는 이미 정해져 있네 -
+모비어스가 영겁의 시간 전에 나의 미래를 예언했지. 우리는 그저 운명이 써 내려간 배역을 연기할 뿐이야.
+자유 의지란 환상에 불과해.
+*
+*Kain punctuates his statement by throwing the second switch. Raziel glares up at him from
+*the floor of the chamber.
+#라지엘
+사라판의 무덤을 찾아냈다, 케인.
+어떻게 신성한 사제를 뱀파이어로 타락시켜 모독할 수 있단 말인가?
+*
+*Furious, Raziel launches himself at Kain – who easily stops Raziel in mid-air with one
+*hand, and holds him by the throat, at arm's length.
+#케인
+어찌 그러지 않을 수 있겠나?
+친구는 가까이 두되, 라지엘 - 적은 더 가까이 두어야 하는 법이야.
+*
+*Kain effortlessly hurls Raziel to the lower floor of the chamber, and then drops down
+*himself, approaching Raziel's sprawled figure.
+#케인
+선과 악의 관념 따위는 아득히 초월한 열정을 지닌 자들보다 내게 더 잘 봉사할 자들이 어디 있겠나?
+*
+*Raziel rises slowly, enraged and humiliated, and wheels on Kain.
+#라지엘
+사라판은 구원자들이었다, 우리가 상징하는 타락으로부터 노스고스를 수호하던.
+이제 내 눈은 뜨였다, 케인 - 네가 원치도 않던 내 시신에 무례하게 강요한 이 저주받은
+삶에서는 어떠한 고결함도 찾아볼 수 없군!
+*
+*Raziel lunges at Kain. Kain evades the blow, but Raziel attacks again and pins Kain
+*against the wall, his forearm to his throat.
+*Kain is unfazed by Raziel's attack – he is composed, even slightly amused. He allows
+*Raziel to pin him there momentarily, and continues to taunt him, their faces inches apart.
+#케인
+자네가 자신의 과거를 파헤쳤을지는 모르나, 정작 그것에 대해 아무것도 알지 못하는군.
+사라판이 고결하고, 이타적이었다고 생각하나?
+[Kain breaks Raziel's grip and propels him away with a blast of telekinetic energy. Raziel
+[flies backward and slams into a buttress with bone-shattering force.
+[Kain laughs and moves toward the final dial.
+단순하게 생각하지 말게.
+그들의 목적 역시 우리의 것과 똑같았네.
+*
+*Kain throws the final switch. The arms of the Chronoplast device descend, and the portal
+*flares into life.
+#케인
+[(mockingly)
+거의 날 잡을 뻔했군, 라지엘...
+[Kain vanishes in a flash of light, and reappears on the upper tier, in front of the
+[portal.
+허나 종막을 맞이하기엔 장소도 - 방식도 - 걸맞지 않네. 이 드라마가 온전히 펼쳐지기 전에
+운명은 우리에게 더 많은 굴곡을 약속하고 있으니.
+*
+*Kain turns and strides deliberately through the portal. Raziel gets to his feet and races
+*up the stairway. He pauses briefly, then leaps through the portal to pursue Kain.
+*Raziel finds himself floating in darkness, and hears an unfamiliar voice calling to him
+*out of the ether. As Raziel drifts to the floor and the chamber coalesces, Moebius the
+*Time Streamer steps out of the mist to greet him.
+#모비어스
+라지엘...
+구원자이자 파괴자여.
+장기말이자 메시아여.
+환영하네, 시간을 뛰어넘은 영혼이여. 환영하네... 자네의 운명에 온 것을.
+*
+*
+*
+*
+*
+*
+-CHAPTER 1 – ARRIVAL
+*Raziel has just leapt through the Chronoplast portal in pursuit of Kain, fueled by blind
+*rage and a thirst for vengeance. As his surroundings coalesce, he finds himself in a domed
+*room – similar to the Chronoplast chamber, but smaller in scale.
+*Moebius, the Time Streamer, steps forward to greet him.
+#모비어스
+'여기가 어디지?'는 흔히 하는 질문이지.
+자네의 경우에는, '지금이 언제지?'가 더 적절하겠군.
+*
+*Raziel recognizes Moebius, and knows how dangerous he is. As he raises the Reaver in
+*defense, the orb on Moebius's staff flares brightly. The wraith-blade sputters out and
+*retracts, its wisps of energy dissipating completely.
+*Alarmed, and now even more suspicious of the sorcerer's motives, Raziel advances on
+*Moebius.
+#라지엘
+좋다, 이 늙은 독사야 - 네가 내 맨손에 죽길 원한다면...
+*
+*Raziel lunges at Moebius and grabs him by his scrawny neck, throwing him up against the
+*wall. Moebius feigns surprise and fear for a moment –
+#모비어스
+이건 참으로 뜻밖이네!
+이 구슬은 우리의 뱀파이어 적들을 무력화시켜, 꼼짝 못 하게 만드는 물건일세.
+이상하게도 자네의 그 기이한 무기에도 같은 효과를 발휘하는 모양이군.
+하지만 날 믿어주게 - 자네를 해칠 의도는 없으니.
+*
+#라지엘
+그 가증스러운 자비의 가면은 집어치워라, 모비어스.
+난 네가 누구인지 - 그리고 본 모습이 무엇인지 - 알고 있다.
+이 자리에서 널 죽여야겠다...
+*
+*As Raziel speaks, Moebius's demeanor changes. He no longer appears to be an addled old
+*magician – this Moebius is composed, confident, and completely in control.
+#모비어스
+[(laughing)
+아마 그래야 할지도 모르지, 얘야. 하지만 자네는 그러지 않을 걸세.
+*
+*Raziel tightens his grip a bit on Moebius's throat.
+#라지엘
+그렇게 확신하나, 모비어스?
+*
+*Moebius appears completely unfazed by Raziel's threats.
+#모비어스
+시간의 수호자라는 나의 소임은 내게 어느 정도의 전지함을 허락한다네, 라지엘.
+그래, 자네는 나를 죽이지 않아. 그 영광은 지금으로부터 30년 후, 자네의 창조주인 케인에게 돌아갈 테니까.
+*
+*Raziel releases him roughly, with disgust.
+#라지엘
+흥. 참으로 잘 어울리는 족속들이로군 - 너도 그만큼 운명론자야.
+*
+#모비어스
+[(laughing softly)
+죽음은 우리 모두에게 찾아오는 법이지, 라지엘.
+단지 시간문제일 뿐이야.
+*
+*Completely composed, Moebius turns his back on Raziel and exits the chamber.
+#라지엘
+어떻게 내 이름을 알지? 우리는 만난 적이 없는데.
+*
+#모비어스
+그 반대라네, 라지엘 - 나는 자네를 아주 잘 알지...
+그리고 케인이 자네를 얼마나 잔혹하게 이용했는지를 보자니, 내 마음이 참으로 비통하군.
+나는 자네가 사라판 형제단의 일원이던 시절부터 자네를 알았다네, 라지엘.
+우리는 심지어 꽤 가까운 사이였지.
+*
+#라지엘
+[(with revulsion)
+아, 제발.
+*
+#모비어스
+다행히도, 자네가 나와 동맹이 되기 위해 굳이 나를 좋아할 필요는 없다네...
+*
+*Raziel follows Moebius into the adjacent room – the walls of this octagonal chamber are
+*decorated with murals memorializing the six martyred Circle guardians, slaughtered here
+*many centuries ago.
+*The slain guardians are depicted in beatific imagery, while their murderer – the vampire
+*Vorador – is demonized.
+*In the center of the room stands a distinctive basin engraved with arcane symbols.
+#라지엘
+여기가 사라판 사제단의 요새 내부인가?
+*
+#모비어스
+그렇다네. 하지만 사라판의 영광스러운 나날은 이미 오래전에 지나가 버렸지, 유감스럽게도.
+지금은 훨씬 더... 냉소적이고 품위 없는 시대라네.
+현재 이 요새에는 나의 용병 군대가 머물고 있어 - 우리는 우리만의 소박한 성전을 통해
+사라판의 기억을 기리고자 노력하고 있지.
+*
+*Raziel studies the surrounding murals, intrigued.
+#라지엘
+이건 뱀파이어 보라도어인가?
+*
+#모비어스
+그렇네. 결사를 휩쓴 재앙이지. 그 타락한 종족 전체를 통틀어 가장 부패하고
+퇴폐적인 표본일세.
+그자는 이 방에서, 무방비 상태로, 몸을 웅크리고 있던 내 동료 수호자 여섯 명을 학살했다네.
+*
+#라지엘
+[(incredulous)
+그런데 너는 어떻게 그 대학살 속에서 살아남았지?
+*
+#모비어스
+나와 다른 두 명뿐이었지. 결사는 궤멸되었네; 오직 우리 셋만이 목숨을 부지했네.
+*
+#라지엘
+[(disdainful)
+참으로 편리하군.
+네가 던져주는 알량한 정보 쪼가리들을 순진하게 주워 먹지 않더라도 양해해라.
+너는 기만자로 명성이 높으니까.
+*
+#모비어스
+대체 누가 나를 그렇게 중상모략한단 말인가?
+자네의 원수인 케인인가? 자네를 배신하고 파멸시킨 그자 말인가? 우리의 공통된 적?
+나를 그렇게 가혹하게 판단하기 전에, 그 출처가 어디인지부터 생각해보게.
+그렇다면 우리의 옛 우정을 되살리는 일은 접어두도록 하지. 하지만 우리의 공통된 목적에 기반한
+동맹은 고려해 보게 -
+우리는 둘 다 케인의 죽음을 원하고 있네.
+내가 그 일을 돕도록 하지.
+*
+#라지엘
+이 일에 간섭하지 않는 게 좋을 거다, 늙은이.
+네 그 추악하고 얄팍한 책략에 대해서는 익히 알고 있지만, 이번 일은 네 능력을 벗어난
+일이다.
+*
+#모비어스
+자네는 나를 과소평가하고 있군, 라지엘.
+내가 직접 보여주지...
+*
+*Moebius ignites the four candles that stand on the basin's edge, and an image slowly
+*materializes in the mystical waters of the bowl.
+*The image in the basin coalesces, and Kain is revealed. Raziel leans over the basin and
+*peers in, mesmerized.
+#모비어스
+지금 이 순간에도, 케인은 자네를 기다리고 있네 -
+내가 시간의 흐름 속에서 자네를 낚아채 이곳, 내게로 데려왔다는 사실도 모른 채 말이야.
+[The image wavers, and we see that Kain is standing in a clearing, beneath the Pillars of
+[Nosgoth, apparently waiting...
+자신이 파괴할 운명인 바로 그 기둥 주변을 서성이는 저 모습을 보게...
+자네의 손아귀를 벗어났다고 어리석게 확신하면서 말이야.
+*
+#라지엘
+[(fascinated)
+이 시대에는 기둥이 아직 온전히 서 있나?
+*
+#모비어스
+그렇다네, 라지엘 - 그것들은 우리 세계의 생명을 보존하는 신성한 힘의
+화신이지.
+기둥을 모시는 우리는 그 섬세한 균형을 유지하고 있다네 - 그리고 케인은 그 균형을 뒤집을
+지렛대가 될 운명이고.
+자네는 이미 그의 그 끔찍하고, 이기적인 결단이 초래한 황무지를 겪어봤을 테지.
+케인의 존재 자체야말로 이 세계의 암적인 존재라네. 그가 살아있는 한, 노스고스 전체가
+위험에 처하게 돼.
+*
+*The image in the basin wavers and fades out completely.
+#모비어스
+자네는 두 번 다시 인간이 될 수 없을지도 모르지, 라지엘...
+하지만 자네가 지녔던 인간성의 본질과, 물려받은 사라판의 고결함은 다시금
+품을 수 있네.
+그에게 가게, 라지엘. 그리고 이 모든 것을 끝내게.
+하지만 우선 이 요새를 빠져나갈 길부터 찾아야 할 텐데 - 그 일에 관해서는, 유감스럽게도, 내가
+도와줄 방법이 없군.
+내 병사들은 자네의 겉모습을 이해하지 못할 테니; 분명 자네를 죽이려 들 걸세.
+물론 자네가 그들을 두려워할 필요는 없네. 그들은 자네의 적수가 되지 못하니까.
+사상자를 최소한으로 줄이도록 노력하되, 해야 할 일은 하도록 하게.
+[(ominously)
+모든 위대한 대의에는 약간의 순교자가 필요한 법이니...
+*
+*Moebius vanishes, leaving Raziel alone in the chamber.
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+-CHAPTER 2 – THE REAVER CONVERGENCE
+*Raziel enters the choir area of the Sanctuary for the first time, and feels an
+*inexplicable distortion which intensifies as he approaches the central chapel.
+#라지엘 독백
+요새의 가장 깊은 성소에 다가갈수록, 기이한 감각이 나를 엄습했다 -
+형언할 수 없는 괴리감, 현실 자체가 내 주위에서 뒤틀리고 일그러지는 듯한 현기증이었다.
+이 불안정한 파동은 성소의 가장 깊숙한 예배당에서 뿜어져 나오는 듯했다.
+조심스레 다가갈수록,
+그 단절감은 발걸음마다 점점 더 거세졌다.
+*
+*As Raziel enters the chapel, he sees a stained-glass window memorializing William's murder
+*at Kain's hands. At the end of the chapel stands the sarcophagus of the martyred king.
+#라지엘 독백
+이곳이 바로 만인의 사랑을 받던 정의로운 왕 윌리엄의 무덤이다 -
+모비어스의 성전을 촉발시킨 순교자로서 이곳에 시성되어 있었다.
+나는 풋내기 뱀파이어였던 시절 케인의 여정을 떠올렸다 -
+모비어스가 어떻게 그를 과거로 돌려보내 윌리엄을 암살하도록 유도했으며,
+그로 인해 노스고스 전역에 뱀파이어를 향한 맹렬한 증오의 불길을 지폈는지를.
+*
+*Raziel proceeds into the chapel and stands before the sarcophagus, which he realizes now
+*serves also as an altar – for here, clutched loosely in the hands of William's effigy,
+*is the Soul Reaver, its blade broken in two.
+#라지엘 독백
+그리고 이곳에서 나는 그 괴리감의 근원을 발견했다 - 소울 리버 그 자체가, 마치 신성한 유물처럼 안치되어 있었다...
+그리고 부러져 있었다, 윌리엄과 케인의 전투에서 그런 것이리라.
+나는 그런 일이 가능할 것이라고는 생각조차 하지 못했다...
+물론, 케인이 나를 내리치려다 그 검을 산산조각 내기 전까지는 말이다.
+[Raziel looks at his right hand contemplatively.
+그리하여 리버 안에 갇혀 있던 영혼이 풀려났고 -
+그것은 내게 결속되어 공생적인 무기가 되었다.
+*
+*Mesmerized by the Reaver's presence here, Raziel tentatively reaches out to touch the
+*sword. As if in sympathetic response, the wraith-blade begins to manifest of its own will.
+#라지엘 독백
+그렇게 리버는 과거의 자신과 조우하게 된 것이다, 아직 물리적인 껍데기 안에 갇혀 있는...
+나는 홀린 듯, 레이스 블레이드가 스스로 풀려나와,
+물리적인 검을 타고 뱀처럼 얽혀 들어가는 것을 지켜보았다...
+[As it passes over the hilt of the sword, Raziel's hand involuntarily lunges forward and
+[clamps down. The Reaver has taken control.
+자신의 쌍둥이이자, 거울상인 존재를 끌어안으며,
+리버의 기나긴 동면 속에 있던 영혼이 이제 완전히 깨어났다.
+그리고 처음으로, 나는 이 다른 존재의 진정한 실체를 느꼈다 - 수천 년의 감금으로 인해 고집스럽고, 탐욕적이며, 미쳐버린 그 존재 말이다...
+이제 통제권은 리버에게 넘어갔고 -
+나는, 이제 한낱 무력한 숙주에 불과한 채,
+내 영혼이 검을 되살리기 위해 빨려 들어가는 것을 느꼈다.
+*
+*Raziel watches in helpless horror as the Reaver draws his soul-energy through his arm and
+*into the broken blade. The two halves of the Soul Reaver come together and are instantly
+*re-fused.
+*Just before he is drained completely, the Reaver relents, and Raziel recovers control.
+#라지엘 독백
+하지만 리버는 숙주를 파괴하는 것보다 더 나은 방법을 알고 있었다 -
+망각의 벼랑 끝에 다다랐을 무렵, 검은 마침내 나를 놓아주었다.
+회복하며, 나는 우리가 이제 위태로운 동맹으로 묶여 있음을 깨달았다 - 리버는 더 이상 단순한 공생 무기가 아니라,
+통제권을 다투는, 지각 있는 기생충인 것이다.
+*
+*As Raziel recovers, he realizes that Moebius is behind him, watching with intense
+*fascination. Enraged, Raziel wheels on Moebius and menaces him with the now-conjoined
+*Reaver blades.
+#라지엘
+내게 무슨 짓을 한 거냐, 모비어스?!
+이것이 네 함정인가?!
+*
+#모비어스
+[(apprehensive)
+어째서 내 함정이란 말인가?!
+자네를 이곳으로 이끈 건 내가 아니라 케인이란 사실을 잊지 말게!
+자네가 나를 저주하는 동안 - 노스고스에서 자네를 이끌고 도울 준비가 된 유일한 영혼인 이 나를 -
+케인은 우리의 어리석음을 비웃으며 자네의 절망을 즐기고 있을 걸세.
+*
+*Raziel raises the intertwined blades threateningly –
+#라지엘
+지금 섬뜩하게 얽혀 있는 이 칼날들은
+늙은이인 너보다 훨씬 더 질긴 목숨을 지닌 피조물들의 심장에도 공포를 심어주었다.
+이렇게 서로 결속된 이 검들이
+네 영혼의 연약한 껍데기에 무슨 짓을 저지를 수 있을지는 상상만으로도 충분하겠지.
+*
+#모비어스
+라지엘, 부디 손을 멈추어 주게.
+이 일은 내가 꾸민 짓이 아닐세. 나는 그저 자네의 정의로운 여정을 돕고자 했을 뿐이야.
+*
+#라지엘
+[(mocking)
+왜, 떨고 있군, 모비어스. 자신감이 널 버렸나?
+네 그 소중한 지팡이를 두고 오다니 참으로 치명적인 실수를 저지른 모양이군.
+네 그 모든 용기는 거기서 나오는 것이었나?
+*
+#모비어스
+[(desperate)
+내 말을 듣게, 라지엘 - 자네는 지금 자신이 무슨 짓을 하려는지조차 모르고 있네.
+나는 이토록 무방비한 상태로 자네 앞에 나서는 엄청난 위험을 감수했다네,
+그저 나의 선의를 증명하고 싶은 마음에 말일세.
+자네 안에 사라판이 조금이라도 남아있다면, 필시 이러지는 못할 터.
+자네가 나를 위협하는 동안, 자네의 진정한 적은 유유히 빠져나가고 있단 말일세!
+*
+#라지엘
+케인에 대해서는 신경 쓰지 마라, 늙은이. 그 역시 머지않아 지옥에서 너와 합류하게 될 테니.
+네 입으로 직접 말했듯, 죽음은 우리 모두에게 찾아오는 법이지...
+*
+*Raziel raises the entwined blades, fully prepared to strike Moebius down.
+#모비어스
+그렇네... 운명의 수레바퀴가 그것을 요구하고 있지.
+*
+*Moebius's statement stays Raziel's hand momentarily –
+#라지엘
+방금 뭐라고 했지?
+*
+#모비어스
+운명의 수레바퀴 말일세 -
+모든 자들이 종속될 수밖에 없는 죽음과 환생의 거스를 수 없는 순환이지.
+우리는 같은 신을 섬기고 있다네, 라지엘.
+[Moebius grows more confident as he sees that this revelation is having some effect.
+나를 베는 것은 곧 신의 시종을 베는 것과 다름없으니,
+자네라 해도 감히 그런 위험을 감수하진 않으리라 믿네.
+*
+*Raziel throws the Soul Reaver away in disgust. The wraith-blade untwines itself and
+*dissipates as it coils back into Raziel's hand.
+#라지엘
+네 그 장난질에도 질려버렸다, 모비어스.
+네가 나를 두려워한다는 사실을 안 이상, 더는 네게 신경 쓸 이유가 없다.
+케인이 나를 기다리고 있다.
+*
+#모비어스
+그렇다면, 가게나, 라지엘. 케인을 찾아내어 그를 파멸시키게, 우리 두 사람이 섬기는 유일신의 이름으로.
+한때 사라판 사제였던 자네 -
+살해당하고, 모독당하고, 파괴된 후 그분의 자비로 다시 태어난 자네야말로...
+이제 그분의 대리인이자 -
+영광스러운 복원과 응보의 도구가 되기에 가장 완벽한 힘을 갖추고 있으니.
+*
+#라지엘
+나의 복수심만으로도 동기는 차고 넘친다.
+*
+*Raziel turns his back on Moebius and exits the chapel.
+*Moebius closes the gate behind Raziel, and locks himself safely inside the chapel.
+*He breathes a sigh of relief, then turns and says quietly to himself –
+#모비어스
+내 영혼을 걸고 맹세컨대, 하마터면 당할 뻔했군, 나의 작고 푸른 암살자여.
+하지만 그것이 자네에게 주어진 처음이자 마지막 기회일 걸세, 내 장담하지.
+*
+*Alone now in the Sanctuary, Raziel stops to examine his newly-enhanced symbiotic weapon –
+#라지엘 독백
+이제 나는 기력에 상관없이 뜻대로 검을 소환할 수 있게 되었다.
+하지만 한 번 소환되고 나면, 검의 그 게걸스러운 식욕은 도무지 억누를 길이 없었다.
+그것은 희생자들의 영혼을 집어삼켰고...
+만일 그것이 지나치게 흥분하도록 내버려 둔다면, 리버는 마침내 그 굶주림을 내게로 돌릴 것이다.
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+-챕터 3 – 어둠의 심장
+*Raziel discovers a stained glass window in the Stronghold, depicting the murder of the
+*vampire Janos Audron at the hands of the Sarafan.
+#라지엘 독백
+이것이 그 전설적인 야노스 오드론이로군 -
+역사상 가장 오래되고 극악무도한 뱀파이어로 악명 높았던 자다.
+전해지는 이야기에 따르면, 그는 노스고스 북부 산맥의 아득한 절벽에 거주하며,
+무방비 상태의 산 아래 마을 사람들을 무자비하게 사냥했다고 한다.
+그의 공포의 지배는 사라판이 마침내 그를 추적하여,
+아직 살아 숨 쉬는 그의 육신에서 고동치는 심장을 뜯어냈을 때에야 끝이 났다.
+이 유물은 '어둠의 심장'이라 불리게 되었으며, 뱀파이어의 '죽지 않은 생명'을 되살리는 권능을 품고 있다고 전해졌다.
+그렇기에 사라판은 그것을 철저히 수호했다,
+이 심장이 적들의 손에 넘어가지 않도록.
+하지만 의문이 들었다 - 야노스 오드론이 진정 이곳에 묘사된 것만큼 괴물 같은 존재였을까?
+아니면 이 모든 것이 그저 사라판의 윤색에 불과한 것일까,
+가장 끔찍한 적을 악마화함으로써 스스로를 영웅으로 추켜세우려 했던 자들의?
+
+-CHAPTER 4 – THE CORRUPTION OF THE PILLARS
+*Raziel reaches the Pillars clearing, where Moebius told him Kain would be waiting. Raziel
+*pauses briefly, struck by the pristine beauty of the Pillars. In this era, the Pillars
+*stand straight and rise infinitely into the sky, their white marble columns gleaming in
+*the sunlight.
+#RAZIEL V.O.
+The Pillars of Nosgoth... pristine, whole, and uncorrupted.
+I had never beheld them in this undefiled state – yet something profound and indelible
+resonated within me at the sight.
+[(then, seeing Kain)
+And there, waiting at the very heart of the Pillars, was the canker that was destined to
+destroy them.
+*
+*Kain stands in the center of the Pillars platform, his back to the clearing's entrance. He
+*appears to be surveying the Pillars calmly, waiting for something.
+*Raziel stalks up behind Kain, readying the wraith-blade. Completely aware and composed,
+*Kain addresses Raziel without turning.
+#ΚΑΙΝ
+I know you are there, Raziel.
+*
+#RAZIEL
+Moebius led me to you, Kain – though I might have guessed you'd meet me here.
+*
+*Kain continues to speak with his back to Raziel, turning his head only slightly.
+#ΚΑΙΝ
+And if Moebius told you I was hidden on the underside of hell, would you throw yourself
+into oblivion to pursue me?
+Moebius trawls for the ignorant and unwary, hauling his gasping prey from the streams of
+their destinies.
+Stay out of his net, Raziel –
+*
+*Raziel interrupts, impatient and tired of this long chase.
+#RAZIEL
+Spare me your elaborate metaphors, Kain.
+I have pursued you here for one purpose – you will pay for your betrayal, and Balance will
+thus be restored to Nosgoth.
+*
+#KAIN
+And whose will is satisfied then, the will of Raziel, or Moebius?
+*
+#RAZIEL
+Would I be better manipulated by you, Kain?
+Now turn and face me; the chase is over.
+*
+*Kain doesn't turn, but walks slowly forward, approaching the central Balance Pillar while
+*he speaks.
+#ΚΑΙΝ
+This isn't a chase, Raziel – we are merely passengers on the wheel of destiny, describing a
+perfect circle to this point. We have been brought here for a reason.
+I have seen the beginning and the end of our story, however – and the tale is crude and
+ill-conceived.
+We must rewrite the ending of it, you and I.
+*
+#RAZIEL
+[(frustrated)
+Face me, Kain. Even you shouldn't die a coward's death.
+*Kain finally turns to respond, having delayed Raziel as long as he needed.
+#KAIN
+Isn't it customary to grant the condemned a final request?
+*
+#RAZIEL
+I recall no such courtesy from you.
+*
+#ΚΑΙΝ
+Indulge me, Raziel.
+All I ask is that you listen.
+*
+*At this moment, an unearthly, disembodied wailing begins to be audible, increasing in
+*volume as it fills the clearing.
+#ΚΑΙΝ
+This is the sublime moment of our undoing, Raziel – the ineffable fulcrum upon which swings
+the entirety of our history.
+This is where all of Nosgoth is betrayed.
+In this instant, Ariel – the Balance Guardian – is murdered by dark forces bent on
+overthrowing the Pillars.
+Her spirit is just now tearing free, lost in the ether, trying to find its way here.
+You have already seen how she comes to haunt these Pillars –
+*
+#RAZIEL
+[(interrupting)
+– bound here by your refusal to die. You are the reason this land becomes diseased – as
+long as you remain alive you condemn Nosgoth to an eternity of decay.
+*
+*Kain gently raises his hand to silence Raziel, and intently urges him –
+#ΚΑΙΝ
+Be still, Raziel. See this.
+*
+*The sky darkens, the wind begins to gust, and birds scatter from the clearing in alarm. A
+*low, nearly sub-audible rumble swells, as though a massive storm is gathering.
+*Kain continues, with some urgency –
+#ΚΑΙΝ
+As Ariel dies, I am being born to take her place as Balance Guardian.
+Such is my destiny.
+*
+*Suddenly, the entire clearing is rocked by an indescribable force –
+*A telepathic blast bursts across the landscape with a thunderous rumble, and distorting
+*waves of energy ripple across the clearing. Kain visibly tenses as he absorbs the
+*onslaught of this psychic attack. The Pillars, initially white and pristine, begin to
+*crack and corrode as they turn gray with corruption.
+#RAZIEL
+...my god...
+*
+*As the telepathic assault recedes, Kain begins to speak again –
+#KAIN
+At the moment of my first cry, Ariel's beloved – the Guardian Nupraptor – finds her corpse.
+Wracked with grief and tormented by suspicions of treachery, Nupraptor plunges into a
+madness which overflows and infects all of the Guardians, who are symbiotically bound.
+Including me.
+The repercussions of Ariel’s assassination were expertly calculated...
+The entire Circle descends into madness, and I am tainted at the moment of my birth –
+instantly rendered incapable of fulfilling the role destiny has prepared for me.
+*
+#RAZIEL
+Shall I show you the same mercy you showed the rest of the Circle, then?
+You blithely murdered them to restore their Pillars, yet your hand faltered when it came to
+the final sacrifice.
+What makes you exempt, Kain? You're merely the last man standing.
+Why condemn me for simply carrying out what you hadn't the courage to do yourself?
+*
+#KAIN
+Let's drop the moral posturing, shall we? We both know there's no altruism in this pursuit.
+Your reckless indignation led you here – I counted on it.
+[Kain sees that Raziel is bristling at this insult.
+There's no shame in it, Raziel – revenge is motivation enough. At least it's honest.
+Hate me, but do it honestly.
+*
+*Kain resumes his account of Nosgoth's history –
+#ΚΑΙΝ
+Thirty years hence, I am presented with a dilemma – let's call it a two-sided coin.
+If the coin falls one way, I sacrifice myself and thus restore the Pillars.
+But as the last surviving vampire in Nosgoth, this would mean the annihilation of our
+species. Moebius made sure of that.
+If the coin lands on the reverse, I refuse the sacrifice and thus doom the Pillars to an
+eternity of collapse.
+Either way, the game is rigged.
+*
+#RAZIEL
+We agree then that the Pillars are crucial, and must be restored?
+*
+#ΚΑΙΝ
+Yes, Raziel – that's why we've come full-circle to this place.
+*
+#RAZIEL
+So after all this you make my case for me. To end this stalemate, you must die so that new
+Guardians can be born.
+*
+#ΚΑΙΝ
+The Pillars don't belong to them, Raziel...
+[Kain gestures derisively, indicating humanity in general.
+...they belong to us.
+*
+#RAZIEL
+[(disgusted)
+Your arrogance is boundless, Kain.
+*
+#ΚΑΙΝ
+[(laughing softly)
+There's a third option – a monumental secret, hidden in your very presence here. But it's a
+secret you have to discover for yourself.
+Unearth your destiny, Raziel. It's all laid out for you here.
+*
+#RAZIEL
+You said it yourself, Kain – there are only two sides to your coin.
+*
+#ΚΑΙΝ
+Apparently so. But suppose you throw a coin enough times...
+...suppose one day, it lands on its edge.
+*
+*Kain vanishes, leaving Raziel standing in the clearing alone.
+*
+*
+*
+*
+*
+*
+*
+-CHAPTER 5 – THE ELDER GOD
+*Raziel cautiously descends an ancient, subterranean passageway, and finds himself at the
+*threshold of a magnificent underground grotto. The Pillars descend into this chamber,
+*intersecting a platform engraved with arcane symbols. Water surrounds the dais, and
+*reflected light dapples the surrounding walls.
+*Raziel walks along the platform, surveying the murals on the surrounding walls. He
+*recognizes his own ragged form in these heroic figures, and holds up his hand, mentally
+*comparing his anatomy to theirs. He's trying to put the pieces together.
+#RAZIEL V.O.
+As I entered the chamber, I sensed that it had been sealed for hundreds – perhaps thousands
+of years.
+And while this room was clearly built when the Pillars were erected, I knew that no human
+hand could have shaped this place – and that perhaps it had never been seen by human eyes.
+The surrounding murals depicted a winged race, their features so like my own – but
+beautiful, where mine were grotesque... and angelic, while mine were demonic.
+I tried to decipher these images...
+...a great war, but with combatants like none I had ever seen...
+...the Pillars, raised by this winged race, who thus defeated their adversaries...
+...the winged beings again, writhing in agony, apparently afflicted with the same
+blood-thirst I had so recently suffered...
+And throughout the chamber, inscribed everywhere, images of the Reaver itself.
+Was this what Kain had urged me to discover?
+I wondered...
+*
+*The voice of the Elder God bubbles up from the depths of the chamber, as if in answer to
+*Raziel's unspoken question –
+#ELDER GOD
+Lies, Raziel...
+*
+*Raziel recognizes the voice, and realizes that it's rising from the watery depths beneath
+*the platform. As he steps to the edge, he sees that the Pillars descend into the murky
+*depths of the chamber – and coiled around them are the tentacles and amorphous mass of the
+*Elder God itself.
+#ELDER GOD
+Do not be deceived.
+*
+#RAZIEL
+Ah, my ancient 'benefactor'...
+And I dared to hope we had parted ways forever. Your silence was refreshing, while it
+lasted.
+No doubt you have a conveniently inexpressible reason for your presence here?
+*
+#ELDER GOD
+Do not be insolent, Raziel.
+I am eternally present – here and everywhere; now and always.
+I am the still center of the turning wheel, the hub of this world's destiny.
+*
+#RAZIEL
+But perhaps not so omnipotent as you'd have me believe.
+Your hold on me appears to be tenuous. I no longer seem to need you, yet I'm guessing you
+still need me.
+*
+#ELDER GOD
+This impudence is unworthy of you, Raziel.
+Do not forget that you have a task to fulfill here.
+You are indebted to me.
+*
+#RAZIEL
+Indebted? You would have me show gratitude for a 'gift' I didn't ask to be bestowed?
+Do you forget that you forced me to inhabit this vile carcass –
+*
+#ELDER GOD
+– I restored you to yourself, Raziel.
+It was Kain who destroyed you.
+The very enemy you have just let slip through your grasp.
+[(threatening)
+Do not fail me, my servant...
+*
+#RAZIEL
+I serve no one – not you, not Kain... and not your lackey, Moebius.
+*
+#ELDER GOD
+[(ominously)
+Moebius is my good servant.
+I have many.
+*
+#RAZIEL
+And if I tell Moebius that he's worshipping a giant squid, do you think his faith will
+falter?
+*
+#ELDER GOD
+You have grown willful, Raziel.
+But beware – to embrace a serpent is to invite poison into your heart.
+Kain is a sinuous beast; he will seduce and deceive you.
+You pride yourself on your free will, yet you let that degenerate deter your resolve.
+*
+#RAZIEL
+I harbor no illusions about his integrity, nor anyone else's.
+In fact, I am beset by manipulation on all sides. I merely seek the truth.
+*
+#ELDER GOD
+These are the fathomless truths, Raziel:
+The agony of birth and death and rebirth – this is the Wheel of Fate, the purifying cycle
+which sustains all life.
+Vampires are an abomination, a plague which leeches this land of its spiritual strength.
+They obstruct the flow of life and death – their souls stagnate in their wretched corpses.
+But the Wheel must turn; Death is inexorable and cannot be denied.
+Your destiny is irresistible, Raziel – you are my soul reaver, the scourge of the vampires,
+reaper of their apostate souls.
+Remain steadfast. End the vampires' parasitic curse, and restore Nosgoth.
+Kain's blood belongs on your hands.
+*
+#RAZIEL
+Kain indeed deserves to die, for condemning me to this repugnant form.
+But if and when I kill him, it will be for me, alone, to decide.
+*
+#ELDER GOD
+Kain destroyed you without a flicker of remorse.
+He tore the soul from your noble corpse, and after you had served him faithfully for a
+thousand years, he discarded you in the Abyss on a jealous whim.
+Remember your rage, Raziel – let it guide your hand.
+*
+-CHAPTER 6 – THE VAMPIRE VORADOR
+*As Raziel exits the Dark Forge, he comes face to face with Vorador – the ancient vampire
+*leans casually against a column at the Forge's entrance, apparently waiting for Raziel
+*to emerge.
+*
+#VORADOR
+You're a ragged excuse for a savior.
+*
+#RAZIEL
+Vorador.
+*
+#VORADOR
+I see my reputation precedes me.
+*
+#RAZIEL
+It does.
+*
+#VORADOR
+[(ironic)
+All good, I hope.
+*
+*Vorador begins to walk slowly around Raziel as he speaks, examining him. He studies
+*Raziel's cloven hands – so like his own – his blue skin, his ragged wings. Raziel stands
+*still and allows Vorador to look him over.
+#VORADOR
+I've been watching you since you emerged from that accursed stronghold.
+Strange that your arrival coincides with the corruption of the Pillars.
+But I'm wondering – are you the catalyst of these events, or the answer to them?
+*
+#RAZIEL
+[(steely)
+I don't know what you mean.
+*
+#VORADOR
+I will speak plainly, then.
+I distrust your origins, stranger. Seeing you crawl from the putrid depths of Moebius's
+Keep makes me question your purpose here.
+And what should I make of your appearance? Not human, clearly – and more demon than
+vampire.
+And the Pillars – it is no mere coincidence that your arrival in that clearing heralded the
+Pillars' decay.
+And so I ask you plainly: are you the instrument of the Pillars' destruction, or their
+salvation?
+*
+#RAZIEL
+Neither.
+*
+#VORADOR
+[(slightly annoyed)
+Very well, let us look at the other side of the coin –
+I have followed your journey, and watched as you blithely unlocked secrets that have been
+sealed and forbidden for thousands of years.
+The path you have been treading is open to only one being...
+[Vorador trails off, as he realizes –
+You don't know what you are, do you?
+*
+#RAZIEL
+I have been many things...
+If you find me ignorant, enlighten me.
+*
+*Vorador simply laughs, and turns away in disgust.
+#VORADOR
+What's the point – this world is beyond redemption.
+Let the human cattle have it.
+*
+#RAZIEL
+I would expect better than meek capitulation from you.
+*
+#VORADOR
+Centuries of persecution have taught me well.
+500 years ago, our race was nearly exterminated by the fanatical crusades of the Sarafan.
+And now the same sick drama unfolds again. In merely a decade, Moebius's cutthroat citizen
+army has nearly accomplished what the Sarafan could not.
+[(then, to himself)
+Vampires meddling in the affairs of men...
+Look where it has brought us.
+*
+*Raziel considers for a moment, then asks –
+#RAZIEL
+What am I to make of these secrets I've uncovered, then? The depictions of the winged race,
+the Pillars, and the Reaver?
+*
+*Vorador turns back to Raziel as he responds –
+#VORADOR
+Fairy tales, boy.
+The delusions of an ancient culture, clinging to hope long after the world had discarded
+them.
+Their bloodline trickled away, until only one of the Ancients remained – sustained solely
+by obligation and his unfaltering faith in the old prophesies.
+*
+*Vorador strides closer to Raziel as he speaks, until they are face to face.
+#VORADOR
+But you see, even if you are who you appear to be, it no longer matters...
+You're simply too late.
+Janos Audron – the Reaver Guardian, the last of the Ancients, and my maker – was murdered
+by the Sarafan nearly five centuries ago.
+He alone would have the answers you seek, but his secrets died with him.
+I don't know how you've come even this far without his guidance – or without the Reaver,
+stolen these 500 years ago by the Sarafan.
+I am afraid, my friend, that you – and all of us – are out of luck.
+*
+*Vorador vanishes, leaving Raziel alone on the terrace.
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+-CHAPTER 7 – THE ELDER'S WARNING
+*After having met the vampire Vorador, unearthed the secrets of the Dark Forge, and
+*discovered more about the ancient architects of the Pillars, Raziel revisits the Elder God
+*in the subterranean Pillars chamber.
+#ELDER GOD
+Ah, my wayward child returns...
+*
+#RAZIEL
+Having unearthed more than you'd like, I suspect.
+What am I to make of these ruins that litter the land, and these images here in this
+chamber?
+*
+#ELDER GOD
+Merely the deceits of a failed civilization.
+You are being misled, Raziel.
+This ancient race hoped to manipulate the future with these scrawled misdirections.
+You must tread carefully.
+There are dark forces at work in this world, bent on subverting your true destiny.
+*
+#RAZIEL
+I have no doubt of that.
+The question is: am I in their presence right now?
+*
+#ELDER GOD
+Your arrogance will spell your demise, Raziel.
+Deny my will, and the arc of your destiny will reach a sudden conclusion.
+*
+#RAZIEL
+Your threats are unmoving.
+Even now I'm beyond your reach.
+*
+#ELDER GOD
+[(ominous)
+My reach is longer than you realize.
+This is a very dangerous game you're playing, Raziel...
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+-CHAPTER 8 – HISTORY AND DESTINY COLLIDE
+*As Raziel enters the Relic Hall within the Sanctuary, he discovers the fresh corpse of one
+*of Moebius's guards. Raziel kneels to examine the body – the soldier's neck appears to
+*have been snapped, his throat is torn open, and the pallor of his skin suggests that the
+*victim has been drained of blood.
+*Suspecting Kain, Raziel glances up and begins to rise. He addresses the seemingly-empty
+*hall –
+#RAZIEL
+Show yourself, Kain.
+*
+*Kain's voice emerges from the depths of William's chapel –
+#ΚΑΙΝ
+Here, Raziel.
+*
+*Raziel crosses the threshold of the chapel – just as in his previous visit, he feels the
+*distortion caused by the nearness of the Reaver. As he enters, he discovers Kain inside,
+*standing before William's sarcophagus.
+#ΚΑΙΝ
+Everything is decided here...
+You cannot comprehend the magnitude – the rapture and the tragedy – of this moment...
+And yet you must if Nosgoth is to be dragged from the wreckage of its damnation.
+*
+*Whatever game Kain is playing, Raziel is tired of it. He responds irritably –
+#RAZIEL
+I understand only this, Kain –
+That you and Moebius have impelled me to this moment simply means I can trust neither of
+you.
+I don't know who's pulling the strings, but it no longer matters – because I'm cutting
+them.
+I set my own course from here.
+*
+*Raziel turns to leave. Kain watches him go for a moment, then replies.
+#KAIN
+If it were only that simple.
+*
+*Raziel stops and responds, exasperated.
+#RAZIEL
+Your fatalism is tiresome, Kain.
+*
+#KAIN
+...and profoundly ingrained, Raziel.
+You must understand, our presence here doesn't alter history. You and I meet here because
+we are compelled to – we have always met here.
+History is irredeemable.
+Drop a stone into a rushing river – the current simply courses around it and flows on as if
+the obstruction were never there. You and I are pebbles, Raziel, and have even less hope of
+disrupting the time-stream.
+The continuum of history is simply too strong, too resilient.
+Except... then how do we explain William, here?
+[Kain gestures toward William's funereal effigy, and turns to face the sarcophagus.
+The beloved boy-king turned tyrant.
+[He lifts the Soul Reaver from the casket, and turns back to Raziel, flourishing the sword.
+In my youth, I witnessed William's rise to power, and his transformation into the 'Nemesis'
+who laid waste to Nosgoth.
+*
+#RAZIEL
+[(steely)
+Keep your distance, Kain.
+*
+*Kain walks slowly forward, Reaver in hand, as he speaks.
+#ΚΑΙΝ
+Years later, I stumble upon a chance to journey back in history, unaware that the entire
+affair has been carefully orchestrated by Moebius.
+In my wisdom, I seize this opportunity to murder the young king before he can ravage
+Nosgoth...
+...and thereby provide the catalyst Moebius needs to ignite a genocidal war against our
+race.
+*
+*Raziel grows more agitated as Kain advances.
+#RAZIEL
+I warn you – no further!
+*
+*Kain continues, his voice taking on a greater sense of urgency.
+#ΚΑΙΝ
+This one reckless act unravels the skein of history.
+The Nemesis never becomes the Nemesis; William dies a martyred saint.
+I, the vampire assassin, become the author of my own species' extinction.
+And Moebius profits from it all. I destroyed a tyrant only to create one far worse.
+[Kain gestures toward the stained glass window, which depicts a lionized William and a
+[demonized Kain in combat, both armed with the Soul Reaver.
+But how can it be so? How, if history is immutable?
+[Kain advances slowly on Raziel, gripping the Soul Reaver. As he approaches, the feeling of
+[displacement intensifies.
+The answer is here in this room, Raziel.
+Moebius propelled William and me together – but ensured first that we were both armed with
+the Soul Reaver.
+*
+#ΚΑΙΝ
+The Reaver is the key.
+Two incarnations of the blade meet in time and space... a paradox is created, a temporal
+distortion powerful enough to derail history.
+*
+*As Kain takes a final step toward Raziel, the surrounding distortion reaches its peak, and
+*the wraith-blade begins to manifest of its own will. Raziel reacts in alarm –
+#RAZIEL
+Is this your sorcery?
+*
+#ΚΑΙΝ
+Not mine, Raziel – yours.
+You have nothing to fear from me, Raziel.
+You hold all the cards.
+*
+*Kain turns the blade and extends it to Raziel, hilt first. Raziel reaches out tentatively
+*and takes the Reaver – Kain releases the blade willingly, and extends his hands to show
+*that there's no deception. As Raziel grips the hilt, the displacement intensifies around
+*them.
+*Raziel addresses Kain icily. As he speaks, the wraith energy of the Reaver manifests and
+*begins to twine itself around the physical blade.
+#RAZIEL
+Then perhaps I should test your sincerity.
+[Swiftly, Raziel brings the point of the blade up to Kain's throat. Kain steps back, and
+[Raziel advances with him, keeping the sword at his throat.
+If what you say is true, you should be terrified. I could kill you here and now.
+*
+*Kain responds, clearly apprehensive, but also strangely resigned –
+#ΚΑΙΝ
+And so you do, Raziel.
+*
+*The blade begins to tremble slightly, as if possessed of its own will. Raziel is confused
+*and alarmed –
+#RAZIEL
+What's happening?
+*
+*The trembling intensifies as Raziel struggles against the pull of the Reaver.
+#ΚΑΙΝ
+We are hurtling toward our destinies, Raziel. What you feel is the pull of history rushing
+to meet us.
+This is where history and destiny collide.
+*
+*The Reaver lunges at Kain – he stumbles against William's sarcophagus, and falls to the
+*ground. As Raziel fights to resist the pull of the blade, Kain urges him with earnest
+*intensity.
+#ΚΑΙΝ
+If you truly believe in free will, Raziel, now is the time to prove it.
+Kill me now, and we both become pawns of history, dragged down the path of an artificial
+destiny.
+I was ordained to assume the role of Balance Guardian in Nosgoth, while you were destined
+to be its savior. But the map of my fate was redrawn by Moebius, and so in turn was
+yours...
+*
+*Raziel struggles to maintain control.
+#RAZIEL
+This is madness!
+*
+#ΚΑΙΝ
+Fight it, Raziel... This moment does not have to be an ending – it can become a prelude.
+*
+*The pull of the Reaver is too powerful; Raziel is losing strength.
+#RAZIEL
+I can't...
+*
+#ΚΑΙΝ
+You can, Raziel – look inside and see that it is so. You have the power to reshape our
+inevitable futures.
+*
+*Raziel raises the Soul Reaver and brings it down violently. Kain turns his head and tenses
+*for the impact. The sword crashes downward in a blinding flash of light, and Raziel
+*staggers back, his hand now free of the blade.
+*Raziel has diverted the Reaver's course, avoiding Kain by mere inches – the blade stands
+*embedded in William's sarcophagus, the impact having fractured the stone.
+*Rising unsteadily, Kain regards the impaled, fractured coffin, and makes a weak attempt at
+*a joke –
+#ΚΑΙΝ
+...poor William.
+*
+*At once, the room is overwhelmed by an indescribable disturbance – their surroundings warp
+*and blur, and a colossal groaning fills the air as history labors to admit this
+*alteration.
+*Raziel looks around the room in confusion and alarm.
+#RAZIEL
+What is this?
+*
+#KAIN
+History abhors a paradox, Raziel.
+Even now, the time-stream strains to divert itself, finding its old course blocked by your
+refusal to destroy me.
+The future is reshuffling itself to accommodate your monumental decision.
+*
+*As Kain continues, the distortion begins to subside.
+#ΚΑΙΝ
+This is where we restore ourselves, Raziel, and reclaim our intended destinies.
+It may yet be possible for me to assume my role as Balance Guardian and return the Pillars
+to their rightful inheritors –
+*
+*Raziel interrupts disdainfully –
+#RAZIEL
+– to the vampires.
+And this is the destiny you have urged me to discover?
+I don't know what game you and Moebius are playing, Kain – but I refuse to be your pawn.
+Unlike you, I still revere whatever shred of humanity I've managed to preserve.
+You will not use me as the instrument of your messianic delusions.
+*
+*Raziel turns his back on Kain and strides out of the chapel.
+#ΚΑΙΝ
+Very well, Raziel. I'll not ask you to trust me – your truths are for you to discover
+alone.
+*
+*Raziel pauses briefly, and replies without turning –
+#RAZIEL
+Humble words for one who presumes to teach me a lesson at every turn.
+*
+#ΚΑΙΝ
+Then continue your journey and learn your own lessons, Raziel.
+Remember – Moebius led you here, but you walk away unfettered. A champion of free will, and
+conqueror of false histories.
+*
+*Raziel stalks away without looking back.
+#KAIN
+There is much more for you to unearth, if you have the heart for the truth and the will to
+see it...
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+-CHAPTER 9 – TIME STREAMING
+*Following his history-altering encounter with Kain in the chapel, Raziel returns to the
+*Circle's gathering-room. Armed with the Light Reaver, he is now able to unlock the second
+*Time Streaming chamber.
+*Just as the chamber's door slides open, Moebius rushes into the room, shaken and alarmed.
+*He knows that Kain has survived what was supposed to have been a fatal encounter with
+*Raziel in the chapel, and that the course of history has therefore been changed.
+*Raziel greets Moebius smugly, realizing that he has the upper hand, and relishing it.
+#RAZIEL
+Ah, yes – I like that look on your face, Moebius. You really don't know what to do now,
+do you, old man?
+Here you are – caught without your damned staff – and I suspect things aren't progressing
+quite as you'd hoped.
+You're not used to the fly turning to confront you in your web, are you?
+*
+*Genuinely shocked and distressed, Moebius struggles to regain control of the situation. He
+*admonishes Raziel –
+#MOEBIUS
+Kain's devious influence has poisoned your mind, Raziel.
+Now you see betrayal everywhere, even in your closest allies.
+*
+#RAZIEL
+We were never allies, Moebius.
+Conspirators, perhaps. Briefly.
+*
+#MOEBIUS
+Why did you not kill Kain when you had the chance? He was at your mercy!
+*
+#RAZIEL
+Precisely. I had a choice, and I chose mercy.
+And now I know your sordid little secret – the significance of that displacement I felt
+when the two Reavers came together.
+Strangely enough, I was enlightened by the 'devious' Kain, not by you.
+In fact, I've learned much more than you counted on – I understand now how you've tried to
+manipulate all of history for your own personal gain.
+But now all your little schemes are whirling in ruin around you, aren't they?
+All because I chose to exert my will for once, rather than obey the demands of sorcerers
+and spirits and demons all singing the same tiresome refrain: 'kill Kain!'
+I'm setting my own path from here, Moebius.
+I intend to discover the truth behind all of this.
+*
+#MOEBIUS
+But you condemn us all with this impetuous act!
+*
+#RAZIEL
+Hardly impetuous; it took all the will I could muster.
+Has my refusal to kill Kain reshuffled your carefully stacked deck of cards?
+*
+*Moebius responds angrily –
+#MOEBIUS
+You really think that you're exercising your free will, Raziel?
+You're simply Kain's servant –
+*
+#RAZIEL
+[(steely)
+I do not serve Kain. I merely did not kill him.
+*
+*Desperate, Moebius implores Raziel –
+#MOEBIUS
+Raziel, do not forget your purpose here – you are destined to be the savior of Nosgoth!
+*
+*Raziel replies disdainfully –
+#RAZIEL
+Oh, I'm sick of hearing that particular phrase.
+As for saving Nosgoth, so far I see precious little reason to bother.
+And I'll choose my own 'purpose' from here on out, Time-Streamer.
+Right now, I choose to manipulate you, for a change.
+Go – in there.
+*
+*Raziel summons the wraith-blade and flourishes it at Moebius threateningly. Gesturing with
+*the Reaver, Raziel directs Moebius toward the Time Streaming chamber.
+*Moebius refuses to move –
+#MOEBIUS
+What are you doing?
+*
+#RAZIEL
+Come now, Moebius – you're a cunning serpent... you'll piece it together, I imagine.
+*
+*Raziel shoves Moebius and brandishes the Reaver to usher him into the chamber.
+#RAZIEL
+This era is of no further use to me. You will operate this device to provide me passage.
+I want to see the world in a simpler time – before the Sarafan began their crusade.
+*
+*Moebius obediently adjusts the device's arcane switches, but continues to entreat Raziel –
+#MOEBIUS
+And what about Kain? You're leaving your quarry behind!
+*
+#RAZIEL
+You kill him, if it's so damned important.
+*
+#MOEBIUS
+You need only touch the two poles of the switch, and the device will transport you.
+But I urge you to reconsider –
+*
+*Raziel places his hands on the poles of the time-streaming device.
+#RAZIEL
+You've lost your powers of persuasion, old man.
+Rot here and forget me.
+*
+*Moebius turns away dejectedly, but once his face is averted he breaks into a cunning grin.
+*Raziel throws the switch, and the chamber blurs around him as he is swept to another time.
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+-CHAPTER 10 – MOEBIUS'S MARTYRED SPIRIT
+*As Raziel exits the time-streaming chamber, he realizes that Moebius has deceived him.
+*Rather than arriving in Nosgoth's past, he has been propelled into its ghastly future. The
+*Stronghold is derelict, abandoned and overrun by demons.
+*As he departs, Raziel encounters the spectre of Moebius, dead now for a century following
+*his murder at Kain's hands.
+*Moebius greets Raziel in an anguished, withered voice –
+#MOEBIUS
+Raziel...
+*
+#RAZIEL
+What pathetic charade is this now, Moebius?
+*
+#MOEBIUS
+No charade, Raziel. Only the entreaties of this martyred spirit.
+*
+#RAZIEL
+Your pleas mean nothing to me, after all your deceit.
+You have propelled me into Nosgoth's future, Moebius – and left me stranded here.
+*
+#MOEBIUS
+I am truly sorry, Raziel, but it was necessary. Consider it the last valiant act of a
+doomed man.
+You have strayed from your purpose, and now behold the result – gaze upon the wasteland you
+and Kain authored together!
+*
+#RAZIEL
+I fail to see how I'm responsible –
+*
+#MOEBIUS
+You spared Kain! And by doing so, you have released a multitude of horrors upon this world.
+I can accept that Kain has murdered me, Raziel. As the Time Guardian, I foresaw that
+incident long before it occurred.
+And I take some small comfort in the fact that Kain remains the sole survivor of his vile
+breed.
+But you have single-handedly made my sacrifice meaningless.
+*
+#RAZIEL
+Your argument is disingenuous, Time-Streamer.
+I cannot see how killing or sparing Kain's future self would alter these events.
+This wasteland was created by Kain's original refusal at the Pillars – and amidst all these
+twists and turns, that event has never changed.
+You are cunning, Moebius – but I think you've gotten tangled in your own web.
+*
+#MOEBIUS
+As Kain clings to his precious seat of power, the Pillars sink into a mire of decay,
+dragging all of Nosgoth down with them!
+*
+#RAZIEL
+I don't think this has anything to do with the Pillars or Kain's failure to sacrifice
+himself.
+I think you're simply afraid – because you don't know what he's up to.
+He's a wild-card, isn't he, and you don't want his influence in your game.
+Which is why you wanted me to eliminate him.
+Now that he's survived, you have no idea what's coming, do you? Maybe for the first time in
+your entire life.
+You're terrified that he may have truly found a third option out of the dilemma you
+orchestrated for him.
+*
+#MOEBIUS
+Kain's lies have addled your mind.
+Leave this place, and trouble my spirit no more!
+*
+*Incredulous, Raziel taunts Moebius –
+#RAZIEL
+If you even are a spirit.
+You've forgotten I have a way to tell for sure...
+[Raziel grabs his cowl as though prepared to devour Moebius's soul –
+...if you're willing to risk it.
+*
+*Moebius scowls at Raziel, and vanishes.
+#RAZIEL
+I didn't think so.
+Either way, you lose.
+*
+*
+*
+*
+*
+*
+-CHAPTER 11 – ARIEL'S LAMENT
+*Stranded now in Nosgoth's nightmarish future, Raziel enters the ruined Pillars clearing
+*and sees the devastation wrought by Kain's fateful decision a century ago. Toppled columns
+*litter the clearing, their sheared-off stumps protruding crookedly, like broken teeth.
+*Raziel stands in stunned silence for a moment as he surveys this apocalyptic scene.
+#RAZIEL V.O.
+These were the Pillars so familiar to my blighted eyes.
+But now that I had begun to learn their true significance, I regarded the Pillars'
+destruction with a new, enlightened sense of horror.
+And I questioned now whether Kain's simple refusal – his mere ambition – could truly have
+caused such devastation.
+I felt that some darker influence was at work here.
+*
+*In the gloom, Raziel sees the spectre of Ariel drifting restlessly among the toppled
+*Pillars.
+#RAZIEL V.O.
+As I approached, I discerned the spirit of Ariel – bound here now for more than a century.
+*
+*As Raziel approaches, he hears Ariel lamenting to herself, unaware of his presence.
+#ARIEL
+Forever am I bound, hope abandoned, my spirit tethered to this place...
+What destroyed the Circle could not touch me. For I was newly dead, and beyond harm's
+reach.
+I alone was spared the descent into madness, and Kain alone was spared the pain of death.
+When Nupraptor's poison seized Kain even in the safety of the womb, much more than just
+his destiny was lost. All of Nosgoth lost Balance.
+Consider us now... both of us less than we once were.
+I, pure but insubstantial; and Kain terribly real, but corrupted.
+*
+*Raziel interrupts Ariel's reverie, and she turns in alarm.
+#RAZIEL
+Your imprisonment here has deranged you, spirit.
+You fixate on Kain because you believe he is the tether that binds you here. But we both
+know he is not the author of your agony.
+The Pillars were subverted by dark forces, invited by the Guardians themselves.
+The more I learn of your Circle, the more I see a tangle of nested manipulations.
+*
+*Ariel responds angrily –
+#ARIEL
+Kain handed them their victory.
+They sought to topple the Pillars, and he was their willing instrument.
+*
+*Raziel interrupts, challenging her –
+#RAZIEL
+Or was he their unwilling pawn?
+Would it blunt your wrath to know that Kain's dilemma was calculated to bring the Pillars
+down, regardless of the choice he made?
+And that the devastation would have been even greater had he chosen the path you would
+prescribe for him?
+*
+#ARIEL
+You are a subtle, deceitful creature.
+But your clever arguments do not absolve Kain.
+He must die for the Pillars to be restored; there is no other way.
+*
+#RAZIEL
+Then consider this more ominous possibility – what if Kain's death does not restore the
+Pillars?
+Consider that it may simply be too late. That this world may be beyond redemption.
+And that you may be bound here eternally.
+*
+*Distraught, Ariel flees into the spirit realm, unaware that Raziel is able to follow.
+*Raziel shifts into spectral and startles her as she cowers behind the Balance Pillar.
+*Cornered and miserable, Ariel implores Raziel –
+#ARIEL
+Why do you hound me, demon?
+You can see that I am captive here. Show me some mercy.
+*
+#RAZIEL
+Like the mercy you showed your fellow Guardians when you set Kain on them?
+Or the mercy you showed Kain when you kept him ignorant of his destiny while you used him
+as the scourge of the Circle?
+Or perhaps like the mercy you showed your beloved Nupraptor when you made him Kain's first
+kill?
+*
+#ARIEL
+You are cruel. Why do you torment me?
+*
+*Weary of this, Raziel relents –
+#RAZIEL
+I'm merely looking for answers, Ariel.
+Very well – I'll leave you in peace.
+But know this – about you, and this purgatory from which you long to escape...
+...you're merely at the threshold.
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+-CHAPTER 12 – RAZIEL DEFIES THE ELDER
+*Raziel revisits the subterranean Pillars grotto after having been propelled over a
+*century into Nosgoth's ghastly future. He is shocked to discover how the Elder God has
+*encroached into the chamber – its tentacles wind chokingly around the shattered Pillars,
+*and the room's murals have been nearly obliterated by the passage of its grasping limbs.
+*The Elder God greets Raziel disdainfully –
+#ELDER GOD
+Raziel, the failed assassin.
+You had Kain at your mercy but lacked the courage to fulfill the act.
+And now you see the wasteland wrought by the tyrant's hand. By his selfish decision to
+preserve his own life, even when it meant sacrificing the whole world.
+This is the fate of Nosgoth, as long as Kain remains alive.
+*
+#RAZIEL
+An ironic condemnation, given this guilty scene.
+One would think you'd torn down the Pillars single-handedly.
+What are you trying to obliterate as you drag your loathsome body through this chamber?
+And why, as Nosgoth descends into madness and misery, do you appear to thrive?
+Things in this world, I am learning, are rarely what they seem.
+You, apparently, are no exception.
+*
+#ELDER GOD
+[(angrily)
+I am the Engine of Life, the source of Nosgoth's very existence.
+I am the hub of the Wheel, the origin of all Life, the devourer of Death.
+*
+#RAZIEL
+...or maybe you're just hungry – could it be as simple as that?
+Wouldn't that be poetic irony? The great adversary of the vampires turns out to be the
+biggest parasite of them all.
+*
+#ELDER GOD
+Do not test my patience, Raziel.
+I made you, and I will unmake you if I become so inclined.
+*
+#RAZIEL
+[(mocking)
+As your agent, I am beyond death.
+*
+#ELDER GOD
+There are fates worse than death, Raziel.
+*
+*Raziel responds with disgust –
+#RAZIEL
+Oh, I see you now as you truly are.
+A cancer – a spooling parasite burrowed deep in the heart of this world.
+*
+#ELDER GOD
+[(ominously)
+Go now.
+Play out your pitiful rebellion, and take your place among the destroyed, the used, and the
+damned.
+But know this – you are mine for eternity.
+You have always been, and will always be, my soul reaver...
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+-CHAPTER 13 – THE RUINED AERIE
+*Exploring the blasted landscape of Nosgoth's future, Raziel discovers the ruins of an
+*ancient cliff-dwelling civilization. The majestic facades are collapsed and toppled, as
+*though some great upheaval occurred here ages ago.
+*Raziel stands on a terrace beneath the cliffs, surveying the devastated architecture.
+#RAZIEL V.O.
+This edifice was clearly not crafted by human architects. As the figure beneath the balcony
+silently attested, these were the aeries of winged beings.
+Undoubtedly, I stood before the mountain refuge of the legendary Janos Audron – but the
+entire sanctuary lay in ruin, collapsed under the force of some ancient cataclysm.
+As I suspected, the Time Streamer's deception ensured that I was centuries too late to
+unearth anything of consequence here.
+*
+*Raziel scans the ruined canyon, and sees a narrow pass leading off to the west.
+#RAZIEL V.O.
+With nothing behind me but the wasteland I had traversed, I resolved to press on and
+explore these canyons further.
+*
+*Hearing footsteps behind him, Raziel turns to see Kain approaching.
+*He acknowledges Kain wryly –
+#RAZIEL
+Oh, no. Every time you turn up something monumental and terrible happens.
+I don't think I have the stomach for it.
+*
+#ΚΑΙΝ
+[(laughs softly)
+No drama this time, Raziel.
+*
+#RAZIEL
+You are persistent, crossing time like this to follow me.
+Still waiting for that coin of yours to land on its edge?
+*
+*Kain joins Raziel on the terrace overlooking the canyon.
+#KAIN
+I'm biding my time.
+*
+*He glances up at the ruined balcony above –
+#KAIN
+I see that Moebius has played a little trick on you.
+*
+#RAZIEL
+Yes – he clearly doesn't want me to meet this 'Janos Audron'.
+*
+*Kain looks away thoughtfully –
+#ΚΑΙΝ
+Perhaps...
+[Then, with sarcasm –
+Or maybe he merely hoped that it would harden your heart against me to see this wasteland
+which I single-handedly authored.
+*
+#RAZIEL
+My heart doesn't need hardening, Kain.
+If I even suspected that destroying you would make any difference, I would do it this
+instant.
+*
+#ΚΑΙΝ
+[(laughs approvingly)
+I knew you'd see through them, Raziel.
+Janos is indeed the key to your destiny, but you'll need to find your own way back into
+Nosgoth's past.
+Make no mistake though, Raziel – you and I are now in great danger.
+We are irritants here – malevolent forces are being marshaled to eliminate us.
+*
+#RAZIEL
+You talk as though we're allies.
+*
+#ΚΑΙΝ
+Regardless of your sentiments, Raziel, in their eyes – we are.
+*
+#RAZIEL
+Well, they're certainly trying to eliminate you, Kain, there can be no doubt of that.
+I am assaulted relentlessly with demands for your demise.
+Whatever it is that you're plotting, they're scared to death of you.
+As for me, I suspect they made a grave error when they allowed my unique resurrection.
+I don't think they know how to destroy me.
+*
+#ΚΑΙΝ
+You mustn't underestimate them, Raziel.
+*
+#RAZIEL
+And who exactly is this diabolical 'they' to which we keep referring?
+If there's some grand conspiracy going on, the right hand doesn't appear to know what the
+left is doing.
+Even Moebius seems to be caught out at every turn.
+*
+#ΚΑΙΝ
+Moebius is a puppet, Raziel – haven't you realized that yet?
+That's the sweetest irony in all of this – Nosgoth's 'great manipulator' is their
+plaything.
+But the ones pulling the strings haven't shown their faces, yet.
+*
+#RAZIEL
+They don't like us unwriting their carefully choreographed history, though, do they?
+*
+*Kain corrects Raziel –
+#ΚΑΙΝ
+You must understand, Raziel – we haven't unwritten history, we've merely rewritten it.
+The future flows around our petty actions, finding the path of least resistance while
+admitting only the slightest alterations.
+This is the reshuffling you felt, when you refused to kill me.
+And remember, Raziel, we are irritants in this regard, as well – history will not allow the
+introduction of a paradox.
+*
+#RAZIEL
+And if events cannot be reshuffled to accommodate the change?
+*
+#ΚΑΙΝ
+It is the irritant who's expelled.
+Bear in mind that this may be exactly the outcome our enemies are trying to provoke.
+We must tread very carefully.
+*
+*With this admonition, Kain vanishes.
+-CHAPTER 14 – THE TENTH GUARDIAN
+*Having finally reached the summit of Janos Audron's balcony chamber, Raziel enters the
+*room cautiously. He has traversed Nosgoth and crossed time to meet this being, but has
+*no idea what to expect – whether Janos is the monster depicted by the Sarafan, or one of
+*the noble figures memorialized among the ruins of the ancient vampires.
+*As he enters, Raziel discerns a striking, winged figure standing at the far end of the
+*chamber, silhouetted by the wintry, morning light filtering in from the canyon beyond.
+*Raziel addresses the winged figure tentatively –
+#RAZIEL
+Janos Audron?
+*
+*Janos turns slowly at the sound of Raziel's voice –
+#JANOS
+It is heartening, after all these years, to hear my name spoken without contempt.
+*
+*As he turns, his features are illuminated by the fire-lit glow of the chamber. This is not
+*the demonic creature depicted in the Stronghold – Janos is darkly beautiful, and radiates
+*a sense of priestly detachment, and long-suffering patience.
+*Janos appears to recognize Raziel, but regards him with horror and pity. Raziel's features
+*are vaguely vampiric – his blue skin, cloven hands, and wings – but this emaciated, ragged
+*spectre looks as though he has been nearly destroyed.
+#JANOS
+Raziel?
+My child, what have they done to you?
+*
+#RAZIEL
+I have been dragged through hell and back – all, it seems, to reach this moment.
+But I don't yet know why.
+*
+*Janos speaks haltingly, as though not sure where to begin –
+#JANOS
+For thousands of years, I have waited... alone here, losing faith...
+At the time of the Binding, nine guardians were called to serve the Pillars. And I was
+summoned as the tenth guardian – the keeper of the Reaver, the weapon of our salvation.
+Over time, our race died out. Until I alone remained... sustained only by my obligation to
+you, and by my guardianship of the blade.
+*
+*Janos turns and walks contemplatively toward the balcony –
+#RAZIEL
+And the other nine? Why did their guardianship not sustain them?
+*
+*Janos considers for a moment, then responds wistfully –
+#JANOS
+I don't know.
+*
+*Janos gazes beyond the balcony pensively as he recounts the vampires' history –
+#JANOS
+As our race dwindled, the humans prospered. I have watched, over the centuries, as our
+history faded into myth, and finally receded altogether.
+The humans have forgotten us entirely, and claimed the Pillars for themselves – wholly
+ignorant of their true purpose.
+To them, I am merely a devil; the origin of their vampire 'plague'.
+*
+*Raziel approaches inquisitively –
+#RAZIEL
+Why would the Pillars summon human guardians, then, if they are meant to be served by
+vampires?
+*
+*Janos walks to the edge of the balcony as he replies, gesturing for Raziel to follow –
+#JANOS
+The Pillars choose their guardians from birth, Raziel – and vampires are no longer born.
+This is the crux of our dilemma.
+And this is the terrible irony – with their vampire purge, the members of the Circle have
+assaulted the very architects of the Pillars they are sworn to protect.
+They have embarked on a treacherous path. With every vampire they kill, the humans are
+slitting their own throats.
+*
+*Janos and Raziel stand together at the edge of the balcony, looking out at the canyon
+*below. Janos continues, speaking softly –
+#JANOS
+They know I'm up here, beyond their reach, and it terrifies them.
+*
+*Janos gestures toward the panorama of Sarafan slaughter, below. A number of impaled
+*vampire corpses litter the canyon, planted here to defy and intimidate Janos.
+#JANOS
+You can see how they flaunt their kills to torment me... or perhaps simply to lure me out.
+They have this foolish notion that destroying me will somehow topple our entire bloodline.
+Thankfully, we're not that fragile.
+*
+#RAZIEL
+I have seen them mustering their forces in the village, below.
+*
+#JANOS
+Yes. I don't know what they're plotting... but I fear our time may be bitterly short.
+*
+#RAZIEL
+Mankind seems to have brought you only torment and grief.
+You must hate them.
+*
+*Janos responds slowly, considering –
+#JANOS
+They fear what they don't understand; and they despise what they fear.
+But no – I do not hate them.
+*
+#RAZIEL
+Vorador does.
+*
+#JANOS
+He has suffered much. He cannot forgive them.
+*
+#RAZIEL
+Should they be forgiven?
+*
+#JANOS
+They don't understand what they're doing.
+They are simply unenlightened... and vulnerable to manipulation.
+*
+*Raziel considers this silently for a moment, then voices the question that's been
+*tormenting him –
+*
+#RAZIEL
+So it's all true, then – what Kain and Vorador have told me – I really am some kind of
+unholy vampire messiah...
+*
+*Janos gently corrects him –
+#JANOS
+Unholy? – no. Messiah... perhaps.
+*
+#RAZIEL
+I don't like that word – it smells of martyrdom.
+*
+#JANOS
+Raziel, your role in this world's destiny is more crucial – and more benevolent – than
+you've allowed yourself to believe.
+Your journey will not be easy – dark powers are allied against you.
+[Janos pauses, considering Raziel's ragged appearance –
+But I think you already know this... you appear to have been cruelly tested.
+[Janos turns back toward the interior of the chamber.
+The Binding must be secured, Raziel.
+The Pillars are the lock –
+*
+*Following him, Raziel completes the thought –
+#RAZIEL
+– and the Reaver is the key.
+*
+#JANOS
+Yes.
+*
+*Janos approaches a decorative chest set against the wall, and opens it – revealing the
+*Reaver, ensconced like a holy relic.
+*Raziel becomes strangely apprehensive. Each time he has encountered the Reaver during his
+*journey, he has experienced a sense of displacement, the distortion caused when two
+*incarnations of the Reaver meet in time and space. And now, inexplicably, he feels
+*nothing. As disconcerting as the temporal distortion feels, this nothingness is somehow
+*worse...
+*Troubled, Raziel wonders quietly to himself –
+#RAZIEL
+The Reaver is here? Why do I feel nothing?
+*
+*Janos lifts the blade reverently and turns to Raziel, presenting it to him.
+#JANOS
+The most formidable weapon ever forged by our swordsmiths...
+They infused the blade with vampiric energy, empowering the Reaver to drain our enemies of
+their precious lifeblood.
+*
+#RAZIEL V.O.
+As Janos presented the blade, an inexplicable sense of dread crept over me, more palpable
+than anything I'd felt before.
+I was at once horribly repelled by the sword and yet irresistibly compelled to touch it, to
+take it up.
+*
+*Raziel refuses the blade with trepidation –
+#RAZIEL
+Please – take it away from me.
+*
+*At once, from the hallway comes the unmistakable sound of armored soldiers rapidly
+*approaching. With sudden, sick recognition, Raziel realizes that by blazing a path for
+*himself through the Retreat, he has unwittingly exposed Janos to the Sarafan.
+*Janos appears dismayed, but oddly resigned –
+#JANOS
+I fear you have been followed...
+*
+*With this, the door crashes open, and a squad of Sarafan warriors burst into the room.
+*Their leader is armed with a cruel-looking weapon, and they have come bearing Moebius's
+*staff – Raziel realizes at this moment that he has been duped and betrayed.
+*Raziel charges forward to defend Janos from the Sarafan, but Janos restrains him –
+#JANOS
+You must save yourself, Raziel.
+*
+*Janos lays his hands upon Raziel, intent on conveying him safely away from the chamber.
+*Raziel resists –
+#RAZIEL
+Janos – no!
+*
+*But his protests are in vain. The room recedes dizzyingly, as Raziel is propelled into an
+*adjacent chamber within the Retreat – safely away from the Sarafan, and helpless to save
+*Janos.
+*
+#RAZIEL V.O.
+My surroundings whirled sickeningly, and I found myself transported safely away from
+the ambush, to an adjacent chamber.
+Janos had delivered me from the Sarafan, selflessly forfeiting his own safety to preserve
+my life.
+And now I feared that my newfound mentor would be slaughtered by the very crusaders I had
+so recently revered.
+The irony pierced me, and with dawning horror I realized that I had been duped by Moebius
+from the beginning...
+For the Sarafan had simply followed the path I gullibly blazed through this sanctuary, and
+had arrived bearing Moebius's staff. Thus armed, they had Janos at their mercy.
+Through the door, I could hear them battling, less than a dozen paces away – but it may as
+well have been a thousand miles, for this barrier was sealed by elemental forces I did not
+possess.
+It seemed Janos had conveyed me into the heart of the Fire shrine. I thought perhaps if I
+could galvanize the forge and imbue the Reaver in time, I might have a slim chance of
+saving Janos from his grisly fate.
+*
+*
+*
+-CHAPTER 15 – THE DEATH OF JANOS AUDRON
+*Imbuing the Reaver with the elemental power of fire, Raziel is finally able to unlock the
+*sealed door which separates him from Janos and his assassins. Raziel rushes through the
+*door as it slowly slides open, and races toward Janos' chamber.
+*Having rendered Janos helpless with the aid of Moebius's staff, the Sarafan have the
+*ancient vampire pinned to the table.
+*As Janos struggles against his captors, the head inquisitor commands his fellow Sarafan –
+#SARAFAN RAZIEL
+Hold him!
+*
+*Savoring the moment, the inquisitor raises his cruel-looking blade – then, bringing it
+*down violently, he rips Janos' chest open.
+#JANOS
+[(screams in agony)
+*
+*Raziel reaches the threshold of the chamber too late. He watches in horror as the
+*inquisitor reaches into Janos' open chest cavity and tears out his living heart.
+*He raises it triumphantly for the other Sarafan to see –
+#TUREL
+Look at his black heart, how it still beats!
+*
+*Raziel prepares to leap into the fray, and then is frozen – as the head inquisitor turns,
+*raising the heart, Raziel gets a clear look at the man's face. And he realizes that he has
+*just watched himself – his former, Sarafan self – murder Janos.
+*Raziel and his Sarafan alter-ego lock eyes on each other – Raziel gaping in horror upon
+*recognizing his former self, and Sarafan Raziel strangely haunted by the appearance of the
+*demonic figure before him.
+*As Janos begins to die, a tremor shakes the Retreat. The chamber rocks with the impact,
+*and begins to collapse under the strain.
+#DUMAH
+[(alarmed)
+The fiend intends to bury us alive!
+[Then, trying to break their leader out of his trance –
+Raziel, we must get out of here!
+*
+*Sarafan Raziel cannot tear his eyes from this demonic apparition. With his gaze still
+*locked on Raziel, he commands his fellow Sarafan –
+#SARAFAN RAZIEL
+Remember the sword!
+*
+*Dumah grabs up the Reaver, and with the sword and Janos' heart in their possession, the
+*Sarafan rush out of the chamber just as the entire Retreat threatens to collapse around
+*them.
+*Heedless of the retreating Sarafan, Raziel leaps down to where Janos lies dying –
+*incredibly, the ancient vampire is still alive, but only barely. Raziel kneels
+*disconsolately beside him – bereft at the loss of his new-found mentor, and horrified at
+*this latest epiphany: that he himself was Janos' murderer.
+#RAZIEL
+Forgive me; I'm sorry... I failed you.
+*
+#JANOS
+[(gently)
+No, Raziel.
+Perhaps this was my true purpose – simply to save your life this once.
+*
+#RAZIEL
+[(distraught)
+While I have taken yours...
+*
+#JANOS
+[(dying)
+Embrace your destiny, Raziel...
+You must reclaim the Reaver – it was forged for you and you alone...
+Without it, there is no hope...
+*
+*Janos dies, and the Retreat is rocked again by a powerful quake. The chamber's vaults
+*collapse as their support beams crumble, and the exits are filled by cascading rubble.
+*As the tremors subside, Raziel rises and steps slowly away from Janos' corpse, horrified
+*by these new revelations, and nursing a growing ember of hatred.
+#RAZIEL V.O.
+As I backed away from Janos' body, I was overwhelmed by a sense of self-loathing so deep,
+I could barely contain it.
+In that instant, I rejected all that I ever was, and embraced the role Janos had
+safeguarded for me so patiently throughout the centuries.
+I knew then what I had to do – the task for which I was uniquely prepared...
+[Walking slowly to the edge of the balcony, Raziel gazes out upon Nosgoth's landscape.
+I would pursue the Sarafan dogs to their loathsome fortress, and avenge Janos Audron's
+murder.
+Moebius would pay dearly for his treachery, and my Sarafan brethren would reap the horrors
+they had sown.
+I would retake the stolen Reaver, which was rightfully mine.
+And finally, when all these debts had been paid, I would reclaim Janos Audron's heart from
+their filthy, unworthy hands.
+If the heart was truly imbued with the power to restore vampiric unlife, its highest
+purpose was clear to me...
+I would restore the heart to Janos, and thus undo the vile crime committed by my abominable
+former self.
+*
+*As Raziel stands on the balcony, the canyon is shaken by a final, massive tremor. He leaps
+*clear of the tumbling wreckage just before the vaults of Janos' chamber collapse
+*completely.
+*Gliding safely into the canyon below, Raziel turns and looks up to see that the façade of
+*Janos' mountain aerie has been reduced to rubble.
+*
+*
+*
+- CHAPTER 16 – THE FINAL TRANSGRESSION
+*Having renounced his Sarafan heritage, Raziel trails his former brethren back to the
+*Stronghold to avenge Janos Audron's murder. In the course of his pursuit, Raziel visits
+*the subterranean Pillars chamber for the last time.
+*The Elder God greets him with ominous finality –
+#ELDER GOD
+You have failed me, Raziel.
+*
+#RAZIEL
+I wonder, Old One...
+Did you truly resurrect me, or were you simply there when I awakened from my torment in the
+Abyss?
+I suspect you found me merely convenient. Dropped in your lair by Kain, indestructible for
+some reason. A durable and gullible tool for you to manipulate.
+This one thing I readily admit – I have been used by others time and again. But always I
+seem to stray from their path... what is it about me, Demon, that makes me such an
+unreliable instrument?
+Why do I survive one trial after another... on and on in an endless succession of
+humiliating deaths and resurrections? It seems there is much more to my destiny, and my
+history, than I know.
+Perhaps more than you know, as well...
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+-CHAPTER 17 – CORNERED IN THE STRONGHOLD
+*Raziel has pursued the Sarafan to their Stronghold, resolved to avenge Janos Audron's
+*murder, recover his heart, and reclaim the stolen Reaver. Charging through the
+*Stronghold's corridors, Raziel finds himself at a dead end, in an antechamber off of the
+*cloister.
+*The Reaver is here, laid out across a basin in the center of the room – as if propped here
+*for Raziel to discover.
+*Raziel stops short – for here is the blade that stirred such unsettling premonitions when
+*Janos presented it to him. As before, he feels no distortion in its presence, which
+*troubles him – he is repelled and afraid, yet irresistibly drawn toward the sword.
+#RAZIEL V.O.
+Suddenly and inexplicably, I discovered the Reaver, suspiciously laid across my path.
+Again, I sensed nothing of that 'temporal distortion,' the peculiar sense of displacement
+I had felt when I encountered the Reaver in William's chapel.
+Cornered here with the blade, I suffered the same nameless dread that I had experienced
+when Janos first presented the Reaver to me.
+I felt at once repelled by the blade, and yet overwhelmingly compelled to seize it.
+*
+*Suddenly Moebius and the Sarafan Malek appear in the doorway behind Raziel, cutting off
+*his exit. He's been ambushed.
+*Wheeling on them, Raziel summons the wraith-blade – but Moebius has arrived bearing his
+*staff, and as the orb flares, the wraith-blade flickers and dies.
+*Moebius's demeanor has changed dramatically since their last encounter. Gone are all signs
+*of the sniveling, pandering magician – Moebius is cold, focused, and completely in
+*control.
+#MOEBIUS
+So, Raziel – here we are, finally.
+You have no choice but to confront me now – and I am not so foolish as I've let you
+believe.
+We have business to conclude.
+*
+#RAZIEL
+[(enraged)
+You knew I would lead the Sarafan to Janos, you vile bastard!
+You've been orchestrating my every move!
+*
+#MOEBIUS
+[(simply laughs)
+*
+#RAZIEL
+My destiny is an amusement to you?
+*
+#MOEBIUS
+It was fun, while it lasted.
+*
+*Raziel takes a threatening step forward, and Moebius motions to Malek.
+#MOEBIUS
+I think not, Raziel.
+Malek, do not let this creature leave. He poses a danger to the Circle.
+[Malek steps in front of Moebius, brandishing his pike –
+Poor, deluded Raziel... did you somehow imagine you had the guile to change history on me?
+I'm the Time-Streamer – I knew your every intention before you did, you imbecile.
+*
+*Suddenly, the sounds of a far-off disturbance echo through the chamber. Screams, terrified
+*cries for Malek, and the unmistakable laughter of the vampire Vorador reverberate through
+*the stone corridors.
+#VORADOR
+[(in the distance)
+Call your dogs – they can feast on your corpses!
+*
+*Malek turns instinctively, prepared to defend the Guardians he has sworn to protect – but
+*Moebius calmly raises a hand to restrain him. Malek entreats him –
+#MALEK
+Lord Moebius, there is trouble within. The Circle is under attack –
+*
+#MOEBIUS
+[(cold, focused)
+Hold fast, Malek.
+This one is the real danger to us.
+*
+*Raziel backs slowly toward the basin where the Reaver is laid out.
+#RAZIEL
+What are you trying to concoct here, Moebius?
+*
+#MOEBIUS
+[(hatefully)
+You toxic creature – did you imagine I'd simply allow you to run loose, corrupting
+everything you encounter?
+*
+#RAZIEL
+I admit that I've underestimated you to this point, Moebius – but it's a mistake I won't
+repeat.
+*
+*With his wraith-blade disabled by the influence of Moebius's staff, Raziel has no choice
+*but to take up the Reaver. He grabs the hilt and advances on Moebius and Malek.
+*This is the moment Moebius was waiting for –
+#MOEBIUS
+[(ominously)
+Wrong again, Raziel.
+*
+*Moebius and Malek back out of the open doorway.
+#MOEBIUS
+Now, Malek – bolt the door!
+*
+*Raziel rushes forward, but the portcullis slams down just as he reaches the door.
+*Turning back toward the chamber, he contemplates the Reaver now clutched in his grasp, and
+*realizes that he has no choice but to press forward into the cloister.
+#RAZIEL V.O.
+Using his staff to disable my wraith-blade, Moebius effectively disarmed me, leaving me
+with only one choice of weapon.
+And yet I confess, it was not the lack of options, but blind rage that made me take up the
+Reaver – in my fury, it felt as though my hand had acted of its own will.
+And now that same hand clutched the hilt with unyielding strength – and I felt a
+constrained tingling, a remote but palpable sense of longing as the disabled wraith-blade
+tried vainly to embrace its physical twin.
+*
+*
+*
+*
+*
+*
+*
+-CHAPTER 18 – VENGEANCE
+*As Raziel pursues the Sarafan through the Stronghold, he confronts each of his former
+*brethren in turn, exacting revenge for Janos' murder. After being ambushed by Moebius and
+*Malek, Raziel proceeds cautiously into the cloister, now armed with the Reaver. Here he
+*encounters Melchiah and Zephon, who have apparently been dispatched to confront him here.
+#ZEPHON
+Come to take your revenge, demon?
+*
+#MELCHIAH
+Back to hell with you!
+*
+*Raziel looks upon his former brethren with disgust, relishing his advantage over them.
+#RAZIEL V.O.
+I recognized these two as my former brethren... in life, as Sarafan; and in unlife, as
+Kain's vampire 'sons.'
+Melchiah and Zephon, the weakest of Kain's brood... These bastards had no idea what future
+lay in store for them – how they would become the very thing they so despised.
+The Reaver hummed with ravenous anticipation – Janos had called it a 'vampiric' blade,
+endowed with the power to drain its victims of their lifeblood.
+I was eager to see what the Reaver would do to these two...
+*
+*The battle ensues, and the two Sarafan fall easily before the power of the Reaver.
+*With his former brothers-in-arms lying dead at his feet, Raziel revels in the intoxicating
+*power of the Reaver.
+#RAZIEL V.O.
+As Melchiah and Zephon fell before my blade, I felt the Reaver's blood-thirst as keenly as
+I ever had when I was still a vampire.
+I could sense the boundary between us dissolving – the Reaver was consumed with my rage,
+and I was intoxicated by its bloodlust.
+The blade had a vitalizing effect on me – my physical energy no longer decayed over time,
+and the wounds inflicted by my foes healed almost instantly.
+The Reaver had made me invincible.
+*Raziel proceeds into the Stronghold's main Sanctuary, where he discovers Rahab and Dumah
+*waiting for him.
+*
+#DUMAH
+Have you come to reclaim the monster's black heart?
+*
+#RAHAB
+You'll have to get through us, first.
+*
+*Raziel readies the Reaver eagerly, savoring his newly-discovered role in their ultimate
+*destinies.
+#RAZIEL V.O.
+My former brethren Dumah and Rahab confronted me next – this all seemed so elegantly
+choreographed.
+Exhilarated by the Reaver, I was drunk with revelations...
+I could finally appreciate the delicious irony of Kain's blasphemous, private joke – and I
+reveled as I colluded with him across the centuries.
+For it was I who put these bastards in their tomb – thus providing the corpses for Kain to
+raise as his vampire sons a millennium from now.
+*
+*Upon defeating Dumah and Rahab, Raziel proceeds into the choir of the Sanctuary. Here,
+*finally, Raziel is confronted by Turel – his former second-in-command, both as Sarafan and
+*vampire.
+*Turel advances on Raziel with self-righteous contempt –
+#TUREL
+Get back to the pit you crawled from, demon!
+*
+*Raziel regards his former brother-in-arms derisively –
+#RAZIEL V.O.
+And here at last was my brother Turel, who along with Dumah would bear me into the Abyss
+without questioning Kain's command.
+So dutiful and righteous, even as a vampire... I guess some habits die hard.
+The vampire Turel had eluded my vengeance; the Sarafan Turel would not.
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+-CHAPTER 19 – RENUNCIATION
+*Armed with the Reaver, Raziel has confronted and slain each of his former Sarafan brethren
+*in turn. Entering the Chapter House of the Stronghold, he finally comes face to face with
+*his former self – the Sarafan Inquisitor Raziel, who has apparently been waiting for him
+*here.
+*As he crosses the threshold, the portcullis slams down behind him – this is clearly a
+*trap, calculated to channel Raziel into combat with the most formidable of the Sarafan
+*commanders.
+*The Inquisitor addresses Raziel with self-righteous disdain, blissfully ignorant of this
+*demonic creature's true identity.
+#SARAFAN RAZIEL
+[(hatefully)
+So, vampire – here we are.
+You've destroyed my brethren – and now you've come for me?
+You'll find I am not such easy prey.
+*
+#RAZIEL
+I don't want to kill you, but I will if I must.
+Return the heart to me, and we can end this now.
+*
+#SARAFAN RAZIEL
+[(mocking)
+So you've come to avenge that filthy parasite, and reclaim his foul heart?
+You're a righteous fiend, aren't you?
+*
+#RAZIEL
+[(referring to Sarafan Raziel)
+Apparently I am.
+*
+#SARAFAN RAZIEL
+[(icily)
+No, vampire. This is where it ends, but you won't be leaving this room.
+Now, let's finish this – I'll make it mercifully quick.
+*
+#RAZIEL
+As you did for Janos.
+*
+#SARAFAN RAZIEL
+[(laughs coldly)
+No, that beast had eluded us for far too long.
+It would have been a shame to end him too quickly.
+[He continues, goading Raziel into battle –
+It's ironic, really – the 'great Janos Audron' turned out to be no challenge at all...
+thanks to you.
+Did you hear his cowardly screams when I tore that black heart out of his carcass?
+*
+*Raziel can no longer contain his rage – raising the Reaver, he lunges at the Sarafan
+*Inquisitor.
+-CHAPTER 20 – FULL CIRCLE
+*The Sarafan Inquisitor is defeated, and as he staggers, Raziel runs him through with the
+*Reaver. Transfixed on the blade, Sarafan Raziel chokes and gasps as his lifeblood is
+*drained from his body. Face to face in this deadly embrace, Raziel curses his former self
+*with the solemnity of an oath –
+#RAZIEL
+[(with revulsion and finality)
+I renounce you.
+*
+#SARAFAN RAZIEL
+[(gasping and dying)
+*
+*The Sarafan Inquisitor collapses to the floor, and the Reaver blade slides free of his
+*body.
+#RAZIEL
+[(quietly, to himself)
+And so it ends. My history comes full circle.
+*
+*As Raziel stands over the corpse of his former self, the wraith blade begins to manifest,
+*its power gradually returning. Raziel watches in growing alarm as the wraith blade
+*abandons its symbiotic grip on his arm, and coils itself around its twin – its former,
+*physical self – instead.
+*
+#RAZIEL V.O.
+Sensing its twin, the wraith blade uncoiled itself from me – and instead wound lovingly
+around its former self.
+I felt its grip loosen, and as the blade left me, its absence chilled me more than its
+presence ever had.
+A foreboding sense of emptiness and loss stole over me... and a terrible revelation
+gathered like a storm at the edge of my awareness...
+*
+*Thus joined, the twinned Reavers turn on Raziel – with the blade still bound to his hand,
+*Raziel is dragged helplessly as the Reaver exerts its own will. Raziel struggles, but is
+*powerless to resist the blades as they turn inexorably toward him.
+#RAZIEL V.O.
+[(a horrible epiphany)
+With all other foes exhausted, the conjoined blades turned themselves on me. And I
+realized, finally, why I had sensed nothing when Janos offered me the blade.
+The Reaver was never forged to be a soul-stealing weapon...
+[The Reaver plunges toward Raziel and impales him. His eyes widen in agony, despair and
+[recognition –
+...the ravenous, soul-devouring entity trapped in the blade was – and always had been – me.
+This is why the blade was destroyed when Kain tried to strike me down – the Reaver could
+not devour its own soul. The paradox shattered the blade.
+So – this was my terrible destiny – to play out this purgatorial cycle for all eternity...
+I could not bear it – despair overwhelmed me.
+*
+*Raziel falls to his knees, transfixed by the Reaver. His hand, still bound to the blade,
+*forms a perverse vicious-circle as is soul is gradually but relentlessly drained away,
+*absorbed slowly and torturously into the Reaver. Raziel strains against the blade, trying
+*vainly to escape this horrible fate.
+*At this moment, Kain reveals himself, stepping out from the shadows of the Chapter House.
+*Raziel sees him, and immediately believes he has been betrayed – that this is a trap set
+*by Kain himself.
+*Overcome with rage and agony, Raziel accuses Kain –
+#RAZIEL
+You!
+*
+*Kain approaches, watching Raziel with intense fascination. Raziel cries out in anguish –
+#RAZIEL
+Are you enjoying this, Kain?!
+*
+#ΚΑΙΝ
+[(intense)
+Don't fight it, Raziel...
+Give in to it...
+*
+#RAZIEL
+[(in agony)
+Was this your destiny for me, all along?!
+*
+*Kain urges him intently –
+#ΚΑΙΝ
+Trust me...
+*
+*Raziel's strength is fading; he begins to collapse.
+#RAZIEL V.O.
+I felt myself weakening... unable to hold on any longer. The Reaver was too strong... the
+compulsion to simply let go too great...
+*
+*Out of strength, Raziel surrenders his will. As he nears the brink of oblivion, a
+*fluttering distortion tangibly begins, and Raziel approaches a dawning revelation –
+#RAZIEL V.O.
+And then... a growing sense of vertigo, and the familiar displacement...
+...the paradoxical moment when my twinned soul hovered both outside and inside the Reaver
+blade...
+This was the instant – the glimmer of temporal distortion – Kain had been counting
+on all along.
+This was the edge of the coin – the minute flicker of probability upon which Kain had
+gambled everything.
+*
+*Kain lunges forward – and with a massive, history-defying effort, tears the Reaver from
+*Raziel's chest.
+#RAZIEL
+[(screams in agony)
+*
+*The Reaver flies across the room, and the wraith blade flickers and fades as it is
+*separated from its twin. Raziel falls forward, rescued from the threshold of oblivion,
+*but nearly completely drained.
+#ΚΑΙΝ
+Now you are free to reclaim your true destiny, Raziel.
+*
+*Gradually, the room begins to warp around them as history strains to find a course around
+*this new obstruction. As the future reshuffles itself, a look of horror slowly dawns on
+*Kain's face. With new memories blooming in his mind, Kain realizes he may have just made a
+*terrible mistake.
+#RAZIEL V.O.
+Behind Kain's eyes, I could see new memories blooming and dying, as history labored to
+reshuffle itself around this monumental obstruction...
+And I could see by the dawning horror on his face that perhaps we had strained history too
+far this time...
+...that by trying to alter my fate, he may have introduced a fatal paradox.
+*
+*Then the reshuffling begins to settle, as history finds its new course. But the horror on
+*Kain's face remains, as he realizes what price has been paid to restore Raziel's future.
+#ΚΑΙΝ
+[(quiet, awestruck horror)
+My god... the Hylden...
+...we walked right into their trap...
+[Then, with a sudden realization, Kain tries to warn Raziel –
+Raziel! Janos must stay dead!
+*
+*But Raziel, drained almost to the point of annihilation, is losing consciousness. He falls
+*to his knees, and begins to waver out of existence as he sinks into the spectral plane.
+#RAZIEL V.O.
+[(ominously)
+But Kain's warning was lost as I slipped into the spirit realm, too weak to maintain my
+physical form...
+And there, waiting for me as always, was the Reaver – the wraith blade... my own soul,
+twinned and bound eternally to me.
+And I realized that I could never escape my terrible destiny... I had merely postponed
+it.
+*
+[History abhors a paradox.

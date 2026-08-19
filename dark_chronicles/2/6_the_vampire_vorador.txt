@@ -1,0 +1,112 @@
+-챕터 6 – THE VAMPIRE VORADOR
+*As Raziel exits the Dark Forge, he comes face to face with Vorador – the ancient vampire
+*leans casually against a column at the Forge's entrance, apparently waiting for Raziel
+*to emerge.
+*
+#VORADOR
+You're a ragged excuse for a savior.
+*
+#RAZIEL
+Vorador.
+*
+#VORADOR
+I see my reputation precedes me.
+*
+#RAZIEL
+It does.
+*
+#VORADOR
+[(ironic)
+All good, I hope.
+*
+*Vorador begins to walk slowly around Raziel as he speaks, examining him. He studies
+*Raziel's cloven hands – so like his own – his blue skin, his ragged wings. Raziel stands
+*still and allows Vorador to look him over.
+#VORADOR
+I've been watching you since you emerged from that accursed stronghold.
+Strange that your arrival coincides with the corruption of the Pillars.
+But I'm wondering – are you the catalyst of these events, or the answer to them?
+*
+#RAZIEL
+[(steely)
+I don't know what you mean.
+*
+#VORADOR
+I will speak plainly, then.
+I distrust your origins, stranger. Seeing you crawl from the putrid depths of Moebius's
+Keep makes me question your purpose here.
+And what should I make of your appearance? Not human, clearly – and more demon than
+vampire.
+And the Pillars – it is no mere coincidence that your arrival in that clearing heralded the
+Pillars' decay.
+And so I ask you plainly: are you the instrument of the Pillars' destruction, or their
+salvation?
+*
+#RAZIEL
+Neither.
+*
+#VORADOR
+[(slightly annoyed)
+Very well, let us look at the other side of the coin –
+I have followed your journey, and watched as you blithely unlocked secrets that have been
+sealed and forbidden for thousands of years.
+The path you have been treading is open to only one being...
+[Vorador trails off, as he realizes –
+You don't know what you are, do you?
+*
+#RAZIEL
+I have been many things...
+If you find me ignorant, enlighten me.
+*
+*Vorador simply laughs, and turns away in disgust.
+#VORADOR
+What's the point – this world is beyond redemption.
+Let the human cattle have it.
+*
+#RAZIEL
+I would expect better than meek capitulation from you.
+*
+#VORADOR
+Centuries of persecution have taught me well.
+500 years ago, our race was nearly exterminated by the fanatical crusades of the Sarafan.
+And now the same sick drama unfolds again. In merely a decade, Moebius's cutthroat citizen
+army has nearly accomplished what the Sarafan could not.
+[(then, to himself)
+Vampires meddling in the affairs of men...
+Look where it has brought us.
+*
+*Raziel considers for a moment, then asks –
+#RAZIEL
+What am I to make of these secrets I've uncovered, then? The depictions of the winged race,
+the Pillars, and the Reaver?
+*
+*Vorador turns back to Raziel as he responds –
+#VORADOR
+Fairy tales, boy.
+The delusions of an ancient culture, clinging to hope long after the world had discarded
+them.
+Their bloodline trickled away, until only one of the Ancients remained – sustained solely
+by obligation and his unfaltering faith in the old prophesies.
+*
+*Vorador strides closer to Raziel as he speaks, until they are face to face.
+#VORADOR
+But you see, even if you are who you appear to be, it no longer matters...
+You're simply too late.
+Janos Audron – the Reaver Guardian, the last of the Ancients, and my maker – was murdered
+by the Sarafan nearly five centuries ago.
+He alone would have the answers you seek, but his secrets died with him.
+I don't know how you've come even this far without his guidance – or without the Reaver,
+stolen these 500 years ago by the Sarafan.
+I am afraid, my friend, that you – and all of us – are out of luck.
+*
+*Vorador vanishes, leaving Raziel alone on the terrace.
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
