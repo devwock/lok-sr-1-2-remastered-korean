@@ -1,24 +1,24 @@
--챕터 1 – ARRIVAL
-*Raziel has just leapt through the Chronoplast portal in pursuit of Kain, fueled by blind
-*rage and a thirst for vengeance. As his surroundings coalesce, he finds himself in a domed
-*room – similar to the Chronoplast chamber, but smaller in scale.
-*Moebius, the Time Streamer, steps forward to greet him.
+-챕터 1 – 도착
+*라지엘은 케인을 쫓아 크로노플라스트 포털을 막 통과했다, 맹목적인
+*분노와 복수심에 휩싸인채. 주변 풍경이 실체를 갖추자, 그는 돔 형태의 방 – 크로노플라스트의 방과
+*유사하지만, 규모가 더 작은 – 에 서 있음을 깨닫는다.
+*모비어스, 시간 흐름자가, 그를 맞이하기 위해 앞으로 나선다.
 #모비어스
 '여기가 어디지?'는 흔히 하는 질문이지.
 자네의 경우에는, '지금이 언제지?'가 더 적절하겠군.
 *
-*Raziel recognizes Moebius, and knows how dangerous he is. As he raises the Reaver in
-*defense, the orb on Moebius's staff flares brightly. The wraith-blade sputters out and
-*retracts, its wisps of energy dissipating completely.
-*Alarmed, and now even more suspicious of the sorcerer's motives, Raziel advances on
-*Moebius.
+*라지엘은 모비어스를 알아보았고, 그가 얼마나 위험한 인물인지도 알고 있었다. 그가 방어를 위해
+*리버를 들어 올리자, 모비어스의 지팡이에 달린 구체가 밝게 빛난다. 망령 검이 치직거리며
+*사라지고, 그 에너지의 흔적도 완전히 사라져 버린다.
+*놀라며, 이 마술사의 의도에 더욱 의구심을 품은 채, 라지엘은 모비어스를 향해
+*다가간다.
 #라지엘
 좋다, 이 늙은 독사야 - 네가 내 맨손에 죽길 원한다면...
 *
-*Raziel lunges at Moebius and grabs him by his scrawny neck, throwing him up against the
-*wall. Moebius feigns surprise and fear for a moment –
+*라지엘은 모비어스에게 달려들어 그의 야윈 목을 낚아채고, 벽에
+*몰아붙인다. 모비어스는 잠시 놀람과 두려움을 가장한다 –
 #모비어스
-이건 참으로 뜻밖이네!
+이건 정말 예상하지 못했다네!
 이 구슬은 우리의 뱀파이어 적들을 무력화시켜, 꼼짝 못 하게 만드는 물건일세.
 이상하게도 자네의 그 기이한 무기에도 같은 효과를 발휘하는 모양이군.
 하지만 날 믿어주게 - 자네를 해칠 의도는 없으니.
@@ -28,31 +28,31 @@
 난 네가 누구인지 - 그리고 본 모습이 무엇인지 - 알고 있다.
 이 자리에서 널 죽여야겠다...
 *
-*As Raziel speaks, Moebius's demeanor changes. He no longer appears to be an addled old
-*magician – this Moebius is composed, confident, and completely in control.
+*라지엘이 말을 하자, 모비어스의 태도가 달라진다. 더 이상 정신 나간 늙은 마법사처럼
+*보이지 않는다 – 지금의 모비어스는 침착하고, 자신감 넘치며, 상황을 완전히 통제하고 있다.
 #모비어스
-[(laughing)
+[(웃으며)
 아마 그래야 할지도 모르지, 얘야. 하지만 자네는 그러지 않을 걸세.
 *
-*Raziel tightens his grip a bit on Moebius's throat.
+*라지엘은 모비어스의 목을 죄는 손에 힘을 조금 더 준다.
 #라지엘
 그렇게 확신하나, 모비어스?
 *
-*Moebius appears completely unfazed by Raziel's threats.
+*모비어스는 라지엘의 협박에 전혀 개의치 않는 듯하다.
 #모비어스
 시간의 수호자라는 나의 소임은 내게 어느 정도의 전지함을 허락한다네, 라지엘.
 그래, 자네는 나를 죽이지 않아. 그 영광은 지금으로부터 30년 후, 자네의 창조주인 케인에게 돌아갈 테니까.
 *
-*Raziel releases him roughly, with disgust.
+*라지엘은 혐오감을 느끼며, 그를 거칠게 놓아준다.
 #라지엘
 흥. 참으로 잘 어울리는 족속들이로군 - 너도 그만큼 운명론자야.
 *
 #모비어스
-[(laughing softly)
+[(부드럽게 웃으며)
 죽음은 우리 모두에게 찾아오는 법이지, 라지엘.
 단지 시간문제일 뿐이야.
 *
-*Completely composed, Moebius turns his back on Raziel and exits the chamber.
+*완전히 침착해진, 모비어스는 라지엘에게 등을 돌리고 방을 나간다.
 #라지엘
 어떻게 내 이름을 알지? 우리는 만난 적이 없는데.
 *
@@ -63,18 +63,18 @@
 우리는 심지어 꽤 가까운 사이였지.
 *
 #라지엘
-[(with revulsion)
+[(역겨워하며)
 아, 제발.
 *
 #모비어스
 다행히도, 자네가 나와 동맹이 되기 위해 굳이 나를 좋아할 필요는 없다네...
 *
-*Raziel follows Moebius into the adjacent room – the walls of this octagonal chamber are
-*decorated with murals memorializing the six martyred Circle guardians, slaughtered here
-*many centuries ago.
-*The slain guardians are depicted in beatific imagery, while their murderer – the vampire
-*Vorador – is demonized.
-*In the center of the room stands a distinctive basin engraved with arcane symbols.
+*라지엘은 모비어스를 따라 옆 방으로 들어간다 – 이 팔각형 방의 벽면은
+*수 세기 전 이곳에서 학살당한, 순교한 여섯 결사 수호자들을 추모하는 벽화로
+*장식되어 있다.
+*살해된 수호자들은 자비로운 모습으로 그려진 반면, 그들의 살인자 – 뱀파이어
+*보라도어 – 는 악마화되어 있다.
+*방 중앙에는 신비로운 기호가 새겨진 특이한 수반이 놓여져있다.
 #라지엘
 여기가 사라판 사제단의 요새 내부인가?
 *
@@ -84,7 +84,7 @@
 현재 이 요새에는 나의 용병 군대가 머물고 있어 - 우리는 우리만의 소박한 성전을 통해
 사라판의 기억을 기리고자 노력하고 있지.
 *
-*Raziel studies the surrounding murals, intrigued.
+*라지엘은 흥미를 느끼며, 주변 벽화를 살핀다.
 #라지엘
 이건 뱀파이어 보라도어인가?
 *
@@ -94,14 +94,14 @@
 그자는 이 방에서, 무방비 상태로, 몸을 웅크리고 있던 내 동료 수호자 여섯 명을 학살했다네.
 *
 #라지엘
-[(incredulous)
+[(의심하며)
 그런데 너는 어떻게 그 대학살 속에서 살아남았지?
 *
 #모비어스
 나와 다른 두 명뿐이었지. 결사는 궤멸되었네; 오직 우리 셋만이 목숨을 부지했네.
 *
 #라지엘
-[(disdainful)
+[(경멸하며)
 참으로 편리하군.
 네가 던져주는 알량한 정보 쪼가리들을 순진하게 주워 먹지 않더라도 양해해라.
 너는 기만자로 명성이 높으니까.
@@ -124,15 +124,15 @@
 자네는 나를 과소평가하고 있군, 라지엘.
 내가 직접 보여주지...
 *
-*Moebius ignites the four candles that stand on the basin's edge, and an image slowly
-*materializes in the mystical waters of the bowl.
-*The image in the basin coalesces, and Kain is revealed. Raziel leans over the basin and
-*peers in, mesmerized.
+*모비어스가 수반 가장자리에 서 있는 네 개의 양초에 불을 붙이자, 그릇의
+*신비로운 물속에서 형상이 천천히 나타났다.
+*수반 속 형상이 또렷해지며, 케인의 모습이 드러난다. 라지엘은 수반 위로 몸을 굽혀
+*넋을 잃고, 들여다본다.
 #모비어스
 지금 이 순간에도, 케인은 자네를 기다리고 있네 -
 내가 시간의 흐름 속에서 자네를 낚아채 이곳, 내게로 데려왔다는 사실도 모른 채 말이야.
-[The image wavers, and we see that Kain is standing in a clearing, beneath the Pillars of
-[Nosgoth, apparently waiting...
+[형상이 흔들리고, 케인이 서서, 노스고스의
+[기둥 아래 공터에서, 무언가를 기다리는 모습이 보인다...
 자신이 파괴할 운명인 바로 그 기둥 주변을 서성이는 저 모습을 보게...
 자네의 손아귀를 벗어났다고 어리석게 확신하면서 말이야.
 *

@@ -1,24 +1,24 @@
-- CHAPTER 16 – THE FINAL TRANSGRESSION
-*Having renounced his Sarafan heritage, Raziel trails his former brethren back to the
-*Stronghold to avenge Janos Audron's murder. In the course of his pursuit, Raziel visits
-*the subterranean Pillars chamber for the last time.
-*The Elder God greets him with ominous finality –
-#ELDER GOD
-You have failed me, Raziel.
+- 챕터 16 – 최후의 죄악
+*사라판으로서의 유산을 거부하고, 라지엘은 야노스 오드론의 살해에 복수하고자
+*과거의 형제들을 추적해 요새로 돌아간다. 추적 과정에서, 라지엘은 지하 기둥 방을
+*마지막으로 방문한다.
+*엘더 갓이 불길한 최후의 인사로 그를 맞이한다 –
+#엘더 갓
+너는 나를 실망시켰다, 라지엘.
 *
-#RAZIEL
-I wonder, Old One...
-Did you truly resurrect me, or were you simply there when I awakened from my torment in the
-Abyss?
-I suspect you found me merely convenient. Dropped in your lair by Kain, indestructible for
-some reason. A durable and gullible tool for you to manipulate.
-This one thing I readily admit – I have been used by others time and again. But always I
-seem to stray from their path... what is it about me, Demon, that makes me such an
-unreliable instrument?
-Why do I survive one trial after another... on and on in an endless succession of
-humiliating deaths and resurrections? It seems there is much more to my destiny, and my
-history, than I know.
-Perhaps more than you know, as well...
+#라지엘
+의문이 드는군, 고대의 존재여...
+네가 진정 나를 부활시킨 것인가, 아니면 그저 내가 심연의 고통 속에서 깨어났을 때 
+그곳에 있었을 뿐인가?
+그저 내가 이용하기 편했을 뿐이었겠지. 케인에 네 굴에 던져준, 왠지 모를
+불멸의 존재. 네가 조종하기 좋은 튼튼하고 잘 속는 도구 말이다.
+이 한 가지는 기꺼이 인정하지 – 나는 수없이 다른자들에게 이용당해 왔다. 하지만 언제나
+그들의 길에서 벗어나고 마는군... 대체 내 무엇이 나를, 악마여, 이토록
+신뢰할 수 없는 도구로 만드는 거지?
+어째서 나는 시련을 하나하나 견뎌내며... 굴욕적인 죽음과 부활을
+끝없이 반복하며 살아남는 것인가? 내 운명과, 그리고 내 과거에는, 내가 아는 것보다
+훨씬 더 많은 비밀이 숨겨져 있는 듯하군.
+어쩌면 네가 아는 것보다도, 훨씬 더...
 *
 *
 *

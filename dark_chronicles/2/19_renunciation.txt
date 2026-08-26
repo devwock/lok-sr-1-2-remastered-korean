@@ -1,48 +1,48 @@
--챕터 19 – RENUNCIATION
-*Armed with the Reaver, Raziel has confronted and slain each of his former Sarafan brethren
-*in turn. Entering the Chapter House of the Stronghold, he finally comes face to face with
-*his former self – the Sarafan Inquisitor Raziel, who has apparently been waiting for him
-*here.
-*As he crosses the threshold, the portcullis slams down behind him – this is clearly a
-*trap, calculated to channel Raziel into combat with the most formidable of the Sarafan
-*commanders.
-*The Inquisitor addresses Raziel with self-righteous disdain, blissfully ignorant of this
-*demonic creature's true identity.
-#SARAFAN RAZIEL
-[(hatefully)
-So, vampire – here we are.
-You've destroyed my brethren – and now you've come for me?
-You'll find I am not such easy prey.
+-챕터 19 – 단념
+*리버로 무장하고, 라지엘은 과거 사라판 형제들을 차례로 마주해
+*살해했다. 요새의 대강당에 들어서자, 그는 마침내 과거의
+*자신 – 사라판 심문관 라지엘, 분명 이곳에서 자신을 기다리고 있었을 그를
+*마주한다.
+*그가 문턱을 넘어서자, 그의 뒤에서 쇠창살문이 내려앉는다 – 이것은 분명
+*함정이다, 라지엘을 가장 강력한 사라판 지휘관과의 전투로 몰아넣기 위해 
+*계산된.
+*심문관은 이 악마 같은 존재의 진짜 정체를 전혀 모른 채, 오만한 경멸감에
+*가득 찬 목소리로 라지엘에게 말을 건넨다.
+#사라판 라지엘
+[(증오하며)
+그래, 뱀파이어여 – 여기까지 왔군.
+내 형제들을 몰살하고 – 이제 나에게 온 건가?
+내가 그리 쉬운 먹잇감이 아니라는 걸 깨닫게 될 거다.
 *
-#RAZIEL
-I don't want to kill you, but I will if I must.
-Return the heart to me, and we can end this now.
+#라지엘
+너를 죽이고 싶진 않지만, 필요하다면 죽일 것이다.
+그 심장을 내게 돌려주면, 이 모든 걸 끝낼 수 있다.
 *
-#SARAFAN RAZIEL
-[(mocking)
-So you've come to avenge that filthy parasite, and reclaim his foul heart?
-You're a righteous fiend, aren't you?
+#사라판 라지엘
+[(조소하며)
+그 불결한 기생충의 복수를 하고, 그 추악한 심장을 되찾으러 왔단 말인가?
+참으로 정의로운 악마로군, 안 그런가?
 *
-#RAZIEL
-[(referring to Sarafan Raziel)
-Apparently I am.
+#라지엘
+[(사라판 라지엘을 가리키며)
+그런 것 같군.
 *
-#SARAFAN RAZIEL
-[(icily)
-No, vampire. This is where it ends, but you won't be leaving this room.
-Now, let's finish this – I'll make it mercifully quick.
+#사라판 라지엘
+[(차갑게)
+아니다, 뱀파이어여. 여기가 끝은 맞지만, 넌 이 방을 나가지 못할 것이다.
+자, 이제 끝을 내자 – 자비를 베풀어 빨리 끝내주마.
 *
-#RAZIEL
-As you did for Janos.
+#라지엘
+야노스에게 그랬던 것처럼 말인가.
 *
-#SARAFAN RAZIEL
-[(laughs coldly)
-No, that beast had eluded us for far too long.
-It would have been a shame to end him too quickly.
-[He continues, goading Raziel into battle –
-It's ironic, really – the 'great Janos Audron' turned out to be no challenge at all...
-thanks to you.
-Did you hear his cowardly screams when I tore that black heart out of his carcass?
+#사라판 라지엘
+[(차갑게 웃으며)
+아니, 그 짐승은 너무 오랫동안 우리를 빠져나갔다.
+너무 쉽게 끝냈다면 아쉬웠겠지.
+[그는 계속해서, 라지엘을 전투로 유도한다 –
+아이러니하군, 정말로 – 그 '위대한 야노스 오드론'은 전혀 위협적이지 않았다...
+네 덕분이다.
+내가 그 검은 심장을 그의 시체에서 뜯어낼 때 지르던 비겁한 비명 소리를 들었나?
 *
-*Raziel can no longer contain his rage – raising the Reaver, he lunges at the Sarafan
-*Inquisitor.
+*라지엘은 더 이상 분노를 억누를 수 없었고 – 리버를 치켜들며, 사라판 심문관에게
+*달려든다.

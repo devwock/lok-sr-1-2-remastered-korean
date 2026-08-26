@@ -1,68 +1,68 @@
--챕터 18 – VENGEANCE
-*As Raziel pursues the Sarafan through the Stronghold, he confronts each of his former
-*brethren in turn, exacting revenge for Janos' murder. After being ambushed by Moebius and
-*Malek, Raziel proceeds cautiously into the cloister, now armed with the Reaver. Here he
-*encounters Melchiah and Zephon, who have apparently been dispatched to confront him here.
-#ZEPHON
-Come to take your revenge, demon?
+-챕터 18 – 복수
+*라지엘은 요새를 가로질러 사라판을 추격하며, 한때 형제들과
+*차례로 마주한다, 야노스의 살해에 대한 복수를 위해. 모비어스와 말렉의 기습을
+*받은 후, 라지엘은 신중하게 회랑으로 들어선다, 이제 리버로 무장한 채. 이곳에서 그는
+*멜카이아와 제폰을 마주한다, 자신과 맞서기 위해 파견된 것이 분명한.
+#제폰
+복수하러 왔나, 악마?
 *
-#MELCHIAH
-Back to hell with you!
+#멜카이아
+지옥으로 돌아가라!
 *
-*Raziel looks upon his former brethren with disgust, relishing his advantage over them.
-#RAZIEL V.O.
-I recognized these two as my former brethren... in life, as Sarafan; and in unlife, as
-Kain's vampire 'sons.'
-Melchiah and Zephon, the weakest of Kain's brood... These bastards had no idea what future
-lay in store for them – how they would become the very thing they so despised.
-The Reaver hummed with ravenous anticipation – Janos had called it a 'vampiric' blade,
-endowed with the power to drain its victims of their lifeblood.
-I was eager to see what the Reaver would do to these two...
+*라지엘은 한때 형제였던 이들을 혐오스럽게 바라보며, 자신이 그들보다 우위에 있음을 즐긴다.
+#라지엘 독백
+나는 이 둘이 과거 내 형제들이었음을 알아보았다... 생전에는, 사라판으로; 사후에는,
+케인의 뱀파이어 '아들들'로서.
+멜카이아와 제폰, 케인의 일족 중 가장 약한 자들... 이 개자식들은 자신들에게 어떠한 미래가
+기다리고 있는지, 전혀 알지 못했다 – 자신들이 그토록 경멸하던 바로 그 존재가 되리라는 것을.
+리버는 굶주린 기대감으로 웅웅거렸다 – 야노스는 이것을 '뱀파이어의' 검이라 불렀다,
+희생자의 생명혈을 빨아들이는 힘을 부여받았기 때문에.
+나는 리버가 이 둘에게 무엇을 행할지 몹시 확인하고 싶었다...
 *
-*The battle ensues, and the two Sarafan fall easily before the power of the Reaver.
-*With his former brothers-in-arms lying dead at his feet, Raziel revels in the intoxicating
-*power of the Reaver.
-#RAZIEL V.O.
-As Melchiah and Zephon fell before my blade, I felt the Reaver's blood-thirst as keenly as
-I ever had when I was still a vampire.
-I could sense the boundary between us dissolving – the Reaver was consumed with my rage,
-and I was intoxicated by its bloodlust.
-The blade had a vitalizing effect on me – my physical energy no longer decayed over time,
-and the wounds inflicted by my foes healed almost instantly.
-The Reaver had made me invincible.
-*Raziel proceeds into the Stronghold's main Sanctuary, where he discovers Rahab and Dumah
-*waiting for him.
+*전투가 벌어지고, 두 사라판은 리버의 힘 앞에 손쉽게 무너진다.
+*한때 전우였던 자들이 발밑에 죽어 쓰러지자, 라지엘은 리버의 도취적인
+*힘에 취해 희열을 느낀다.
+#라지엘 독백
+멜카이아와 제폰이 내 검 앞에 쓰러졌을 때, 나는 뱀파이어 시절에 느꼈던 것만큼이나
+선명하게 리버의 갈증을 느꼈다.
+우리 사이의 경계가 무너지는 것이 느껴졌다 – 리버는 나의 분노로 가득 찼고,
+나는 피에 대한 갈망에 도취되었다.
+이 검은 내게 활력을 불어넣었다 – 내 육체의 에너지는 시간이 지나도 쇠하지 않았고,
+적들이 입힌 상처는 거의 즉시 치유되었다.
+리버는 나를 무적으로 만들었다.
+*라지엘은 요새의 주요 성역으로 나아가고, 그곳에서 자신을 기다리고 있는
+*라합과 듀마를 발견한다.
 *
-#DUMAH
-Have you come to reclaim the monster's black heart?
+#듀마
+그 괴물의 검은 심장을 되찾으러 왔나?
 *
-#RAHAB
-You'll have to get through us, first.
+#라합
+그러려면 먼저, 우리를 쓰러뜨려야 할 것이다.
 *
-*Raziel readies the Reaver eagerly, savoring his newly-discovered role in their ultimate
-*destinies.
-#RAZIEL V.O.
-My former brethren Dumah and Rahab confronted me next – this all seemed so elegantly
-choreographed.
-Exhilarated by the Reaver, I was drunk with revelations...
-I could finally appreciate the delicious irony of Kain's blasphemous, private joke – and I
-reveled as I colluded with him across the centuries.
-For it was I who put these bastards in their tomb – thus providing the corpses for Kain to
-raise as his vampire sons a millennium from now.
+*라지엘은 열정적으로 리버를 다잡으며, 그들의 궁극적인 운명 속에서
+*새롭게 깨달은 자신의 역할을 음미한다.
+#라지엘 독백
+한때 내 형제였던 듀마와 라합이 다음으로 나와 마주했다 – 이 모든 것이 너무나 정교하게
+짜여진 연극 같았다.
+리버에 도취된 나는, 깨달음에 취해 있었다...
+나는 마침내 케인의 불경하고, 은밀한 장난이 지닌 감미로운 아이러니를 이해할 수 있었다 – 그리고 나는
+수세기를 뛰어넘어 그와 공모하고 있음에 희열을 느꼈다.
+이 개자식들을 그들의 무덤에 처넣은 것은 바로 나였으니 – 그리하여 지금으로부터 천 년 후
+케인이 자신의 뱀파이어 아들들로 부활시킬 시신을 제공한 셈이었다.
 *
-*Upon defeating Dumah and Rahab, Raziel proceeds into the choir of the Sanctuary. Here,
-*finally, Raziel is confronted by Turel – his former second-in-command, both as Sarafan and
-*vampire.
-*Turel advances on Raziel with self-righteous contempt –
-#TUREL
-Get back to the pit you crawled from, demon!
+*듀마와 라합을 물리친 라지엘은 성역의 성가대석으로 나아간다. 이곳에서,
+*마침내, 라지엘은 튜렐과 마주한다 – 사라판으로서도, 뱀파이어로서도
+*그의 과거의 부관이었던.
+*튜렐은 독선적인 경멸을 품고 라지엘에게 다가선다 –
+#튜렐
+네가 기어 나온 그 구덩이로 돌아가라, 악마!
 *
-*Raziel regards his former brother-in-arms derisively –
-#RAZIEL V.O.
-And here at last was my brother Turel, who along with Dumah would bear me into the Abyss
-without questioning Kain's command.
-So dutiful and righteous, even as a vampire... I guess some habits die hard.
-The vampire Turel had eluded my vengeance; the Sarafan Turel would not.
+*라지엘은 한때 전우였던 자를 비웃듯 바라본다 –
+#라지엘 독백
+그리고 마침내 여기 내 형제 튜렐이 있었다, 듀마와 함께 케인의 명령에 어떠한 의구심도 품지 않고
+나를 심연으로 끌고갔던.
+그토록 충직하고 의로웠지, 뱀파이어로서도... 어떤 습관은 쉽게 사라지지 않는 법인가 보군.
+뱀파이어 튜렐은 내 복수를 피해갔지만; 사라판 튜렐은 그러지 못할 것이다.
 *
 *
 *

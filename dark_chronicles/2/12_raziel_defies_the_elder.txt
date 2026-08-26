@@ -1,57 +1,57 @@
--챕터 12 – RAZIEL DEFIES THE ELDER
-*Raziel revisits the subterranean Pillars grotto after having been propelled over a
-*century into Nosgoth's ghastly future. He is shocked to discover how the Elder God has
-*encroached into the chamber – its tentacles wind chokingly around the shattered Pillars,
-*and the room's murals have been nearly obliterated by the passage of its grasping limbs.
-*The Elder God greets Raziel disdainfully –
-#ELDER GOD
-Raziel, the failed assassin.
-You had Kain at your mercy but lacked the courage to fulfill the act.
-And now you see the wasteland wrought by the tyrant's hand. By his selfish decision to
-preserve his own life, even when it meant sacrificing the whole world.
-This is the fate of Nosgoth, as long as Kain remains alive.
+-챕터 12 – 엘더에게 반기를 든 라지엘
+*라지엘은 1세기가 넘는 시간을 넘어 노스고스의 참혹한 미래로 내던져진 후
+*지하 기둥 동굴을 다시 방문한다. 그는 엘더 갓이 이 방을 얼마나 침식했는지
+*확인하고 충격을 받는다 – 그의 촉수는 부서진 기둥을 조르듯 휘감고 있으며,
+*움켜쥐는 사지가 지나간 자리에는 방의 벽화가 거의 흔적도 없이 사라져 있었다.
+*엘더 갓은 라지엘을 경멸하며 맞이한다 –
+#엘더 갓
+라지엘, 실패한 암살자여.
+케인의 목숨을 쥐고 있었으면서도 그 과업을 완수할 용기는 없었지.
+그리고 이제 폭군의 손이 만든 황무지를 보게 될 것이다. 세상 전체를 희생시키더라도
+제 목숨을 보존하겠다는, 그의 이기적인 결정 때문에.
+이것이 노스고스의 운명이다, 케인이 살아있는 한.
 *
-#RAZIEL
-An ironic condemnation, given this guilty scene.
-One would think you'd torn down the Pillars single-handedly.
-What are you trying to obliterate as you drag your loathsome body through this chamber?
-And why, as Nosgoth descends into madness and misery, do you appear to thrive?
-Things in this world, I am learning, are rarely what they seem.
-You, apparently, are no exception.
+#라지엘
+아이러니한 비난이로군, 이 죄악스러운 광경을 두고도.
+이쯤 되면 당신 혼자서 기둥을 무너뜨린 줄 알겠어.
+이 방에 그 흉측한 몸을 끌고 다니며 대체 무엇을 지워버리려는 건가?
+그리고 노스고스가 광기와 비탄으로 떨어지는 와중에, 어째서 당신만 번성하는 것처럼 보이는 거지?
+이 세상의 것들은, 나는 깨닫는 중이다, 보이는 그대로가 아니라는 사실을.
+당신도, 분명하게, 예외는 아닌 것 같군.
 *
-#ELDER GOD
-[(angrily)
-I am the Engine of Life, the source of Nosgoth's very existence.
-I am the hub of the Wheel, the origin of all Life, the devourer of Death.
+#엘더 갓
+[(분노하며)
+나는 생명의 엔진이며, 노스고스라는 존재 그 자체의 근원이다.
+나는 수레바퀴의 중심축이자, 모든 생명의 근원이오, 죽음을 삼키는 자다.
 *
-#RAZIEL
-...or maybe you're just hungry – could it be as simple as that?
-Wouldn't that be poetic irony? The great adversary of the vampires turns out to be the
-biggest parasite of them all.
+#라지엘
+...혹은 그저 배가 고픈 건가 – 그렇게 단순한 것인가?
+그것참 시적인 아이러니 아닌가? 뱀파이어의 위대한 숙적이 알고 보니
+그들 중 가장 거대한 기생충이었다니.
 *
-#ELDER GOD
-Do not test my patience, Raziel.
-I made you, and I will unmake you if I become so inclined.
+#엘더 갓
+나의 인내심을 시험하지 마라, 라지엘.
+내가 너를 만들었으니, 내가 내키면 언제든 너를 소멸시켜 버릴 수도 있다.
 *
-#RAZIEL
-[(mocking)
-As your agent, I am beyond death.
+#라지엘
+[(비웃으며)
+당신의 대리자로서, 나는 죽음을 초월했다.
 *
-#ELDER GOD
-There are fates worse than death, Raziel.
+#엘더 갓
+죽음보다 더한 운명도 있다, 라지엘.
 *
-*Raziel responds with disgust –
-#RAZIEL
-Oh, I see you now as you truly are.
-A cancer – a spooling parasite burrowed deep in the heart of this world.
+*라지엘은 혐오감을 드러내며 응수한다 –
+#라지엘
+오, 이제야 당신의 진정한 모습이 보이는군.
+암덩어리 – 이 세계의 심장 깊숙이 파고든 똬리를 튼 기생충.
 *
-#ELDER GOD
-[(ominously)
-Go now.
-Play out your pitiful rebellion, and take your place among the destroyed, the used, and the
-damned.
-But know this – you are mine for eternity.
-You have always been, and will always be, my soul reaver...
+#엘더 갓
+[(불길하게)
+이제 가라.
+그 비참한 반란을 계속 이어가라, 그리고 파멸한 자, 이용당한 자, 저주받은 자들 사이에서
+네 자리를 찾아라.
+하지만 이것만은 명심하라 – 너는 영원히 나의 것이다.
+너는 언제나, 그리고 앞으로도 영원히, 나의 영혼의 약탈자이다...
 *
 *
 *
