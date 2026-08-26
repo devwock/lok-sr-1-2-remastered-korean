@@ -1,3 +1,5 @@
 outputs/*
 claude.md
 work_plan.md
+.env
+*.pem
