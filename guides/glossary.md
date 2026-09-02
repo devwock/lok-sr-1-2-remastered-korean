@@ -175,6 +175,7 @@ Kain이 라지엘 다음으로 만든 여섯 형제. 각자 자기 이름의 일
 | Reaver | 리버 | 확정 | 인게임 무기 약칭 |
 | Wraithblade | 망령검 | 확정 | 영혼계의 리버, SR1 합성어 원문은 붙여씀 |
 | wraith blade | 망령 검 | 확정 | 두 단어 원문(SR2 내레이션)은 띄어씀 |
+| wraith-blade | 망령-검 | 확정 | SR2 |
 | Dark Reaver | 어둠 리버 | 확정 | SR2 |
 | Light Reaver | 빛 리버 | 확정 | SR2 |
 | Reaver attunement | 리버 속성 | 확정 | |

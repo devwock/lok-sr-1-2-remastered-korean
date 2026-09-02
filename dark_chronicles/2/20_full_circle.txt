@@ -1,18 +1,18 @@
--챕터 20 – FULL CIRCLE
+-챕터 20 – 완전한 원
 *The Sarafan Inquisitor is defeated, and as he staggers, Raziel runs him through with the
 *Reaver. Transfixed on the blade, Sarafan Raziel chokes and gasps as his lifeblood is
 *drained from his body. Face to face in this deadly embrace, Raziel curses his former self
 *with the solemnity of an oath –
-#RAZIEL
+#라지엘
 [(with revulsion and finality)
 나는 너를 거부한다.
 *
-#SARAFAN RAZIEL
+#사라판 라지엘
 [(gasping and dying)
 *
 *The Sarafan Inquisitor collapses to the floor, and the Reaver blade slides free of his
 *body.
-#RAZIEL
+#라지엘
 [(quietly, to himself)
 And so it ends. My history comes full circle.
 *
@@ -21,7 +21,7 @@ And so it ends. My history comes full circle.
 *abandons its symbiotic grip on his arm, and coils itself around its twin – its former,
 *physical self – instead.
 *
-#RAZIEL V.O.
+#라지엘 독백
 Sensing its twin, the wraith blade uncoiled itself from me – and instead wound lovingly
 around its former self.
 I felt its grip loosen, and as the blade left me, its absence chilled me more than its
@@ -32,7 +32,7 @@ gathered like a storm at the edge of my awareness...
 *Thus joined, the twinned Reavers turn on Raziel – with the blade still bound to his hand,
 *Raziel is dragged helplessly as the Reaver exerts its own will. Raziel struggles, but is
 *powerless to resist the blades as they turn inexorably toward him.
-#RAZIEL V.O.
+#라지엘 독백
 [(a horrible epiphany)
 With all other foes exhausted, the conjoined blades turned themselves on me. And I
 realized, finally, why I had sensed nothing when Janos offered me the blade.
@@ -53,34 +53,34 @@ I could not bear it – despair overwhelmed me.
 *Raziel sees him, and immediately believes he has been betrayed – that this is a trap set
 *by Kain himself.
 *Overcome with rage and agony, Raziel accuses Kain –
-#RAZIEL
+#라지엘
 You!
 *
 *Kain approaches, watching Raziel with intense fascination. Raziel cries out in anguish –
-#RAZIEL
+#라지엘
 Are you enjoying this, Kain?!
 *
-#ΚΑΙΝ
+#케인
 [(intense)
 Don't fight it, Raziel...
 Give in to it...
 *
-#RAZIEL
+#라지엘
 [(in agony)
 Was this your destiny for me, all along?!
 *
 *Kain urges him intently –
-#ΚΑΙΝ
+#케인
 Trust me...
 *
 *Raziel's strength is fading; he begins to collapse.
-#RAZIEL V.O.
+#라지엘 독백
 I felt myself weakening... unable to hold on any longer. The Reaver was too strong... the
 compulsion to simply let go too great...
 *
 *Out of strength, Raziel surrenders his will. As he nears the brink of oblivion, a
 *fluttering distortion tangibly begins, and Raziel approaches a dawning revelation –
-#RAZIEL V.O.
+#라지엘 독백
 And then... a growing sense of vertigo, and the familiar displacement...
 ...the paradoxical moment when my twinned soul hovered both outside and inside the Reaver
 blade...
@@ -91,20 +91,20 @@ gambled everything.
 *
 *Kain lunges forward – and with a massive, history-defying effort, tears the Reaver from
 *Raziel's chest.
-#RAZIEL
+#라지엘
 [(screams in agony)
 *
 *The Reaver flies across the room, and the wraith blade flickers and fades as it is
 *separated from its twin. Raziel falls forward, rescued from the threshold of oblivion,
 *but nearly completely drained.
-#ΚΑΙΝ
+#케인
 Now you are free to reclaim your true destiny, Raziel.
 *
 *Gradually, the room begins to warp around them as history strains to find a course around
 *this new obstruction. As the future reshuffles itself, a look of horror slowly dawns on
 *Kain's face. With new memories blooming in his mind, Kain realizes he may have just made a
 *terrible mistake.
-#RAZIEL V.O.
+#라지엘 독백
 Behind Kain's eyes, I could see new memories blooming and dying, as history labored to
 reshuffle itself around this monumental obstruction...
 And I could see by the dawning horror on his face that perhaps we had strained history too
@@ -113,7 +113,7 @@ far this time...
 *
 *Then the reshuffling begins to settle, as history finds its new course. But the horror on
 *Kain's face remains, as he realizes what price has been paid to restore Raziel's future.
-#ΚΑΙΝ
+#케인
 [(quiet, awestruck horror)
 My god... the Hylden...
 ...we walked right into their trap...
@@ -122,7 +122,7 @@ Raziel! Janos must stay dead!
 *
 *But Raziel, drained almost to the point of annihilation, is losing consciousness. He falls
 *to his knees, and begins to waver out of existence as he sinks into the spectral plane.
-#RAZIEL V.O.
+#라지엘 독백
 [(ominously)
 But Kain's warning was lost as I slipped into the spirit realm, too weak to maintain my
 physical form...

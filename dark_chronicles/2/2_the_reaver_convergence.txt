@@ -1,6 +1,6 @@
 -챕터 2 – THE REAVER CONVERGENCE
-*Raziel enters the choir area of the Sanctuary for the first time, and feels an
-*inexplicable distortion which intensifies as he approaches the central chapel.
+*라지엘은 처음으로 성역의 성가대 구역에 들어서며, 설명할 수 없는
+*왜곡을 느끼고, 이는 중앙 예배당에 가까워질수록 더욱 강해진다.
 #라지엘 독백
 요새의 가장 깊은 성소에 다가갈수록, 기이한 감각이 나를 엄습했다 -
 형언할 수 없는 괴리감, 현실 자체가 내 주위에서 뒤틀리고 일그러지는 듯한 현기증이었다.
@@ -8,35 +8,35 @@
 조심스레 다가갈수록,
 그 단절감은 발걸음마다 점점 더 거세졌다.
 *
-*As Raziel enters the chapel, he sees a stained-glass window memorializing William's murder
-*at Kain's hands. At the end of the chapel stands the sarcophagus of the martyred king.
+*라지엘이 예배당에 들어서자, 케인의 손에 살해 당한 윌리엄을 추모하는
+*스테인드글라스 창문이 보인다. 예배당 끝에는 순교한 왕의 석관이 놓여 있다.
 #라지엘 독백
-이곳이 바로 만인의 사랑을 받던 정의로운 왕 윌리엄의 무덤이다 -
+이곳이 바로 만인의 사랑을 받던 왕 정의로운 윌리엄의 무덤이다 -
 모비어스의 성전을 촉발시킨 순교자로서 이곳에 시성되어 있었다.
 나는 풋내기 뱀파이어였던 시절 케인의 여정을 떠올렸다 -
 모비어스가 어떻게 그를 과거로 돌려보내 윌리엄을 암살하도록 유도했으며,
 그로 인해 노스고스 전역에 뱀파이어를 향한 맹렬한 증오의 불길을 지폈는지를.
 *
-*Raziel proceeds into the chapel and stands before the sarcophagus, which he realizes now
-*serves also as an altar – for here, clutched loosely in the hands of William's effigy,
-*is the Soul Reaver, its blade broken in two.
+*라지엘은 예배당 안으로 나아가 석관 앞에 서며, 그것이 이제
+*제단 역할도 하고 있음을 깨닫는다 – 이곳, 윌리엄 상의 손에 느슨하게 쥐여 있는 것은,
+*소울 리버이다, 검신이 두 동강 난.
 #라지엘 독백
 그리고 이곳에서 나는 그 괴리감의 근원을 발견했다 - 소울 리버 그 자체가, 마치 신성한 유물처럼 안치되어 있었다...
 그리고 부러져 있었다, 윌리엄과 케인의 전투에서 그런 것이리라.
 나는 그런 일이 가능할 것이라고는 생각조차 하지 못했다...
 물론, 케인이 나를 내리치려다 그 검을 산산조각 내기 전까지는 말이다.
-[Raziel looks at his right hand contemplatively.
+[라지엘은 생각에 잠긴 듯 자신의 오른손을 바라본다.
 그리하여 리버 안에 갇혀 있던 영혼이 풀려났고 -
 그것은 내게 결속되어 공생적인 무기가 되었다.
 *
-*Mesmerized by the Reaver's presence here, Raziel tentatively reaches out to touch the
-*sword. As if in sympathetic response, the wraith-blade begins to manifest of its own will.
+*이곳에 있는 리버의 존재감에 홀려, 라지엘은 머뭇거리며 손을 뻗어 검을
+*만지려 한다. 마치 이에 교감이라도 하듯, 망령-검이 스스로의 의지를 드러내기 시작한다.
 #라지엘 독백
 그렇게 리버는 과거의 자신과 조우하게 된 것이다, 아직 물리적인 껍데기 안에 갇혀 있는...
-나는 홀린 듯, 레이스 블레이드가 스스로 풀려나와,
+나는 홀린 듯, 망령 검이 스스로 풀려나와,
 물리적인 검을 타고 뱀처럼 얽혀 들어가는 것을 지켜보았다...
-[As it passes over the hilt of the sword, Raziel's hand involuntarily lunges forward and
-[clamps down. The Reaver has taken control.
+[검자루 위를 스치는 순간, 라지엘의 손이 자신도 모르게 앞으로 뻗어
+[검을 움켜 쥐었다. 리버가 주도권을 쥔 것이다.
 자신의 쌍둥이이자, 거울상인 존재를 끌어안으며,
 리버의 기나긴 동면 속에 있던 영혼이 이제 완전히 깨어났다.
 그리고 처음으로, 나는 이 다른 존재의 진정한 실체를 느꼈다 - 수천 년의 감금으로 인해 고집스럽고, 탐욕적이며, 미쳐버린 그 존재 말이다...
@@ -44,31 +44,31 @@
 나는, 이제 한낱 무력한 숙주에 불과한 채,
 내 영혼이 검을 되살리기 위해 빨려 들어가는 것을 느꼈다.
 *
-*Raziel watches in helpless horror as the Reaver draws his soul-energy through his arm and
-*into the broken blade. The two halves of the Soul Reaver come together and are instantly
-*re-fused.
-*Just before he is drained completely, the Reaver relents, and Raziel recovers control.
+*라지엘은 무력한 공포 속에서 리버가 팔을 통해 자신의 영혼-에너지를 빨아들여 
+*부러진 검신으로 흘려보내는 모습을 바라본다. 소울 리버의 두 조각이 합쳐지며 순식간에
+*다시 융합한다.
+*영혼이 완전히 흡수되기 직전, 리버의 기세가 가라앉고, 라지엘은 통제력을 되찾는다.
 #라지엘 독백
 하지만 리버는 숙주를 파괴하는 것보다 더 나은 방법을 알고 있었다 -
 망각의 벼랑 끝에 다다랐을 무렵, 검은 마침내 나를 놓아주었다.
 회복하며, 나는 우리가 이제 위태로운 동맹으로 묶여 있음을 깨달았다 - 리버는 더 이상 단순한 공생 무기가 아니라,
 통제권을 다투는, 지각 있는 기생충인 것이다.
 *
-*As Raziel recovers, he realizes that Moebius is behind him, watching with intense
-*fascination. Enraged, Raziel wheels on Moebius and menaces him with the now-conjoined
-*Reaver blades.
+*기운을 차린 라지엘은, 모비어스가 뒤에서, 강렬한 호기심으로 바라보고
+*있음을 깨닫는다. 분노하며, 라지엘은 모비어스 쪽으로 돌아서서 이제 하나로 합쳐진
+*리버 검신으로 그를 위협한다.
 #라지엘
 내게 무슨 짓을 한 거냐, 모비어스?!
 이것이 네 함정인가?!
 *
 #모비어스
-[(apprehensive)
+[(불안해하며)
 어째서 내 함정이란 말인가?!
 자네를 이곳으로 이끈 건 내가 아니라 케인이란 사실을 잊지 말게!
 자네가 나를 저주하는 동안 - 노스고스에서 자네를 이끌고 도울 준비가 된 유일한 영혼인 이 나를 -
 케인은 우리의 어리석음을 비웃으며 자네의 절망을 즐기고 있을 걸세.
 *
-*Raziel raises the intertwined blades threateningly –
+*라지엘이 얽힌 검신을 위협적으로 들어 올린다 –
 #라지엘
 지금 섬뜩하게 얽혀 있는 이 칼날들은
 늙은이인 너보다 훨씬 더 질긴 목숨을 지닌 피조물들의 심장에도 공포를 심어주었다.
@@ -80,13 +80,13 @@
 이 일은 내가 꾸민 짓이 아닐세. 나는 그저 자네의 정의로운 여정을 돕고자 했을 뿐이야.
 *
 #라지엘
-[(mocking)
+[(조롱하며)
 왜, 떨고 있군, 모비어스. 자신감이 널 버렸나?
 네 그 소중한 지팡이를 두고 오다니 참으로 치명적인 실수를 저지른 모양이군.
 네 그 모든 용기는 거기서 나오는 것이었나?
 *
 #모비어스
-[(desperate)
+[(절박하게)
 내 말을 듣게, 라지엘 - 자네는 지금 자신이 무슨 짓을 하려는지조차 모르고 있네.
 나는 이토록 무방비한 상태로 자네 앞에 나서는 엄청난 위험을 감수했다네,
 그저 나의 선의를 증명하고 싶은 마음에 말일세.
@@ -97,11 +97,11 @@
 케인에 대해서는 신경 쓰지 마라, 늙은이. 그 역시 머지않아 지옥에서 너와 합류하게 될 테니.
 네 입으로 직접 말했듯, 죽음은 우리 모두에게 찾아오는 법이지...
 *
-*Raziel raises the entwined blades, fully prepared to strike Moebius down.
+*라지엘은 얽힌 검신을 들어 올린다, 모비어스를 내려칠 준비를 완전히 마친 채.
 #모비어스
 그렇네... 운명의 수레바퀴가 그것을 요구하고 있지.
 *
-*Moebius's statement stays Raziel's hand momentarily –
+*모비어스의 말에 라지엘의 손이 잠시 멈칫한다 –
 #라지엘
 방금 뭐라고 했지?
 *
@@ -109,12 +109,12 @@
 운명의 수레바퀴 말일세 -
 모든 자들이 종속될 수밖에 없는 죽음과 환생의 거스를 수 없는 순환이지.
 우리는 같은 신을 섬기고 있다네, 라지엘.
-[Moebius grows more confident as he sees that this revelation is having some effect.
+[모비어스는 이 계시가 어느 정도 효과를 보는 것을 느끼고 더욱 자신감을 얻는다.
 나를 베는 것은 곧 신의 시종을 베는 것과 다름없으니,
 자네라 해도 감히 그런 위험을 감수하진 않으리라 믿네.
 *
-*Raziel throws the Soul Reaver away in disgust. The wraith-blade untwines itself and
-*dissipates as it coils back into Raziel's hand.
+*라지엘은 혐오감을 느끼며 소울 리버를 내던진다. 망령-검은 스스로 풀려나
+*라지엘의 손으로 다시 휘감겨 들어오며 흩어진다.
 #라지엘
 네 그 장난질에도 질려버렸다, 모비어스.
 네가 나를 두려워한다는 사실을 안 이상, 더는 네게 신경 쓸 이유가 없다.
@@ -130,14 +130,14 @@
 #라지엘
 나의 복수심만으로도 동기는 차고 넘친다.
 *
-*Raziel turns his back on Moebius and exits the chapel.
-*Moebius closes the gate behind Raziel, and locks himself safely inside the chapel.
-*He breathes a sigh of relief, then turns and says quietly to himself –
+*라지엘은 모비어스에게 등을 돌리고 예배당을 나선다.
+*모비어스는 라지엘의 뒤에서 문을 닫고, 예배당 안에서 안전하게 문을 잠근다.
+*그는 안도의 한숨을 쉬고는, 돌아서서 혼잣말로 조용히 중얼거린다 –
 #모비어스
 내 영혼을 걸고 맹세컨대, 하마터면 당할 뻔했군, 나의 작고 푸른 암살자여.
 하지만 그것이 자네에게 주어진 처음이자 마지막 기회일 걸세, 내 장담하지.
 *
-*Alone now in the Sanctuary, Raziel stops to examine his newly-enhanced symbiotic weapon –
+*이제 성역에 홀로 남겨져, 라지엘은 새로-강화된 공생 무기를 살펴보기 위해 멈춰 선다 –
 #라지엘 독백
 이제 나는 기력에 상관없이 뜻대로 검을 소환할 수 있게 되었다.
 하지만 한 번 소환되고 나면, 검의 그 게걸스러운 식욕은 도무지 억누를 길이 없었다.

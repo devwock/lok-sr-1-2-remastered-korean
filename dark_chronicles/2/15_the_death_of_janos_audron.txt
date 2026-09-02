@@ -1,22 +1,22 @@
--챕터 15 – THE DEATH OF JANOS AUDRON
+-챕터 15 – 야노스 오드론의 죽음
 *Imbuing the Reaver with the elemental power of fire, Raziel is finally able to unlock the
 *sealed door which separates him from Janos and his assassins. Raziel rushes through the
 *door as it slowly slides open, and races toward Janos' chamber.
 *Having rendered Janos helpless with the aid of Moebius's staff, the Sarafan have the
 *ancient vampire pinned to the table.
 *As Janos struggles against his captors, the head inquisitor commands his fellow Sarafan –
-#SARAFAN RAZIEL
+#사라판 라지엘
 Hold him!
 *
 *Savoring the moment, the inquisitor raises his cruel-looking blade – then, bringing it
 *down violently, he rips Janos' chest open.
-#JANOS
+#야노스
 [(screams in agony)
 *
 *Raziel reaches the threshold of the chamber too late. He watches in horror as the
 *inquisitor reaches into Janos' open chest cavity and tears out his living heart.
 *He raises it triumphantly for the other Sarafan to see –
-#TUREL
+#튜렐
 Look at his black heart, how it still beats!
 *
 *Raziel prepares to leap into the fray, and then is frozen – as the head inquisitor turns,
@@ -27,7 +27,7 @@ Look at his black heart, how it still beats!
 *demonic figure before him.
 *As Janos begins to die, a tremor shakes the Retreat. The chamber rocks with the impact,
 *and begins to collapse under the strain.
-#DUMAH
+#듀마
 [(alarmed)
 The fiend intends to bury us alive!
 [Then, trying to break their leader out of his trance –
@@ -35,7 +35,7 @@ Raziel, we must get out of here!
 *
 *Sarafan Raziel cannot tear his eyes from this demonic apparition. With his gaze still
 *locked on Raziel, he commands his fellow Sarafan –
-#SARAFAN RAZIEL
+#사라판 라지엘
 Remember the sword!
 *
 *Dumah grabs up the Reaver, and with the sword and Janos' heart in their possession, the
@@ -45,19 +45,19 @@ Remember the sword!
 *incredibly, the ancient vampire is still alive, but only barely. Raziel kneels
 *disconsolately beside him – bereft at the loss of his new-found mentor, and horrified at
 *this latest epiphany: that he himself was Janos' murderer.
-#RAZIEL
+#라지엘
 Forgive me; I'm sorry... I failed you.
 *
-#JANOS
+#야노스
 [(gently)
 No, Raziel.
 Perhaps this was my true purpose – simply to save your life this once.
 *
-#RAZIEL
+#라지엘
 [(distraught)
 While I have taken yours...
 *
-#JANOS
+#야노스
 [(dying)
 Embrace your destiny, Raziel...
 You must reclaim the Reaver – it was forged for you and you alone...
@@ -67,7 +67,7 @@ Without it, there is no hope...
 *collapse as their support beams crumble, and the exits are filled by cascading rubble.
 *As the tremors subside, Raziel rises and steps slowly away from Janos' corpse, horrified
 *by these new revelations, and nursing a growing ember of hatred.
-#RAZIEL V.O.
+#라지엘 독백
 As I backed away from Janos' body, I was overwhelmed by a sense of self-loathing so deep,
 I could barely contain it.
 In that instant, I rejected all that I ever was, and embraced the role Janos had

@@ -1,172 +1,172 @@
--챕터 4 – THE CORRUPTION OF THE PILLARS
-*Raziel reaches the Pillars clearing, where Moebius told him Kain would be waiting. Raziel
-*pauses briefly, struck by the pristine beauty of the Pillars. In this era, the Pillars
-*stand straight and rise infinitely into the sky, their white marble columns gleaming in
-*the sunlight.
-#RAZIEL V.O.
-The Pillars of Nosgoth... pristine, whole, and uncorrupted.
-I had never beheld them in this undefiled state – yet something profound and indelible
-resonated within me at the sight.
-[(then, seeing Kain)
-And there, waiting at the very heart of the Pillars, was the canker that was destined to
-destroy them.
+-챕터 4 – 기둥의 타락
+*라지엘은 기둥의 공터에 도착한다, 모비어스가 케인이 기다리고 있을 것이라 말했던. 라지엘은
+*잠시 멈춰 선다, 기둥 그대로의 아름다움에 압도되어서. 이 시대에서는, 기둥들은
+*곧게 서서 하늘로 무한히 치솟아 있으며, 하얀 대리석 기둥이 햇살을 받아
+*빛나고 있다.
+#라지엘 독백
+노스고스의 기둥... 그대로, 온전하며, 타락하지 않았군.
+나는 이렇게 훼손되지 않은 모습을 본 적이 없었다 – 하지만 이 광경을 마주하자 깊고 지울 수 없는 무언가가
+내 안에서 울려 퍼졌다.
+[(그때, 케인을 본다)
+그리고 저곳, 기둥의 심장부 기다리고 있는 것은, 기둥들을 파멸시킬 운명을 지닌
+병폐였다.
 *
-*Kain stands in the center of the Pillars platform, his back to the clearing's entrance. He
-*appears to be surveying the Pillars calmly, waiting for something.
-*Raziel stalks up behind Kain, readying the wraith-blade. Completely aware and composed,
-*Kain addresses Raziel without turning.
-#ΚΑΙΝ
-I know you are there, Raziel.
+*케인은 공터 입구를 등지고, 기둥 제단의 중앙에 서 있다. 그는
+*무언가를 기다리며, 기둥들을 차분하게 살펴보는 듯했다.
+*라지엘은 망령-검을 준비하며, 케인의 뒤로 은밀히 다가간다. 모든 것을 알고 있다는 듯 의연한,
+*케인은 돌아서지 않은 채 라지엘에게 말을 건넨다.
+#케인
+자네가 거기 있다는 걸 알고 있네, 라지엘.
 *
-#RAZIEL
-Moebius led me to you, Kain – though I might have guessed you'd meet me here.
+#라지엘
+모비어스가 날 네게로 이끌었다, 케인 – 하지만 이곳에서 네가 날 만날 거라는 것쯤은 짐작했지.
 *
-*Kain continues to speak with his back to Raziel, turning his head only slightly.
-#ΚΑΙΝ
-And if Moebius told you I was hidden on the underside of hell, would you throw yourself
-into oblivion to pursue me?
-Moebius trawls for the ignorant and unwary, hauling his gasping prey from the streams of
-their destinies.
-Stay out of his net, Raziel –
+*케인은 라지엘을 등진 채 고개만 살짝 돌리며, 말을 이어간다.
+#케인
+만약 모비어스가 내가 지옥 밑바닥에 숨어 있다고 말했다면, 나를 쫓아
+망각 속으로 몸을 던졌을 텐가?
+모비어스는 무지하고 방심한 자들을 옭아매어, 그들의 운명의 흐름에서 헐떡이는 먹잇감을
+건져 올리지.
+그의 그물에서 벗어나게, 라지엘 –
 *
-*Raziel interrupts, impatient and tired of this long chase.
-#RAZIEL
-Spare me your elaborate metaphors, Kain.
-I have pursued you here for one purpose – you will pay for your betrayal, and Balance will
-thus be restored to Nosgoth.
+*라지엘은 말을 끊는다, 길고 긴 추격에 지치고 조급했기에.
+#라지엘
+정교한 은유 따위는 치워라, 케인.
+내가 여기까지 너를 쫓아온 목적은 단 하나다 – 넌 배신의 대가를 치를 것이고, 마침내 노스고스에
+균형이 회복될 것이다.
 *
-#KAIN
-And whose will is satisfied then, the will of Raziel, or Moebius?
+#케인
+그렇다면 그때 충족되는 것은 누구의 의지인가, 라지엘의 의지인가, 아니면 모비어스?
 *
-#RAZIEL
-Would I be better manipulated by you, Kain?
-Now turn and face me; the chase is over.
+#라지엘
+그렇다면 내가 너에게 조종당하는 편이 더 낫다는 말인가, 케인?
+이제 돌아서서 나를 마주해라; 추격은 끝났다.
 *
-*Kain doesn't turn, but walks slowly forward, approaching the central Balance Pillar while
-*he speaks.
-#ΚΑΙΝ
-This isn't a chase, Raziel – we are merely passengers on the wheel of destiny, describing a
-perfect circle to this point. We have been brought here for a reason.
-I have seen the beginning and the end of our story, however – and the tale is crude and
-ill-conceived.
-We must rewrite the ending of it, you and I.
+*케인은 돌아서지 않고, 천천히 앞으로 걸어가, 말하면서 중앙의
+*균형의 기둥으로 다가간다.
+#케인
+이건 추격이 아니네, 라지엘 – 우리는 그저 운명의 수레바퀴에 탄 승객에 불과하며, 지금까지
+완벽한 원을 그려 이곳에 다다랐을 뿐이지. 우리가 이곳에 인도된 데에는 이유가 있네.
+하지만 나는 우리 이야기의 시작과 끝을 보았네, 하지만 – 그 이야기는 조잡하고
+형편없이 구상되었더군.
+그 결말을 다시 써야만 하네, 자네와 내가.
 *
-#RAZIEL
-[(frustrated)
-Face me, Kain. Even you shouldn't die a coward's death.
-*Kain finally turns to respond, having delayed Raziel as long as he needed.
-#KAIN
-Isn't it customary to grant the condemned a final request?
+#라지엘
+[(답답해하며)
+나를 마주해라, 케인. 아무리 너라 할지라도 비겁자의 죽음을 맞이해서는 안 된다.
+*케인은 마침내 돌아서서 응답한다, 필요한 만큼 라지엘을 지체시키고 나서야.
+#케인
+사형수에게 마지막 소원을 들어주는 것이 관례 아닌가?
 *
-#RAZIEL
-I recall no such courtesy from you.
+#라지엘
+너에게 그런 호의를 받은 기억은 없다.
 *
-#ΚΑΙΝ
-Indulge me, Raziel.
-All I ask is that you listen.
+#케인
+한번 들어주게, 라지엘.
+내가 바라는 것은 자네가 그저 들어달라는 것뿐이라네.
 *
-*At this moment, an unearthly, disembodied wailing begins to be audible, increasing in
-*volume as it fills the clearing.
-#ΚΑΙΝ
-This is the sublime moment of our undoing, Raziel – the ineffable fulcrum upon which swings
-the entirety of our history.
-This is where all of Nosgoth is betrayed.
-In this instant, Ariel – the Balance Guardian – is murdered by dark forces bent on
-overthrowing the Pillars.
-Her spirit is just now tearing free, lost in the ether, trying to find its way here.
-You have already seen how she comes to haunt these Pillars –
+*이 순간, 기괴하고, 형체 없는 통곡 소리가 들려오기 시작하며, 소리가 커지면서
+*공터를 가득 채운다.
+#케인
+이것이 우리 파멸의 숭고한 순간이라네, 라지엘 – 우리 역사 전체를 좌우하는
+형언할 수 없는 받침점이지.
+바로 이곳에서 온 노스고스가 배신당하는 것이네.
+이 순간, 아리엘 – 균형의 수호자 – 은 기둥을 무너뜨리려는 어둠의 세력에 의해
+살해당하네.
+그녀의 영혼은 지금 막 찢겨 나가, 에테르 속에서 방황하며, 이곳으로 오는 길을 찾으려 애쓰고 있지.
+자네는 이미 그녀가 어떻게 이 기둥을 배회하게 되었는지 보았을 텐데 –
 *
-#RAZIEL
-[(interrupting)
-– bound here by your refusal to die. You are the reason this land becomes diseased – as
-long as you remain alive you condemn Nosgoth to an eternity of decay.
+#라지엘
+[(말을 끊으며)
+– 죽기를 거부한 너 때문에 이곳에 묶인 것이다. 네가 이 땅이 들게 하는 원인이다 – 네가
+살아 있는 한 넌 노스고스를 영원한 부패에 몰아넣는 것이다.
 *
-*Kain gently raises his hand to silence Raziel, and intently urges him –
-#ΚΑΙΝ
-Be still, Raziel. See this.
+*케인은 라지엘을 침묵시키기 위해 손을 조용히 들어 올리며, 간절히 촉구한다 –
+#케인
+가만히 있게, 라지엘. 이것을 보게.
 *
-*The sky darkens, the wind begins to gust, and birds scatter from the clearing in alarm. A
-*low, nearly sub-audible rumble swells, as though a massive storm is gathering.
-*Kain continues, with some urgency –
-#ΚΑΙΝ
-As Ariel dies, I am being born to take her place as Balance Guardian.
-Such is my destiny.
+*하늘이 어두워지고, 바람이 몰아치고, 새들이 놀라 공터에서 흩어진다.
+*낮은, 거의 들리지 않을 정도의 웅성거림이 울려 퍼진다, 폭풍이 몰려오는 것처럼.
+*케인은 계속한다, 다급한 기색으로 –
+#케인
+아리엘이 죽으면서, 나는 그녀의 뒤를 이어 균형 수호자로 태어나고 있네.
+그것이 나의 운명이라네.
 *
-*Suddenly, the entire clearing is rocked by an indescribable force –
-*A telepathic blast bursts across the landscape with a thunderous rumble, and distorting
-*waves of energy ripple across the clearing. Kain visibly tenses as he absorbs the
-*onslaught of this psychic attack. The Pillars, initially white and pristine, begin to
-*crack and corrode as they turn gray with corruption.
-#RAZIEL
-...my god...
+*갑자기, 공터 전체가 형언할 수 없는 힘에 흔들린다 –
+*천둥 같은 굉음과 함께 텔레파시 폭발이 대지를 덮치고, 왜곡된
+*에너지 파동이 공터 전체에 넘실거린다. 케인은 이 정신적 공격의 파도를
+*흡수하며 눈에 띄게 경련한다. 기둥들은, 처음에는 하얗고 깨끗했었지만, 타락으로 인해
+*회색빛으로 변하며 균열이 가고 부식되기 시작한다.
+#라지엘
+...신이여...
 *
-*As the telepathic assault recedes, Kain begins to speak again –
-#KAIN
-At the moment of my first cry, Ariel's beloved – the Guardian Nupraptor – finds her corpse.
-Wracked with grief and tormented by suspicions of treachery, Nupraptor plunges into a
-madness which overflows and infects all of the Guardians, who are symbiotically bound.
-Including me.
-The repercussions of Ariel’s assassination were expertly calculated...
-The entire Circle descends into madness, and I am tainted at the moment of my birth –
-instantly rendered incapable of fulfilling the role destiny has prepared for me.
+*텔레파시 공격이 물러가자, 케인은 다시 말을 시작한다 –
+#케인
+내가 첫 울음을 터뜨린 순간, 아리엘의 연인 – 수호자 누프랩터 – 이 그녀의 시신을 발견하네.
+비탄에 잠기고 배신에 대한 의심에 괴로워하며, 누프랩터는 광기에 빠졌고
+그 광기는 공생 관계에 있던, 모든 수호자들에게 흘러들어 감염시키고 말았지.
+나를 포함해서 말일세.
+아리엘 암살의 여파는 철저하게 계산된 것이었네...
+결사 전체가 광기에 빠져들었고, 나는 태어나는 순간 오염되어 –
+금세 운명이 날 위해 준비한 역할을 완수할 수 없는 상태가 되어버렸네.
 *
-#RAZIEL
-Shall I show you the same mercy you showed the rest of the Circle, then?
-You blithely murdered them to restore their Pillars, yet your hand faltered when it came to
-the final sacrifice.
-What makes you exempt, Kain? You're merely the last man standing.
-Why condemn me for simply carrying out what you hadn't the courage to do yourself?
+#라지엘
+그럼 내가 네가 결사의 다른 자들에게 베푼 것과 같은 자비를 보여줄까, 그렇다면?
+그들의 기둥을 회복시키기 위해 태연하게 그들을 죽였으면서, 막상 마지막 희생의
+순간이 오자 네 손은 망설였다.
+무엇이 널 예외로 만드는가, 케인? 넌 그저 끝까지 살아남은 자일 뿐이다.
+스스로 행할 용기조차 없었던 일을 그저 완수하려는 나를 왜 비난하는가?
 *
-#KAIN
-Let's drop the moral posturing, shall we? We both know there's no altruism in this pursuit.
-Your reckless indignation led you here – I counted on it.
-[Kain sees that Raziel is bristling at this insult.
-There's no shame in it, Raziel – revenge is motivation enough. At least it's honest.
-Hate me, but do it honestly.
+#케인
+도덕적인 척은 그만두기로 하지, 그러지 않겠나? 우리 둘 다 이 추격에 이타주의 따윈 없다는 걸 알고 있지 않나.
+자네의 무모한 분노가 자네를 이곳으로 이끈 걸세 – 난 그걸 예상했고 말이야.
+[케인은 라지엘이 이 모욕에 분노하는 것을 본다.
+부끄러워할 것 없네, 라지엘 – 복수란 충분한 동기일세. 적어도 솔직하지 않은가.
+나를 미워하게, 하지만 솔직하게나.
 *
-*Kain resumes his account of Nosgoth's history –
-#ΚΑΙΝ
-Thirty years hence, I am presented with a dilemma – let's call it a two-sided coin.
-If the coin falls one way, I sacrifice myself and thus restore the Pillars.
-But as the last surviving vampire in Nosgoth, this would mean the annihilation of our
-species. Moebius made sure of that.
-If the coin lands on the reverse, I refuse the sacrifice and thus doom the Pillars to an
-eternity of collapse.
-Either way, the game is rigged.
+*케인은 노스고스의 역사에 대한 설명을 재개한다 –
+#케인
+30년 후, 나에게는 딜레마에 직면하네 – 양면을 가진 동전이라고 해 두지.
+동전이 한쪽 방향으로 떨어지면, 나는 자신을 희생하여 기둥을 회복시키네.
+하지만 노스고스에 남은 마지막 뱀파이어로서, 이것은 우리 종족의 멸망을
+의미하지. 모비어스가 그렇게 만들었네.
+동전이 반대 방향으로 떨어진다면, 나는 희생을 거부하고 기둥들을 영원한
+붕괴의 운명에 빠뜨리게 되지.
+어느 쪽이든, 이미 게임은 조작되었다네.
 *
-#RAZIEL
-We agree then that the Pillars are crucial, and must be restored?
+#라지엘
+그렇다면 기둥이 극히 중요하며, 반드시 회복되어야 한다는 점에는 동의하는 건가?
 *
-#ΚΑΙΝ
-Yes, Raziel – that's why we've come full-circle to this place.
+#케인
+그렇네, 라지엘 – 그래서 우리가 완벽한 원으로 이곳으로 돌아온 것이라네.
 *
-#RAZIEL
-So after all this you make my case for me. To end this stalemate, you must die so that new
-Guardians can be born.
+#라지엘
+결국 이 모든 이야기를 거쳐 너 스스로 내 주장을 입증해 주는군. 이 교착 상태를 끝내려면, 네가 죽어야만 새로운
+수호자들이 태어날 수 있다.
 *
-#ΚΑΙΝ
-The Pillars don't belong to them, Raziel...
-[Kain gestures derisively, indicating humanity in general.
-...they belong to us.
+#케인
+기둥은 그들의 것이 아니네, 라지엘...
+[케인은 조롱하듯 손짓한다, 인류 전체를 가리키며.
+...바로 우리의 것이지.
 *
-#RAZIEL
-[(disgusted)
-Your arrogance is boundless, Kain.
+#라지엘
+[(역겨워하며)
+네 오만함에는 끝이 없구나, 케인.
 *
-#ΚΑΙΝ
-[(laughing softly)
-There's a third option – a monumental secret, hidden in your very presence here. But it's a
-secret you have to discover for yourself.
-Unearth your destiny, Raziel. It's all laid out for you here.
+#케인
+[(부드럽게 웃으며)
+세 번째 선택지가 있네 – 엄청난 비밀일세, 이곳에 자네가 존재한다는 사실 자체에 숨겨진. 하지만 그 비밀은
+자네 스스로 밝혀내야 한다네.
+자네의 운명을 파헤쳐 보게, 라지엘. 이곳에 모든 것이 자네를 위해 펼쳐져 있으니.
 *
-#RAZIEL
-You said it yourself, Kain – there are only two sides to your coin.
+#라지엘
+네가 직접 말했지 않나, 케인 – 네 동전에는 양면밖에 없다고.
 *
-#ΚΑΙΝ
-Apparently so. But suppose you throw a coin enough times...
-...suppose one day, it lands on its edge.
+#케인
+분명히 그렇겠지. 하지만 동전을 충분히 많이 던진다고 가정해 보게...
+...언젠가, 그 동전이 옆면으로 설수도 있네.
 *
-*Kain vanishes, leaving Raziel standing in the clearing alone.
+*케인은 사라지고, 라지엘만 공터에 홀로 남겨진다.
 *
 *
 *

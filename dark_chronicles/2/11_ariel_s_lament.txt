@@ -1,87 +1,87 @@
--챕터 11 – ARIEL'S LAMENT
-*Stranded now in Nosgoth's nightmarish future, Raziel enters the ruined Pillars clearing
-*and sees the devastation wrought by Kain's fateful decision a century ago. Toppled columns
-*litter the clearing, their sheared-off stumps protruding crookedly, like broken teeth.
-*Raziel stands in stunned silence for a moment as he surveys this apocalyptic scene.
-#RAZIEL V.O.
-These were the Pillars so familiar to my blighted eyes.
-But now that I had begun to learn their true significance, I regarded the Pillars'
-destruction with a new, enlightened sense of horror.
-And I questioned now whether Kain's simple refusal – his mere ambition – could truly have
-caused such devastation.
-I felt that some darker influence was at work here.
+-챕터 11 – 아리엘의 비탄
+*이제 노스고스의 악몽 같은 미래에 좌초하게된 라지엘은, 폐허가 된 기둥 공터로 들어서고
+*한 세기 전 케인의 운명적인 결정이 초래한 참상을 목격한다. 무너져 내린 기둥들이
+*공터에 널브러져 있고, 잘려 나간 그루터기들은 삐죽하게 솟아 있다, 부러진 이빨처럼.
+*라지엘은 이 종말론적인 광경을 둘러보며 잠시 망연자실한 채 서 있는다.
+#라지엘 독백
+저것이 나의 황폐해진 눈에도 지극히 익숙한 기둥들이었다.
+하지만 그 진정한 의미를 깨닫기 시작한 지금, 나는 새로이, 깨달음을 얻은 공포감으로
+기둥의 파괴를 바라보았다.
+그리고 이제 과연 케인의 단순한 거부 – 단지 그의 야망 – 이 진정 이러한
+참상을 초래할 수 있었을지 의문이 들었다.
+이곳에 더 어두운 영향력이 개입해 있다는 느낌이 들었다.
 *
-*In the gloom, Raziel sees the spectre of Ariel drifting restlessly among the toppled
-*Pillars.
-#RAZIEL V.O.
-As I approached, I discerned the spirit of Ariel – bound here now for more than a century.
+*어둠 속에서, 라지엘은 쓰러진 기둥 사이를 초조하게 떠도는
+*아리엘의 망령을 본다.
+#라지엘 독백
+나는 다가가면서, 나는 아리엘의 영혼을 알아보았다 – 한 세기가 넘도록 이곳에 묶여 있는 영혼을.
 *
-*As Raziel approaches, he hears Ariel lamenting to herself, unaware of his presence.
-#ARIEL
-Forever am I bound, hope abandoned, my spirit tethered to this place...
-What destroyed the Circle could not touch me. For I was newly dead, and beyond harm's
-reach.
-I alone was spared the descent into madness, and Kain alone was spared the pain of death.
-When Nupraptor's poison seized Kain even in the safety of the womb, much more than just
-his destiny was lost. All of Nosgoth lost Balance.
-Consider us now... both of us less than we once were.
-I, pure but insubstantial; and Kain terribly real, but corrupted.
+*라지엘이 다가가자, 아리엘은 홀로 탄식하고 있다, 그의 존재를 알지 못한 채.
+#아리엘
+영원히 나는 묶여있고, 희망은 버려진 채, 내 영혼은 이곳에 속박되어 있구나...
+결사를 파멸시킨 것조차 나를 건드릴 수는 없었지. 새로이 죽은 자였기에, 그 어떤 위험도
+닿지 않는 곳에 있었으니.
+나홀로 광기의 나락으로 추락을 면했고, 케인 홀로 죽음의 고통을 면했지.
+뉴프랩터의 독이 자궁 속 안전한 곳에 있던 케인마저 사로잡았을 때, 잃어버린 것은 단지
+그의 운명뿐만이 아니었어. 노스고스 전체가 균형을 잃었지.
+지금의 우리를 보라... 둘 다 한때의 우리에 미치지 못하니.
+나는, 순수하나 형체가 없고; 케인은 끔찍하게도 실존하나, 타락하였구나.
 *
-*Raziel interrupts Ariel's reverie, and she turns in alarm.
-#RAZIEL
-Your imprisonment here has deranged you, spirit.
-You fixate on Kain because you believe he is the tether that binds you here. But we both
-know he is not the author of your agony.
-The Pillars were subverted by dark forces, invited by the Guardians themselves.
-The more I learn of your Circle, the more I see a tangle of nested manipulations.
+*라지엘이 아리엘의 몽상을 깨뜨리자, 그녀는 놀라 돌아선다.
+#라지엘
+이곳에 갇혀 지내다 보니 미쳐 버렸군요, 영혼이여.
+그가 자신을 묶어 둔 끈이라 믿기에 케인에게 집착하는 것이겠지요. 하지만 우리 둘 다
+그가 그대의 고통의 빚어낸 자가 아니라는 건 알고 있습니다.
+기둥은 어둠의 세력에 의해 전복되었고, 그들을 불러들인 건 수호자들 자신이었습니다.
+그대들의 결사에 대해 더 많이 알게 될수록, 겹겹이 얽힌 조작의 타래가 더 많이 보일 뿐입니다.
 *
-*Ariel responds angrily –
-#ARIEL
-Kain handed them their victory.
-They sought to topple the Pillars, and he was their willing instrument.
+*아리엘이 분노하며 대답한다 –
+#아리엘
+케인이 그들에게 승리를 안겨준 것 입니다.
+그들은 기둥을 무너뜨리려 했고, 그는 자발적인 도구가 되었습니다.
 *
-*Raziel interrupts, challenging her –
-#RAZIEL
-Or was he their unwilling pawn?
-Would it blunt your wrath to know that Kain's dilemma was calculated to bring the Pillars
-down, regardless of the choice he made?
-And that the devastation would have been even greater had he chosen the path you would
-prescribe for him?
+*라지엘이 말을 끊으며, 그녀에게 반박한다 –
+#라지엘
+아니면 그는 본의 아니게 그들의 장기말이었습니까?
+케인의 딜레마가 기둥을 무너뜨리도록 계획된 것이었다는
+사실을 알면 그 분노가 좀 무뎌지시겠습니까, 그가 어떤 선택을 내리든지요?
+당신이 그에게 제시했을 길을 선택했더라면 참화은
+훨씬 더 컸으리라는 사실도요?
 *
-#ARIEL
-You are a subtle, deceitful creature.
-But your clever arguments do not absolve Kain.
-He must die for the Pillars to be restored; there is no other way.
+#아리엘
+당신은 교활하고, 기만적인 존재로군요.
+하지만 그 교묘한 말장난으로도 케인을 면죄할 순 없습니다.
+기둥이 회복되려면 그가 죽어야만 합니다; 다른 길은 없습니다.
 *
-#RAZIEL
-Then consider this more ominous possibility – what if Kain's death does not restore the
-Pillars?
-Consider that it may simply be too late. That this world may be beyond redemption.
-And that you may be bound here eternally.
+#라지엘
+그렇다면 이보다 더 불길한 가능성을 생각해 보십시오 – 만약 케인의 죽음으로도 기둥이
+복구되지 않는다면?
+어쩌면 이미 너무 늦었을지도 모른다는 생각을 해보십시오. 이 세계가 구원받을 수 없을지도 모른다는 것을.
+그리고 당신도 이곳에 영원히 속박될지도 모른다는 것을요.
 *
-*Distraught, Ariel flees into the spirit realm, unaware that Raziel is able to follow.
-*Raziel shifts into spectral and startles her as she cowers behind the Balance Pillar.
-*Cornered and miserable, Ariel implores Raziel –
-#ARIEL
-Why do you hound me, demon?
-You can see that I am captive here. Show me some mercy.
+*혼란해져서, 아리엘은 영혼계로 도망친다, 라지엘이 뒤따라올 수 있다는 것을 모른 채.
+*라지엘은 영혼계로 전이하여 균형의 기둥 뒤에 움츠러들어 있는 그녀를 놀라게 한다.
+*궁지에 몰려 비참해진 아리엘이, 라지엘에게 애원한다 –
+#아리엘
+어째서 나를 괴롭히나요, 악마여?
+내가 이곳에 갇혀 있는 것이 보이지 않나요. 자비를 베풀어 주세요.
 *
-#RAZIEL
-Like the mercy you showed your fellow Guardians when you set Kain on them?
-Or the mercy you showed Kain when you kept him ignorant of his destiny while you used him
-as the scourge of the Circle?
-Or perhaps like the mercy you showed your beloved Nupraptor when you made him Kain's first
-kill?
+#라지엘
+당신이 케인을 동료 수호자들에게 들이닥치게 했을 때 당신이 그들에게 베풀었던 자비 말입니까?
+아니면 당신이 그의 운명을 모르게 한 채 그를 결사의 재앙으로 이용하면서
+당신이 케인에게 베풀었던 자비 말입니까?
+그것도 아니면 당신이 사랑하는 뉴프랩터를 케인의 첫 희생자로 만들었을 때
+당신이 그에게 베풀었던 자비 말입니까?
 *
-#ARIEL
-You are cruel. Why do you torment me?
+#아리엘
+당신은 잔인하군요. 어째서 나를 괴롭히나요?
 *
-*Weary of this, Raziel relents –
-#RAZIEL
-I'm merely looking for answers, Ariel.
-Very well – I'll leave you in peace.
-But know this – about you, and this purgatory from which you long to escape...
-...you're merely at the threshold.
+*이 일에 지쳐, 라지엘이 누그러진다 –
+#라지엘
+나는 단지 답을 찾고 있을 뿐입니다, 아리엘.
+좋습니다 – 당신을 편히 두도록 하겠습니다.
+하지만 이것만은 알아두십시오 – 당신에 대해서, 당신이 그토록 벗어나길 갈망하는 이 연옥에 대해서...
+...당신은 그저 문턱에 있을 뿐이라는 것을.
 *
 *
 *

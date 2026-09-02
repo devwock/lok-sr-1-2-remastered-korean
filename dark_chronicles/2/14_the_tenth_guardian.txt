@@ -6,11 +6,11 @@
 *As he enters, Raziel discerns a striking, winged figure standing at the far end of the
 *chamber, silhouetted by the wintry, morning light filtering in from the canyon beyond.
 *Raziel addresses the winged figure tentatively –
-#RAZIEL
+#라지엘
 Janos Audron?
 *
 *Janos turns slowly at the sound of Raziel's voice –
-#JANOS
+#야노스
 It is heartening, after all these years, to hear my name spoken without contempt.
 *
 *As he turns, his features are illuminated by the fire-lit glow of the chamber. This is not
@@ -19,16 +19,16 @@ It is heartening, after all these years, to hear my name spoken without contempt
 *Janos appears to recognize Raziel, but regards him with horror and pity. Raziel's features
 *are vaguely vampiric – his blue skin, cloven hands, and wings – but this emaciated, ragged
 *spectre looks as though he has been nearly destroyed.
-#JANOS
+#야노스
 Raziel?
 My child, what have they done to you?
 *
-#RAZIEL
+#라지엘
 I have been dragged through hell and back – all, it seems, to reach this moment.
 But I don't yet know why.
 *
 *Janos speaks haltingly, as though not sure where to begin –
-#JANOS
+#야노스
 For thousands of years, I have waited... alone here, losing faith...
 At the time of the Binding, nine guardians were called to serve the Pillars. And I was
 summoned as the tenth guardian – the keeper of the Reaver, the weapon of our salvation.
@@ -36,15 +36,15 @@ Over time, our race died out. Until I alone remained... sustained only by my obl
 you, and by my guardianship of the blade.
 *
 *Janos turns and walks contemplatively toward the balcony –
-#RAZIEL
+#라지엘
 And the other nine? Why did their guardianship not sustain them?
 *
 *Janos considers for a moment, then responds wistfully –
-#JANOS
+#야노스
 I don't know.
 *
 *Janos gazes beyond the balcony pensively as he recounts the vampires' history –
-#JANOS
+#야노스
 As our race dwindled, the humans prospered. I have watched, over the centuries, as our
 history faded into myth, and finally receded altogether.
 The humans have forgotten us entirely, and claimed the Pillars for themselves – wholly
@@ -52,12 +52,12 @@ ignorant of their true purpose.
 To them, I am merely a devil; the origin of their vampire 'plague'.
 *
 *Raziel approaches inquisitively –
-#RAZIEL
+#라지엘
 Why would the Pillars summon human guardians, then, if they are meant to be served by
 vampires?
 *
 *Janos walks to the edge of the balcony as he replies, gesturing for Raziel to follow –
-#JANOS
+#야노스
 The Pillars choose their guardians from birth, Raziel – and vampires are no longer born.
 This is the crux of our dilemma.
 And this is the terrible irony – with their vampire purge, the members of the Circle have
@@ -67,59 +67,59 @@ slitting their own throats.
 *
 *Janos and Raziel stand together at the edge of the balcony, looking out at the canyon
 *below. Janos continues, speaking softly –
-#JANOS
+#야노스
 They know I'm up here, beyond their reach, and it terrifies them.
 *
 *Janos gestures toward the panorama of Sarafan slaughter, below. A number of impaled
 *vampire corpses litter the canyon, planted here to defy and intimidate Janos.
-#JANOS
+#야노스
 You can see how they flaunt their kills to torment me... or perhaps simply to lure me out.
 They have this foolish notion that destroying me will somehow topple our entire bloodline.
 Thankfully, we're not that fragile.
 *
-#RAZIEL
+#라지엘
 I have seen them mustering their forces in the village, below.
 *
-#JANOS
+#야노스
 Yes. I don't know what they're plotting... but I fear our time may be bitterly short.
 *
-#RAZIEL
+#라지엘
 Mankind seems to have brought you only torment and grief.
 You must hate them.
 *
 *Janos responds slowly, considering –
-#JANOS
+#야노스
 They fear what they don't understand; and they despise what they fear.
 But no – I do not hate them.
 *
-#RAZIEL
+#라지엘
 Vorador does.
 *
-#JANOS
+#야노스
 He has suffered much. He cannot forgive them.
 *
-#RAZIEL
+#라지엘
 Should they be forgiven?
 *
-#JANOS
+#야노스
 They don't understand what they're doing.
 They are simply unenlightened... and vulnerable to manipulation.
 *
 *Raziel considers this silently for a moment, then voices the question that's been
 *tormenting him –
 *
-#RAZIEL
+#라지엘
 So it's all true, then – what Kain and Vorador have told me – I really am some kind of
 unholy vampire messiah...
 *
 *Janos gently corrects him –
-#JANOS
+#야노스
 Unholy? – no. Messiah... perhaps.
 *
-#RAZIEL
+#라지엘
 I don't like that word – it smells of martyrdom.
 *
-#JANOS
+#야노스
 Raziel, your role in this world's destiny is more crucial – and more benevolent – than
 you've allowed yourself to believe.
 Your journey will not be easy – dark powers are allied against you.
@@ -130,10 +130,10 @@ The Binding must be secured, Raziel.
 The Pillars are the lock –
 *
 *Following him, Raziel completes the thought –
-#RAZIEL
+#라지엘
 – and the Reaver is the key.
 *
-#JANOS
+#야노스
 Yes.
 *
 *Janos approaches a decorative chest set against the wall, and opens it – revealing the
@@ -144,49 +144,49 @@ Yes.
 *nothing. As disconcerting as the temporal distortion feels, this nothingness is somehow
 *worse...
 *Troubled, Raziel wonders quietly to himself –
-#RAZIEL
+#라지엘
 The Reaver is here? Why do I feel nothing?
 *
 *Janos lifts the blade reverently and turns to Raziel, presenting it to him.
-#JANOS
+#야노스
 The most formidable weapon ever forged by our swordsmiths...
 They infused the blade with vampiric energy, empowering the Reaver to drain our enemies of
 their precious lifeblood.
 *
-#RAZIEL V.O.
+#라지엘 독백
 As Janos presented the blade, an inexplicable sense of dread crept over me, more palpable
 than anything I'd felt before.
 I was at once horribly repelled by the sword and yet irresistibly compelled to touch it, to
 take it up.
 *
 *Raziel refuses the blade with trepidation –
-#RAZIEL
+#라지엘
 Please – take it away from me.
 *
 *At once, from the hallway comes the unmistakable sound of armored soldiers rapidly
 *approaching. With sudden, sick recognition, Raziel realizes that by blazing a path for
 *himself through the Retreat, he has unwittingly exposed Janos to the Sarafan.
 *Janos appears dismayed, but oddly resigned –
-#JANOS
+#야노스
 I fear you have been followed...
 *
 *With this, the door crashes open, and a squad of Sarafan warriors burst into the room.
 *Their leader is armed with a cruel-looking weapon, and they have come bearing Moebius's
 *staff – Raziel realizes at this moment that he has been duped and betrayed.
 *Raziel charges forward to defend Janos from the Sarafan, but Janos restrains him –
-#JANOS
+#야노스
 You must save yourself, Raziel.
 *
 *Janos lays his hands upon Raziel, intent on conveying him safely away from the chamber.
 *Raziel resists –
-#RAZIEL
+#라지엘
 Janos – no!
 *
 *But his protests are in vain. The room recedes dizzyingly, as Raziel is propelled into an
 *adjacent chamber within the Retreat – safely away from the Sarafan, and helpless to save
 *Janos.
 *
-#RAZIEL V.O.
+#라지엘 독백
 My surroundings whirled sickeningly, and I found myself transported safely away from
 the ambush, to an adjacent chamber.
 Janos had delivered me from the Sarafan, selflessly forfeiting his own safety to preserve

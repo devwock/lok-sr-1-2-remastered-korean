@@ -1,108 +1,108 @@
--챕터 17 – CORNERED IN THE STRONGHOLD
-*Raziel has pursued the Sarafan to their Stronghold, resolved to avenge Janos Audron's
-*murder, recover his heart, and reclaim the stolen Reaver. Charging through the
-*Stronghold's corridors, Raziel finds himself at a dead end, in an antechamber off of the
-*cloister.
-*The Reaver is here, laid out across a basin in the center of the room – as if propped here
-*for Raziel to discover.
-*Raziel stops short – for here is the blade that stirred such unsettling premonitions when
-*Janos presented it to him. As before, he feels no distortion in its presence, which
-*troubles him – he is repelled and afraid, yet irresistibly drawn toward the sword.
-#RAZIEL V.O.
-Suddenly and inexplicably, I discovered the Reaver, suspiciously laid across my path.
-Again, I sensed nothing of that 'temporal distortion,' the peculiar sense of displacement
-I had felt when I encountered the Reaver in William's chapel.
-Cornered here with the blade, I suffered the same nameless dread that I had experienced
-when Janos first presented the Reaver to me.
-I felt at once repelled by the blade, and yet overwhelmingly compelled to seize it.
+-챕터 17 – 요새에 갇히다
+*라지엘은 그들의 요새까지 사라판을 추적해 왔으며, 야노스 오드론의 살해에
+*복수하고, 그의 심장을 되찾으며, 빼앗긴 리버를 되찾겠다는 결의를 굳혔다. 요새의 복도를
+*달리던 라지엘은, 회랑 옆 전실에서, 자신이 막다른 길에 다다랐음을
+*깨닫는다.
+*리버가 이곳, 방 중앙의 수반 위에 놓여 있었다 – 마치 라지엘이
+*발견하도록 일부러 놓아둔 것처럼.
+*라지엘은 잠깐 멈춰 선다 – 야노스가 검을 보여주었을 때 그토록 불길한 예감을 불러일으켰던
+*바로 그 검이 이곳에 있기 때문이다. 이전처럼, 그것의 존재에서 아무런 왜곡이 느껴지지 않아, 그를
+*불안하게 한다 – 그는 거부감과 두려움을 느끼면서도, 억누를 수 없이 그 검에 끌린다.
+#라지엘 독백
+갑작스럽고 설명할 수도 없이, 나는 내 길목에 의심스럽게 놓인, 리버를 발견했다.
+여전히, 나는 그 '시간적 왜곡'을 아무것도 느끼지 못했다, 윌리엄의 예배당에서
+리버를 마주쳤을 때 내가 느꼈던 그 특이한 이탈감도.
+이곳에서 검과 함께 막다른 길에 몰린 나는, 야노스가 처음 리버를 내게 주었을 때
+경험했던 형언할 수 없는 공포를 다시금 느꼈다.
+나는 검에 거부감을 느끼면서도, 동시에 검을 쥐고 싶은 강렬한 충동에 사로잡혔다.
 *
-*Suddenly Moebius and the Sarafan Malek appear in the doorway behind Raziel, cutting off
-*his exit. He's been ambushed.
-*Wheeling on them, Raziel summons the wraith-blade – but Moebius has arrived bearing his
-*staff, and as the orb flares, the wraith-blade flickers and dies.
-*Moebius's demeanor has changed dramatically since their last encounter. Gone are all signs
-*of the sniveling, pandering magician – Moebius is cold, focused, and completely in
-*control.
-#MOEBIUS
-So, Raziel – here we are, finally.
-You have no choice but to confront me now – and I am not so foolish as I've let you
-believe.
-We have business to conclude.
+*갑자기 모비어스와 사라판 말렉이 라지엘 뒤편 문가에 나타나, 그의 퇴로를
+*차단한다. 그는 매복에 걸려든 것이다.
+*그들을 향해 돌아서며, 라지엘은 망령-검을 소환하지만 – 모비어스가 가져온 그의 지팡이를
+*들고, 구체가 빛을 발하자, 망령-검은 깜빡이다 사라져 버린다.
+*모비우스의 태도는 지난번 만남 이후 극적으로 변해 있었다. 찌질하고, 아첨하던
+*마술사의 모습은 온데간데없고 – 모비어스는 냉혹하고, 집중하며, 완전히 상황을
+*통제하고 있었다.
+#모비어스
+그래, 라지엘 – 여기까지 왔군, 마침내.
+이제 자네는 나와 맞설 수밖에 없네 – 그리고 나는 자네가 믿었던 것만큼
+어리석지 않다네.
+우리에겐 마무리 지어야 할 일이 있지 않은가.
 *
-#RAZIEL
-[(enraged)
-You knew I would lead the Sarafan to Janos, you vile bastard!
-You've been orchestrating my every move!
+#라지엘
+[(분노하며)
+내가 사라판을 야노스에게 인도할 것을 알고 있었군, 이 비열한 개자식!
+내 일거수일투족을 네가 조종하고 있었던 거야!
 *
-#MOEBIUS
-[(simply laughs)
+#모비어스
+[(그저 웃는다)
 *
-#RAZIEL
-My destiny is an amusement to you?
+#라지엘
+내 운명이 너에겐 유희였나?
 *
-#MOEBIUS
-It was fun, while it lasted.
+#모비어스
+재밌었다네, 진행되는 동안에는.
 *
-*Raziel takes a threatening step forward, and Moebius motions to Malek.
-#MOEBIUS
-I think not, Raziel.
-Malek, do not let this creature leave. He poses a danger to the Circle.
-[Malek steps in front of Moebius, brandishing his pike –
-Poor, deluded Raziel... did you somehow imagine you had the guile to change history on me?
-I'm the Time-Streamer – I knew your every intention before you did, you imbecile.
+*라지엘이 위협적으로 한 걸음 다가가자, 모비어스가 말렉에게 손짓한다.
+#모비어스
+그러지 않는 게 좋을 걸세, 라지엘.
+말렉, 이 존재가 나가지 못하게 하게. 그는 결사에 위협이 된다.
+[말렉이 창을 휘두르며, 모비어스 앞으로 나선다 –
+가엽고, 망상에 빠진 라지엘... 설마 자네가 감히 나를 속여 역사를 바꿀 만큼 간교하다고 생각했던 건가?
+나는 시간-흐름자네 – 자네가 깨닫기도 전에 자네의 모든 의도를 알고 있었지, 이 멍청한 놈아.
 *
-*Suddenly, the sounds of a far-off disturbance echo through the chamber. Screams, terrified
-*cries for Malek, and the unmistakable laughter of the vampire Vorador reverberate through
-*the stone corridors.
-#VORADOR
-[(in the distance)
-Call your dogs – they can feast on your corpses!
+*갑자기, 멀리서 일어난 소란의 소리가 방 안으로 울려 퍼진다. 비명, 겁에 질려
+*말렉을 부르는 울부짖음, 그리고 뱀파이어 보라도어의 명백한 웃음소리가
+*석조 복도를 따라 울려 퍼진다.
+#보라도어
+[(멀리서)
+네 개들을 불러라 – 너희들의 시체를 뜯어먹게 될테니!
 *
-*Malek turns instinctively, prepared to defend the Guardians he has sworn to protect – but
-*Moebius calmly raises a hand to restrain him. Malek entreats him –
-#MALEK
-Lord Moebius, there is trouble within. The Circle is under attack –
+*말렉은 본능적으로 돌아섰다, 자신이 맹새한 대로 수호자들을 지키기 위해 – 하지만
+*모비어스는 태연히 손을 들어 그를 제지한다. 말렉이 그에게 청한다 –
+#말렉
+모비어스 경, 안에서 문제가 생겼습니다. 결사가 공격받고 있습니다 –
 *
-#MOEBIUS
-[(cold, focused)
-Hold fast, Malek.
-This one is the real danger to us.
+#모비어스
+[(냉혹하게, 집중하며)
+자리를 지켜라, 말렉.
+우리에게 진정한 위협은 바로 이자다.
 *
-*Raziel backs slowly toward the basin where the Reaver is laid out.
-#RAZIEL
-What are you trying to concoct here, Moebius?
+*라지엘은 리버가 놓여 있는 수반을 향해 천천히 뒷걸음질 친다.
+#라지엘
+여기서 무슨 음모를 꾸미는 거지, 모비어스?
 *
-#MOEBIUS
-[(hatefully)
-You toxic creature – did you imagine I'd simply allow you to run loose, corrupting
-everything you encounter?
+#모비어스
+[(증오하며)
+이 유독한 존재야 – 마주치는 모든 것을 타락시키며, 마음대로 돌아다니도록
+내가 가만히 둘 줄 알았더냐?
 *
-#RAZIEL
-I admit that I've underestimated you to this point, Moebius – but it's a mistake I won't
-repeat.
+#라지엘
+지금껏 너를 과소평가했음은 인정하마, 모비어스 – 하지만 결코 반복하지 않을
+실수다.
 *
-*With his wraith-blade disabled by the influence of Moebius's staff, Raziel has no choice
-*but to take up the Reaver. He grabs the hilt and advances on Moebius and Malek.
-*This is the moment Moebius was waiting for –
-#MOEBIUS
-[(ominously)
-Wrong again, Raziel.
+*모비어스의 지팡이 영향으로 망령-검이 무력화되자, 라지엘은 리버를
+*집어 드는 것 외에는 선택의 여지가 었다. 그는 검자루를 잡고 모비어스와 말렉을 향해 다가선다.
+*이 순간이 바로 모비어스가 기다리고 있었다 –
+#모비어스
+[(불길하게)
+또 틀렸네, 라지엘.
 *
-*Moebius and Malek back out of the open doorway.
-#MOEBIUS
-Now, Malek – bolt the door!
+*모비어스와 말렉이 열린 문밖으로 물러선다.
+#모비어스
+지금이다, 말렉 – 문을 잠가라!
 *
-*Raziel rushes forward, but the portcullis slams down just as he reaches the door.
-*Turning back toward the chamber, he contemplates the Reaver now clutched in his grasp, and
-*realizes that he has no choice but to press forward into the cloister.
-#RAZIEL V.O.
-Using his staff to disable my wraith-blade, Moebius effectively disarmed me, leaving me
-with only one choice of weapon.
-And yet I confess, it was not the lack of options, but blind rage that made me take up the
-Reaver – in my fury, it felt as though my hand had acted of its own will.
-And now that same hand clutched the hilt with unyielding strength – and I felt a
-constrained tingling, a remote but palpable sense of longing as the disabled wraith-blade
-tried vainly to embrace its physical twin.
+*라지엘이 앞으로 달려가지만, 문에 다다르는 순간 쇠창살이 내려앉는다.
+*방 쪽으로 다시 돌아선 그는 손에 쥐어진 리버를 응시하고,
+*회랑 안쪽으로 나아가는 것 외엔 방법이 없음을 깨닫는다.
+#라지엘 독백
+그의 지팡이를 써서 내 망령-검을 무력화시킴으로써, 모비어스는 날 무장 해제시켰고, 오직
+하나의 무기만을 선택하게 만들었다.
+하지만 고백하건대, 다른 선택지가 없어서가 아닌, 맹목적인 분노가
+나를 리버를 집어 들게 만들었다 – 분노에 휩싸여, 내 손은 마치 스스로의 의지로 움직이는 것 같았다.
+그리고 이제 그 손은 불굴의 힘으로 칼자루를 움켜쥐고 있었다 – 나는
+억눌린 전율과, 무력화된 망령-검이 자신의 물리적인 쌍둥이를 헛되이 끌어안으려
+할 때의 멀리 떨어져 있지만 만져질 수 있는 갈망의 감각을 느꼈다.
 *
 *
 *

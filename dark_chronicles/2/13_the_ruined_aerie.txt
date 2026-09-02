@@ -3,7 +3,7 @@
 *ancient cliff-dwelling civilization. The majestic facades are collapsed and toppled, as
 *though some great upheaval occurred here ages ago.
 *Raziel stands on a terrace beneath the cliffs, surveying the devastated architecture.
-#RAZIEL V.O.
+#라지엘 독백
 This edifice was clearly not crafted by human architects. As the figure beneath the balcony
 silently attested, these were the aeries of winged beings.
 Undoubtedly, I stood before the mountain refuge of the legendary Janos Audron – but the
@@ -12,48 +12,48 @@ As I suspected, the Time Streamer's deception ensured that I was centuries too l
 unearth anything of consequence here.
 *
 *Raziel scans the ruined canyon, and sees a narrow pass leading off to the west.
-#RAZIEL V.O.
+#라지엘 독백
 With nothing behind me but the wasteland I had traversed, I resolved to press on and
 explore these canyons further.
 *
 *Hearing footsteps behind him, Raziel turns to see Kain approaching.
 *He acknowledges Kain wryly –
-#RAZIEL
+#라지엘
 Oh, no. Every time you turn up something monumental and terrible happens.
 I don't think I have the stomach for it.
 *
-#ΚΑΙΝ
+#케인
 [(laughs softly)
 No drama this time, Raziel.
 *
-#RAZIEL
+#라지엘
 You are persistent, crossing time like this to follow me.
 Still waiting for that coin of yours to land on its edge?
 *
 *Kain joins Raziel on the terrace overlooking the canyon.
-#KAIN
+#케인
 I'm biding my time.
 *
 *He glances up at the ruined balcony above –
-#KAIN
+#케인
 I see that Moebius has played a little trick on you.
 *
-#RAZIEL
+#라지엘
 Yes – he clearly doesn't want me to meet this 'Janos Audron'.
 *
 *Kain looks away thoughtfully –
-#ΚΑΙΝ
+#케인
 Perhaps...
 [Then, with sarcasm –
 Or maybe he merely hoped that it would harden your heart against me to see this wasteland
 which I single-handedly authored.
 *
-#RAZIEL
+#라지엘
 My heart doesn't need hardening, Kain.
 If I even suspected that destroying you would make any difference, I would do it this
 instant.
 *
-#ΚΑΙΝ
+#케인
 [(laughs approvingly)
 I knew you'd see through them, Raziel.
 Janos is indeed the key to your destiny, but you'll need to find your own way back into
@@ -61,39 +61,39 @@ Nosgoth's past.
 Make no mistake though, Raziel – you and I are now in great danger.
 We are irritants here – malevolent forces are being marshaled to eliminate us.
 *
-#RAZIEL
+#라지엘
 You talk as though we're allies.
 *
-#ΚΑΙΝ
+#케인
 Regardless of your sentiments, Raziel, in their eyes – we are.
 *
-#RAZIEL
+#라지엘
 Well, they're certainly trying to eliminate you, Kain, there can be no doubt of that.
 I am assaulted relentlessly with demands for your demise.
 Whatever it is that you're plotting, they're scared to death of you.
 As for me, I suspect they made a grave error when they allowed my unique resurrection.
 I don't think they know how to destroy me.
 *
-#ΚΑΙΝ
+#케인
 You mustn't underestimate them, Raziel.
 *
-#RAZIEL
+#라지엘
 And who exactly is this diabolical 'they' to which we keep referring?
 If there's some grand conspiracy going on, the right hand doesn't appear to know what the
 left is doing.
 Even Moebius seems to be caught out at every turn.
 *
-#ΚΑΙΝ
+#케인
 Moebius is a puppet, Raziel – haven't you realized that yet?
 That's the sweetest irony in all of this – Nosgoth's 'great manipulator' is their
 plaything.
 But the ones pulling the strings haven't shown their faces, yet.
 *
-#RAZIEL
+#라지엘
 They don't like us unwriting their carefully choreographed history, though, do they?
 *
 *Kain corrects Raziel –
-#ΚΑΙΝ
+#케인
 You must understand, Raziel – we haven't unwritten history, we've merely rewritten it.
 The future flows around our petty actions, finding the path of least resistance while
 admitting only the slightest alterations.
@@ -101,10 +101,10 @@ This is the reshuffling you felt, when you refused to kill me.
 And remember, Raziel, we are irritants in this regard, as well – history will not allow the
 introduction of a paradox.
 *
-#RAZIEL
+#라지엘
 And if events cannot be reshuffled to accommodate the change?
 *
-#ΚΑΙΝ
+#케인
 It is the irritant who's expelled.
 Bear in mind that this may be exactly the outcome our enemies are trying to provoke.
 We must tread very carefully.

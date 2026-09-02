@@ -1,104 +1,104 @@
--챕터 9 – TIME STREAMING
-*Following his history-altering encounter with Kain in the chapel, Raziel returns to the
-*Circle's gathering-room. Armed with the Light Reaver, he is now able to unlock the second
-*Time Streaming chamber.
-*Just as the chamber's door slides open, Moebius rushes into the room, shaken and alarmed.
-*He knows that Kain has survived what was supposed to have been a fatal encounter with
-*Raziel in the chapel, and that the course of history has therefore been changed.
-*Raziel greets Moebius smugly, realizing that he has the upper hand, and relishing it.
-#RAZIEL
-Ah, yes – I like that look on your face, Moebius. You really don't know what to do now,
-do you, old man?
-Here you are – caught without your damned staff – and I suspect things aren't progressing
-quite as you'd hoped.
-You're not used to the fly turning to confront you in your web, are you?
+-챕터 9 – 시간 흐름
+*예배당에서 케인과의 만남으로 역사를 바꾼 후, 라지엘은
+*결사의 집회실로 돌아온다. 빛 리버로 무장한 그는, 이제 두 번째
+*시간 흐름 방을 열 수 있게 되었다.
+*방의 문이 열리는 순간, 동요하고 경악한 모비어스가 방 안으로 급히 들어온다.
+*그는 예배당에서 라지엘과의 치명적인 조우에서
+*케인이 살아남았다는 것과, 그로 인해 역사의 흐름이 바뀌었음을 알고 있다.
+*라지엘은 모비어스에게 거만하게, 자신이 우위를 점했음을 깨닫고, 즐기면서 인사한다.
+#라지엘
+아, 그래 – 그 표정 아주 마음에 드는군, 모비어스. 이제 어떻게 해야 할지 정말 모르겠지,
+안그런가, 늙은이?
+여기 네가 있었군 – 네 망할 지팡이도 없이 덜미를 잡혀서 말이야 – 상황이 네가 바라던 대로
+흘러가지 않는 모양이지.
+거미줄에 걸린 파리가 자신에게 맞서는 일에는 익숙지 않은 모양이지, 그렇지 않나?
 *
-*Genuinely shocked and distressed, Moebius struggles to regain control of the situation. He
-*admonishes Raziel –
-#MOEBIUS
-Kain's devious influence has poisoned your mind, Raziel.
-Now you see betrayal everywhere, even in your closest allies.
+*진심으로 충격을 받고 고통스러워하며, 모비어스는 상황을 다시 통제하기 위해 애쓴다. 그는
+*라지엘을 질책한다 –
+#모비어스
+케인의 교활한 영향력이 자네의 마음을 중독시켰네, 라지엘.
+이제 자네는 모든 곳에서 배신을 보고 있군, 심지어 가장 가까운 동맹에게서도 말일세.
 *
-#RAZIEL
-We were never allies, Moebius.
-Conspirators, perhaps. Briefly.
+#라지엘
+우리는 단 한 번도 동맹이었던 적이 없다, 모비어스.
+아마, 공모자라면 모를까. 잠시동안은.
 *
-#MOEBIUS
-Why did you not kill Kain when you had the chance? He was at your mercy!
+#모비어스
+기회가 있었을 때 어째서 케인을 죽이지 않았나? 그 자는 자네의 자비에 달려 있었네!
 *
-#RAZIEL
-Precisely. I had a choice, and I chose mercy.
-And now I know your sordid little secret – the significance of that displacement I felt
-when the two Reavers came together.
-Strangely enough, I was enlightened by the 'devious' Kain, not by you.
-In fact, I've learned much more than you counted on – I understand now how you've tried to
-manipulate all of history for your own personal gain.
-But now all your little schemes are whirling in ruin around you, aren't they?
-All because I chose to exert my will for once, rather than obey the demands of sorcerers
-and spirits and demons all singing the same tiresome refrain: 'kill Kain!'
-I'm setting my own path from here, Moebius.
-I intend to discover the truth behind all of this.
+#라지엘
+바로 그렇다. 내겐 선택권이 있었고, 나는 자비를 선택했다.
+그리고 이제 너의 비열한 작은 비밀을 알았지 – 두 리버가 함께 만났을 때
+내가 느꼈던 그 시공간 변위가 무엇을 의미하는지도 말이야.
+이상하게도, 깨달음을 준 것은 '교활한' 케인이었다, 네가 아니라.
+사실, 나는 네가 예상했던 것보다 훨씬 많은 것을 알게 되었다 – 네가 사리사욕을 위해
+어떻게 모든 역사를 조작하려 했는지 이제 이해하니까.
+하지만 이제 너의 그 하찮은 모략들은 파멸 속에서 네 주변을 소용돌이치고 있겠지, 그렇지 않나?
+모두 내가 처음으로 내 의지를 행사하기로 선택한 덕분이지, 마법사들과 영혼들과 악마들이
+모두 똑같이 지겨운 후렴구를 노래하며 복종하라고 요구하는 대신에 말이야: '케인을 죽여라!'
+이제부터 내 길은 내가 정한다, 모비어스.
+이 모든 일 뒤에 숨겨진 진실을 파헤칠 생각이다.
 *
-#MOEBIUS
-But you condemn us all with this impetuous act!
+#모비어스
+하지만 자네의 이 충동적인 행동이 우리 모두를 파멸로 몰아넣고 있네!
 *
-#RAZIEL
-Hardly impetuous; it took all the will I could muster.
-Has my refusal to kill Kain reshuffled your carefully stacked deck of cards?
+#라지엘
+경솔했다고 하기엔 어렵군; 내가 끌어모을 수 있는 모든 의지가 필요했으니까.
+내가 케인을 죽이길 거부한 것이 네가 신중하게 쌓아 올린 패를 뒤섞어 놓았나?
 *
-*Moebius responds angrily –
-#MOEBIUS
-You really think that you're exercising your free will, Raziel?
-You're simply Kain's servant –
+*모비어스가 분노하며 대답한다 –
+#모비어스
+자네가 정말로 자유 의지를 행사하고 있다고 생각하나, 라지엘?
+자네는 단순히 케인의 종일 뿐이네 –
 *
-#RAZIEL
-[(steely)
-I do not serve Kain. I merely did not kill him.
+#라지엘
+[(강철같이)
+나는 케인을 섬기지 않는다. 단지 그를 죽이지 않았을 뿐.
 *
-*Desperate, Moebius implores Raziel –
-#MOEBIUS
-Raziel, do not forget your purpose here – you are destined to be the savior of Nosgoth!
+*절박해진, 모비어스가 라지엘에게 간청한다 –
+#모비어스
+라지엘, 이곳에서의 자네 목적을 잊지 말게 – 자네는 노스고스의 구원자가 될 운명이네!
 *
-*Raziel replies disdainfully –
-#RAZIEL
-Oh, I'm sick of hearing that particular phrase.
-As for saving Nosgoth, so far I see precious little reason to bother.
-And I'll choose my own 'purpose' from here on out, Time-Streamer.
-Right now, I choose to manipulate you, for a change.
-Go – in there.
+*라지엘이 경멸하며 대답한다 –
+#라지엘
+아, 그 특별한 문구는 이제 지긋지긋하군.
+노스고스를 구하는 것이라면, 지금까지는 굳이 수고를 들일 이유를 전혀 찾지 못하겠다.
+그리고 이제부터 내 '목적'은 내가 직접 정하겠다, 시간-흐름자.
+지금 당장은, 너를 조종하기를 선택하지, 이번에는.
+가라 – 저 안으로.
 *
-*Raziel summons the wraith-blade and flourishes it at Moebius threateningly. Gesturing with
-*the Reaver, Raziel directs Moebius toward the Time Streaming chamber.
-*Moebius refuses to move –
-#MOEBIUS
-What are you doing?
+*라지엘은 망령-검을 소환하여 모비어스를 위협적으로 휘두른다. 리버로
+*가리키며, 라지엘은 모비어스를 시간 흐름 방 쪽으로 몰아넣는다.
+*모비어스는 움직이기를 거부한다 –
+#모비어스
+무슨 짓을 하는 건가?
 *
-#RAZIEL
-Come now, Moebius – you're a cunning serpent... you'll piece it together, I imagine.
+#라지엘
+이리 와라, 모비어스 – 너는 교활한 뱀이지... 스스로 알아서 잘 맞추어 보겠지, 내 생각에는.
 *
-*Raziel shoves Moebius and brandishes the Reaver to usher him into the chamber.
-#RAZIEL
-This era is of no further use to me. You will operate this device to provide me passage.
-I want to see the world in a simpler time – before the Sarafan began their crusade.
+*라지엘은 모비어스를 밀치고 리버를 휘두르며 그를 방 안으로 몰아넣는다.
+#라지엘
+이 시대는 내게 더 이상 쓸모가 없다. 너는 이 장치를 작동시켜 내게 길을 열어라.
+나는 더 단순했던 시대의 세계를 보고 싶군 – 사라판이 성전을 시작하기 전을.
 *
-*Moebius obediently adjusts the device's arcane switches, but continues to entreat Raziel –
-#MOEBIUS
-And what about Kain? You're leaving your quarry behind!
+*모비어스는 순순히 장치의 신비로운 스위치를 조작하지만, 계속해서 라지엘에게 간청한다 –
+#모비어스
+그럼 케인은 어떻게 하나? 자네의 사냥감을 두고 가겠다는 건가!
 *
-#RAZIEL
-You kill him, if it's so damned important.
+#라지엘
+네가 그를 죽여라, 그게 그렇게나 빌어먹게 중요하면.
 *
-#MOEBIUS
-You need only touch the two poles of the switch, and the device will transport you.
-But I urge you to reconsider –
+#모비어스
+스위치의 두 양극을 만지기만 하면, 장치가 자네를 전송해 줄 걸세.
+하지만 부디 다시 생각해 보게 –
 *
-*Raziel places his hands on the poles of the time-streaming device.
-#RAZIEL
-You've lost your powers of persuasion, old man.
-Rot here and forget me.
+*라지엘은 시간-흐름 장치의 양극에 손을 얹는다.
+#라지엘
+너는 이제 설득할 힘을 잃었군, 늙은이.
+여기서 썩어가며 나를 잊어라.
 *
-*Moebius turns away dejectedly, but once his face is averted he breaks into a cunning grin.
-*Raziel throws the switch, and the chamber blurs around him as he is swept to another time.
+*모비어스는 낙담한 듯 고개를 돌리지만, 얼굴을 돌리자마자 교활한 미소를 짓는다.
+*라지엘이 스위치를 돌리자, 그가 다른 시간으로 쓸려 들어가면서 방 주변이 흐릿해진다.
 *
 *
 *

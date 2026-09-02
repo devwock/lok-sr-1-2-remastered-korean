@@ -1,213 +1,213 @@
--챕터 8 – HISTORY AND DESTINY COLLIDE
-*As Raziel enters the Relic Hall within the Sanctuary, he discovers the fresh corpse of one
-*of Moebius's guards. Raziel kneels to examine the body – the soldier's neck appears to
-*have been snapped, his throat is torn open, and the pallor of his skin suggests that the
-*victim has been drained of blood.
-*Suspecting Kain, Raziel glances up and begins to rise. He addresses the seemingly-empty
-*hall –
-#RAZIEL
-Show yourself, Kain.
+-챕터 8 – 역사와 운명의 충돌
+*라지엘이 성역 안의 유물 전당으로 들어서자, 그는 모비어스의 경비병 중
+*한 명의 갓 죽은 시체를 발견한다. 라지엘은 시체를 조사하기 위해 무릎을 꿇는다 – 병사의 목은
+*꺾여 있고, 목구멍은 찢겨 열려 있으며, 창백한 피부는
+*희생자의 피가 전부 빨렸음을 보여준다.
+*케인을 의심한 라지엘은, 위를 올려다보며 일어서기 시작한다. 그는 겉보기엔 비어 있는
+*전당을 향해 말한다 –
+#라지엘
+모습을 드러내라, 케인.
 *
-*Kain's voice emerges from the depths of William's chapel –
-#ΚΑΙΝ
-Here, Raziel.
+*윌리엄의 예배당 깊은 곳에서 케인의 목소리가 들려온다 –
+#케인
+여기 있네, 라지엘.
 *
-*Raziel crosses the threshold of the chapel – just as in his previous visit, he feels the
-*distortion caused by the nearness of the Reaver. As he enters, he discovers Kain inside,
-*standing before William's sarcophagus.
-#ΚΑΙΝ
-Everything is decided here...
-You cannot comprehend the magnitude – the rapture and the tragedy – of this moment...
-And yet you must if Nosgoth is to be dragged from the wreckage of its damnation.
+*라지엘은 예배당의 문턱을 넘는다 – 지난번 방문 때와 마찬가지로, 그는
+*리버가 가까이 있음으로 인한 왜곡을 느낀다. 그가 안으로 들어서자, 그는 그 안에서 케인을 발견한다,
+*윌리엄의 석관 앞에 서 있는.
+#케인
+모든 것이 이곳에서 결정되었다네...
+자네는 이 순간의 거대함 – 환희와 비극 – 을 이해할 수 없겠지...
+하지만 노스고스가 저주의 폐허 속에서 끌어올리려면 자네는 반드시 이해해야 하네.
 *
-*Whatever game Kain is playing, Raziel is tired of it. He responds irritably –
-#RAZIEL
-I understand only this, Kain –
-That you and Moebius have impelled me to this moment simply means I can trust neither of
-you.
-I don't know who's pulling the strings, but it no longer matters – because I'm cutting
-them.
-I set my own course from here.
+*케인이 무슨 게임을 하고 있든, 라지엘은 이제 질렸다. 그는 짜증스럽게 대답한다 –
+#라지엘
+내가 이해하는 건 오직 이것뿐이다, 케인 –
+너와 모비어스가 나를 이 순간으로 몰아넣었다는 건 간단히 말해 둘 다 믿을 수
+없다는 뜻일 뿐이지.
+누가 뒤에서 실을 조종하고 있는지는 모르지만, 이제 상관없다 – 내가 그것을
+끊어 버릴 테니까.
+이제부터 내 갈 길은 스스로 정한다.
 *
-*Raziel turns to leave. Kain watches him go for a moment, then replies.
-#KAIN
-If it were only that simple.
+*라지엘이 떠나기 위해 돌아선다. 케인은 잠시 그가 가는 모습을 바라보더니, 대답한다.
+#케인
+그렇게 단순하기만 하다면 말일세.
 *
-*Raziel stops and responds, exasperated.
-#RAZIEL
-Your fatalism is tiresome, Kain.
+*라지엘은 걸음을 멈추고 대답한다, 답답하다는 듯이.
+#라지엘
+너의 숙명론은 지긋지긋하군, 케인.
 *
-#KAIN
-...and profoundly ingrained, Raziel.
-You must understand, our presence here doesn't alter history. You and I meet here because
-we are compelled to – we have always met here.
-History is irredeemable.
-Drop a stone into a rushing river – the current simply courses around it and flows on as if
-the obstruction were never there. You and I are pebbles, Raziel, and have even less hope of
-disrupting the time-stream.
-The continuum of history is simply too strong, too resilient.
-Except... then how do we explain William, here?
-[Kain gestures toward William's funereal effigy, and turns to face the sarcophagus.
-The beloved boy-king turned tyrant.
-[He lifts the Soul Reaver from the casket, and turns back to Raziel, flourishing the sword.
-In my youth, I witnessed William's rise to power, and his transformation into the 'Nemesis'
-who laid waste to Nosgoth.
+#케인
+...그리고 아주 깊게 뿌리내려 있지, 라지엘.
+자네는 이해해야 하네, 우리가 여기 존재한다고 해서 역사가 바뀌지 않는다는 걸.. 자네와 내가 여기서 만나는 건
+그럴 수밖에 없기 때문이야 – 우리는 언제나 이곳에서 만났지.
+역사는 되돌릴 수 없다네.
+세차게 흐르는 강물에 돌을 던져보게 – 물살은 그저 돌을 우회하여 흘러갈 뿐 마치
+그 장애물이 전혀 없었던 것처럼 계속 흐르지. 자네와 나는 조약돌에 불과하네, 라지엘, 시간-흐름을
+방해할 희망 따위는 더더욱 없지.
+역사의 연속성은 그저 너무 강하고, 너무 탄력적이라네.
+하지만... 그렇다면 여기 있는, 윌리엄은 어떻게 설명하겠나?
+[케인은 윌리엄의 장례 조각상을 가리키고, 석관을 향해 돌아선다.
+사랑받던 소년-왕에서 폭군으로 변한 자를.
+[그는 관에서 소울 리버를 들어 올리고, 라지엘을 향해 돌아서며, 검을 과시하듯 휘두른다.
+젊은 시절, 나는 윌리엄의 집권과, 노스고스를 황폐화한 '네메시스'로의
+변모를 목격했네.
 *
-#RAZIEL
-[(steely)
-Keep your distance, Kain.
+#라지엘
+[(단호하게)
+거리를 유지해라, 케인.
 *
-*Kain walks slowly forward, Reaver in hand, as he speaks.
-#ΚΑΙΝ
-Years later, I stumble upon a chance to journey back in history, unaware that the entire
-affair has been carefully orchestrated by Moebius.
-In my wisdom, I seize this opportunity to murder the young king before he can ravage
-Nosgoth...
-...and thereby provide the catalyst Moebius needs to ignite a genocidal war against our
-race.
+*케인은 천천히 앞으로 걸어 나오며, 리버를 손에 쥔 채, 말한다.
+#케인
+몇 년 후, 나는 역사를 거슬러 올라갈 기회를 우연히 잡게 되었지, 이 모든 일이
+모비어스에 의해 치밀하게 계획된 것임을 깨닫지 못한 채로 말이야.
+나의 현명함이랍시고, 나는 이 기회를 잡아 젊은 왕이 노스고스를 유린하기 전에
+그를 살해했네...
+...그리고 그것이 모비어스가 우리 종족을 향한 대학살 전쟁을 일으키는 데 필요한
+기폭제가 되고 말았지.
 *
-*Raziel grows more agitated as Kain advances.
-#RAZIEL
-I warn you – no further!
+*케인이 다가옴에 따라 라지엘은 더욱 동요한다.
+#라지엘
+경고한다 – 더 이상은 안 된다!
 *
-*Kain continues, his voice taking on a greater sense of urgency.
-#ΚΑΙΝ
-This one reckless act unravels the skein of history.
-The Nemesis never becomes the Nemesis; William dies a martyred saint.
-I, the vampire assassin, become the author of my own species' extinction.
-And Moebius profits from it all. I destroyed a tyrant only to create one far worse.
-[Kain gestures toward the stained glass window, which depicts a lionized William and a
-[demonized Kain in combat, both armed with the Soul Reaver.
-But how can it be so? How, if history is immutable?
-[Kain advances slowly on Raziel, gripping the Soul Reaver. As he approaches, the feeling of
-[displacement intensifies.
-The answer is here in this room, Raziel.
-Moebius propelled William and me together – but ensured first that we were both armed with
-the Soul Reaver.
+*케인은 계식하며, 그의 목소리에는 더욱더 긴박함이 서린다.
+#케인
+이 경솔한 행위 하나가 역사의 실타래를 풀어헤쳤네.
+네메시스는 결코 네메시스가 되지 않으며; 윌리엄은 순교한 성인으로 죽지.
+나, 뱀파이어 암살자는, 내 자신의 종족을 멸종시킨 장본인이 되는 걸세.
+그리고 모비어스는 그 모든 것에서 이득을 챙겼다. 나는 더 끔찍한 폭군을 만들어내기 위해 폭군을 파괴했을 뿐이야.
+[케인은 스테인드글라스 창문을 가리킨다, 영웅화된 윌리엄과 악마화된 케인이
+[싸우는 모습이 묘사되어 있다, 둘 다 소울 리버로 무장한 채.
+하지만 어떻게 이럴 수 있지? 어떻게, 만약 역사가 변하지 않는 것이라면?
+[케인은 라지엘을 향해 천천히 다가간다, 소울 리버를 쥐고. 그가 다가올수록, 위화감이
+[한층 강해진다.
+답은 이 방 안에 있네, 라지엘.
+모비어스는 윌리엄과 나를 부딪치게 만들었네 – 하지만 먼저 우리 둘 다
+소울 리버로 무장하게 만들었지.
 *
-#ΚΑΙΝ
-The Reaver is the key.
-Two incarnations of the blade meet in time and space... a paradox is created, a temporal
-distortion powerful enough to derail history.
+#케인
+리버가 열쇠라네.
+검의 두 화신이 시공간에서 마주치면서... 역설이 발생하고, 역사마저
+탈선시킬 만큼 강력한 시간의 왜곡이 일어나는 것이지.
 *
-*As Kain takes a final step toward Raziel, the surrounding distortion reaches its peak, and
-*the wraith-blade begins to manifest of its own will. Raziel reacts in alarm –
-#RAZIEL
-Is this your sorcery?
+*케인이 라지엘을 향해 마지막 발걸음을 내딛자, 주변의 왜곡이 최고조에 달하고, 이어
+*망령-검이 스스로 구현되기 시작한다. 라지엘은 경악하며 반응한다 –
+#라지엘
+이것이 네 마법인가?
 *
-#ΚΑΙΝ
-Not mine, Raziel – yours.
-You have nothing to fear from me, Raziel.
-You hold all the cards.
+#케인
+내 것이 아니네, 라지엘 – 자네의 것이지.
+자네는 나에게서 아무것도 두려워할 필요가 없네, 라지엘.
+모든 카드는 자네가 쥐고 있으니.
 *
-*Kain turns the blade and extends it to Raziel, hilt first. Raziel reaches out tentatively
-*and takes the Reaver – Kain releases the blade willingly, and extends his hands to show
-*that there's no deception. As Raziel grips the hilt, the displacement intensifies around
-*them.
-*Raziel addresses Kain icily. As he speaks, the wraith energy of the Reaver manifests and
-*begins to twine itself around the physical blade.
-#RAZIEL
-Then perhaps I should test your sincerity.
-[Swiftly, Raziel brings the point of the blade up to Kain's throat. Kain steps back, and
-[Raziel advances with him, keeping the sword at his throat.
-If what you say is true, you should be terrified. I could kill you here and now.
+*케인은 검을 돌려 검자루부터, 라지엘에게 내민다. 라지엘은 망설이며 손을 뻗어
+*리버를 잡는다 – 케인은 순순히 검을 놓아주고, 속임수가 없음을 보여주려
+*손을 펼친다. 라지엘이 검자루를 잡자, 그들 주변의 공간 왜곡이
+*더욱 심해진다.
+*라지엘은 케인에게 서늘하게 말한다. 그가 말하는 동안, 리버의 망령 에너지가 나타나
+*물리적 검의 둘레를 휘감기 시작한다.
+#라지엘
+그렇다면 네 진심을 시험해 볼까.
+[신속하게, 라지엘은 검끝을 케인의 목에 가져다 댔다. 케인이 물러서자, 또한
+[라지엘도 따라 나아가며, 그의 목에 계속 검을 겨눈다.
+네 말이 사실이라면, 넌 두려워해야 마땅하다. 내가 지금 여기서 너를 죽일 수도 있으니까.
 *
-*Kain responds, clearly apprehensive, but also strangely resigned –
-#ΚΑΙΝ
-And so you do, Raziel.
+*케인이 대답한다, 분명히 두려워하면서도, 한편으로는 이상하리만큼 체념한 듯 –
+#케인
+그리고 자네는 정말로 그렇게 할걸세, 라지엘.
 *
-*The blade begins to tremble slightly, as if possessed of its own will. Raziel is confused
-*and alarmed –
-#RAZIEL
-What's happening?
+*검이 미세하게 떨리기 시작한다, 마치 스스로의 의지를 가진 것처럼. 라지엘은 혼란스러워하며
+*경악한다 –
+#라지엘
+무슨 일이지?
 *
-*The trembling intensifies as Raziel struggles against the pull of the Reaver.
-#ΚΑΙΝ
-We are hurtling toward our destinies, Raziel. What you feel is the pull of history rushing
-to meet us.
-This is where history and destiny collide.
+*라지엘이 리버의 이끌림에 맞서 저항하려 하자 떨림이 더욱 강해진다.
+#케인
+우리는 우리의 운명을 향해 질주하고 있네, 라지엘. 자네가 느끼는 것은 우리를 맞이하러
+쇄도하는 역사의 끌림이라네.
+바로 이곳에서 역사와 운명이 충돌한다.
 *
-*The Reaver lunges at Kain – he stumbles against William's sarcophagus, and falls to the
-*ground. As Raziel fights to resist the pull of the blade, Kain urges him with earnest
-*intensity.
-#ΚΑΙΝ
-If you truly believe in free will, Raziel, now is the time to prove it.
-Kill me now, and we both become pawns of history, dragged down the path of an artificial
-destiny.
-I was ordained to assume the role of Balance Guardian in Nosgoth, while you were destined
-to be its savior. But the map of my fate was redrawn by Moebius, and so in turn was
-yours...
+*리버가 케인을 향해 덤벼든다 – 그는 윌리엄의 석관에 부딪혀, 바닥으로
+*넘어진다. 라지엘이 검의 이끌림에 저항하려 싸우자, 케인은 간절하고 진지하게
+*그를 설득한다.
+#케인
+자네가 진정 자유 의지를 믿는다면, 라지엘, 지금이 그것을 증명할 때라네.
+지금 나를 죽인다면, 우린 둘 다 역사의 장기말이 될 뿐이야, 인위적인 운명의 길로
+끌려가는.
+나는 노스고스의 균형 수호자 역할을 맡도록 정해져 있었고, 자네는 노스고스의 구원자가 될
+운명이었네. 하지만 나의 운명의 지도는 모비어스에 의해 다시 그려졌고, 그에 따라 자네의 것도 역시
+바뀌어 버렸지...
 *
-*Raziel struggles to maintain control.
-#RAZIEL
-This is madness!
+*라지엘은 통제력을 유지하기 위해 필사적으로 저항한다.
+#라지엘
+이건 미친 짓이야!
 *
-#ΚΑΙΝ
-Fight it, Raziel... This moment does not have to be an ending – it can become a prelude.
+#케인
+싸워내게, 라지엘... 이 순간이 끝일 필요는 없네 – 이것은 전주곡이 될 수도 있어.
 *
-*The pull of the Reaver is too powerful; Raziel is losing strength.
-#RAZIEL
-I can't...
+*리버의 이끌림이 너무도 강하다; 라지엘은 기력을 잃어간다.
+#라지엘
+난 할 수 없어...
 *
-#ΚΑΙΝ
-You can, Raziel – look inside and see that it is so. You have the power to reshape our
-inevitable futures.
+#케인
+자네는 할 수 있네, 라지엘 – 내면을 들여다보고 그것이 사실임을 보게. 자네에게는 피할 수 없는
+미래를 바꿀 힘이 있네.
 *
-*Raziel raises the Soul Reaver and brings it down violently. Kain turns his head and tenses
-*for the impact. The sword crashes downward in a blinding flash of light, and Raziel
-*staggers back, his hand now free of the blade.
-*Raziel has diverted the Reaver's course, avoiding Kain by mere inches – the blade stands
-*embedded in William's sarcophagus, the impact having fractured the stone.
-*Rising unsteadily, Kain regards the impaled, fractured coffin, and makes a weak attempt at
-*a joke –
-#ΚΑΙΝ
-...poor William.
+*라지엘은 소울 리버를 들어 올렸다가 격렬하게 내리친다. 케인은 고개를 돌리며 충격에
+*대비한다. 검은 눈부신 섬광과 함께 아래로 처박히고, 라지엘은
+*비틀거리며 물러서며, 비로소 검에서 손을 떼어낸다.
+*라지엘은 리버의 궤적을 틀어, 케인을 불과 몇 인치 차이로 비껴갔다 – 검은
+*윌리엄의 석관에 깊게 박혔고, 그 충격으로 돌에 균열이 갔다.
+*비틀거리며 일어난 케인은, 관에 박혀, 균열이 간 석관을 바라보며, 짐짓 가볍게
+*농담한다 –
+#케인
+...불쌍한 윌리엄.
 *
-*At once, the room is overwhelmed by an indescribable disturbance – their surroundings warp
-*and blur, and a colossal groaning fills the air as history labors to admit this
-*alteration.
-*Raziel looks around the room in confusion and alarm.
-#RAZIEL
-What is this?
+*그 순간, 방은 형언할 수 없는 혼란에 압도된다. – 주변이 비틀리고
+*흐려지며, 역사가 이 변화를 받아들이려 안간힘을 쓰면서 거대한 신음 소리가 공기를
+*채운다.
+*라지엘은 혼란과 경악 속에서 방 안을 둘러본다.
+#라지엘
+이게 무슨 일이지?
 *
-#KAIN
-History abhors a paradox, Raziel.
-Even now, the time-stream strains to divert itself, finding its old course blocked by your
-refusal to destroy me.
-The future is reshuffling itself to accommodate your monumental decision.
+#케인
+역사는 역설을 거부한다, 라지엘.
+지금 이 순간에도, 시간-흐름은 스스로를 회피하려 애쓰고 있지, 나를 파괴하길 거부한 자네의 결정 때문에
+예전의 물길이 막힌 것을 깨달았거든.
+미래는 자네의 중대한 결정을 수용하기 위해 스스로를 재배열하는 중이라네.
 *
-*As Kain continues, the distortion begins to subside.
-#ΚΑΙΝ
-This is where we restore ourselves, Raziel, and reclaim our intended destinies.
-It may yet be possible for me to assume my role as Balance Guardian and return the Pillars
-to their rightful inheritors –
+*케인의 말이 이어지는 동안, 왜곡이 진정되기 시작한다.
+#케인
+이곳이 바로 우리가 자신을 회복하고, 라지엘, 본래의 운명을 되찾을 장소라네.
+어쩌면 내가 균형의 수호자로서의 역할을 맡아 기둥들을 정당한 후계자들에게
+돌려주는 것이 여전히 가능할지도 모르지 –
 *
-*Raziel interrupts disdainfully –
-#RAZIEL
-– to the vampires.
-And this is the destiny you have urged me to discover?
-I don't know what game you and Moebius are playing, Kain – but I refuse to be your pawn.
-Unlike you, I still revere whatever shred of humanity I've managed to preserve.
-You will not use me as the instrument of your messianic delusions.
+*라지엘이 경멸하며 말을 끊는다 –
+#라지엘
+– 뱀파이어들에게.
+이것이 네가 나더러 찾아내라고 종용했던 운명이란 말인가?
+너와 모비어스가 무슨 게임을 하고 있는지는 모르겠다만, 케인 – 나는 네 장기말이 되길 거부하겠다.
+너와 달리, 나는 내가 지켜낸 지극히 적은 인간성의 조각이라도 여전히 소중히 여기거든.
+나를 네 메시아적 망상의 도구로 사용하진 못할 거다.
 *
-*Raziel turns his back on Kain and strides out of the chapel.
-#ΚΑΙΝ
-Very well, Raziel. I'll not ask you to trust me – your truths are for you to discover
-alone.
+*라지엘은 케인에게 등을 돌려 예배당 밖으로 걸어 나간다.
+#케인
+좋을 대로 하게, 라지엘. 나를 믿으라고 하지는 않겠네 – 자네의 진실은 자네 스스로
+발견해야 하니깐.
 *
-*Raziel pauses briefly, and replies without turning –
-#RAZIEL
-Humble words for one who presumes to teach me a lesson at every turn.
+*라지엘은 잠시 멈춰 섰다가, 돌아보지 않은 채 대답한다 –
+#라지엘
+매번 내게 가르침을 주려 드는 자 치고는 겸손한 말이군.
 *
-#ΚΑΙΝ
-Then continue your journey and learn your own lessons, Raziel.
-Remember – Moebius led you here, but you walk away unfettered. A champion of free will, and
-conqueror of false histories.
+#케인
+그렇다면 자네의 여정을 계속하여 자네만의 가르침을 얻게나, 라지엘.
+기억하게 – 모비어스가 자네를 이곳으로 이끌었으나, 자네는 얽매이지 않고 떠나는 것일세. 자유 의지의 투사이자, 그리고
+거짓된 역사의 정복자로서 말이지.
 *
-*Raziel stalks away without looking back.
-#KAIN
-There is much more for you to unearth, if you have the heart for the truth and the will to
-see it...
+*라지엘은 뒤도 돌아보지 않고 멀어져 간다.
+#케인
+자네가 밝혀내야 할 것은 이 외에도 훨씬 더 많다네, 진실을 받아들일 마음과 그것을 똑똑히 볼
+의지가 있다면...
 *
 *
 *
