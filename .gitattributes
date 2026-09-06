@@ -1,0 +1,22 @@
+# 이 리포의 텍스트는 게임 리소스와 바이트 단위로 같아야 한다.
+#   - 개행: CRLF
+#   - 마지막 줄 개행: 없음
+#   - BOM: 원문에 있는 파일만 (SR1 BONUS.TXT 등)
+#
+# git 이 개행을 변환하면 이 조건이 깨진다. 더 나쁜 것은, core.autocrlf=true 환경에서는
+# 오브젝트에 항상 LF 로 저장하고 체크아웃할 때 CRLF 로 되돌리기 때문에
+# **"줄바꿈만 바뀐 변경"이 git diff 에 아예 보이지 않는다**는 점이다.
+# 클론한 사람의 작업 트리가 원본과 다른 바이트가 되어도 알아챌 방법이 없다.
+#
+# 그래서 모든 경로에서 EOL 변환을 끈다. 커밋된 바이트가 그대로 체크아웃된다.
+* -text
+
+# 바이너리: diff/merge 를 시도하지 않는다
+*.dds binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.zip binary
+*.ttf binary
+*.otf binary
