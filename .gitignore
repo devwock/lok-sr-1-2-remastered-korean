@@ -1,0 +1,13 @@
+# 로컬 작업 파일
+claude.md
+work_plan.md
+errors.txt
+.env
+*.pem
+
+# 작업용 폴더 (공개 대상 아님)
+guides/
+translates/
+
+# 배포 산출물 (GitHub Release로 배포)
+outputs/
