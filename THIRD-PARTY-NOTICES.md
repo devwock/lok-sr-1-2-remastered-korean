@@ -1,0 +1,17 @@
+# 서드파티 고지
+
+이 패치에 포함되거나 이 패치가 파생된 제3자 저작물 목록입니다.
+
+---
+
+## 1. 폰트: 마루 부리 (MaruBuri) — 배포물에 포함
+
+> 이 패치의 자막 글꼴은 네이버 마루 부리(MaruBuri)를 기반으로 만들었습니다.
+
+### 폰트 정보
+
+- URL: <https://hangeul.naver.com/font>
+- 저작권: © NAVER Corp. / © NAVER Cultural Foundation Corp.
+- 제작: AG Typography Institute (안그라픽스 타이포그라피연구소)
+- 라이선스 고지: <https://help.naver.com/service/30016/contents/18088>
+- 라이선스 전문: `FONT_LICENSE.txt` 참조
