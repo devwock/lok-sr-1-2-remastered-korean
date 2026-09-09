@@ -51,7 +51,7 @@ Steam에서 **Legacy of Kain™ Soul Reaver 1&2 Remastered**를 오른쪽 클릭
 
 ## 원본으로 복원하기
 
-Steam에서 **Legacy of Kain™ Soul Reaver 1&2 Remastered**를 오른쪽 클릭한 뒤 **속성 - 설치된 파일 - 로컬 파일 탐색**을 실행하세요.
+Steam에서 **Legacy of Kain™ Soul Reaver 1&2 Remastered**를 오른쪽 클릭한 뒤 **속성 - 설치된 파일 - 게임 파일 무결성 검사**를 실행하세요.
 
 | | |
 | --- | --- |
