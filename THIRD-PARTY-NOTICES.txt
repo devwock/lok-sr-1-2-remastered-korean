@@ -1,4 +1,4 @@
-# 서드파티 고지
+# Legacy of Kain: Soul Reaver 1&2 Remastered 한글 패치 서드파티 고지
 
 이 패치에 포함되거나 이 패치가 파생된 제3자 저작물 목록입니다.
 
@@ -14,4 +14,10 @@
 - 저작권: © NAVER Corp. / © NAVER Cultural Foundation Corp.
 - 제작: AG Typography Institute (안그라픽스 타이포그라피연구소)
 - 라이선스 고지: <https://help.naver.com/service/30016/contents/18088>
-- 라이선스 전문: `FONT_LICENSE.txt` 참조
+- 라이선스 전문: `FONT-LICENSE.txt` 참조
+
+---
+
+## 한글 패치 배포
+
+- URL: <https://devwock.github.io/lok-sr-1-2-remastered-korean/>
