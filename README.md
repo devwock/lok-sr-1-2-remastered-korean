@@ -14,7 +14,9 @@
 
 차후 여유가 있을 때 수정하겠습니다.
 
-**[다운로드 및 안내 페이지](https://devwock.github.io/lok-sr-1-2-remastered-korean/)** · [설치 방법 보기](#설치-방법)
+- **[다운로드 및 안내 페이지](https://devwock.github.io/lok-sr-1-2-remastered-korean/)**
+- [설치 방법 보기](#설치-방법)
+- [Steam](https://store.steampowered.com/app/2521380/Legacy_of_Kain_Soul_Reaver_12_Remastered/)
 
 ## 스크린샷
 
@@ -61,6 +63,7 @@ Steam에서 **Legacy of Kain™ Soul Reaver 1&2 Remastered**를 오른쪽 클릭
 
 | 공개일 | 변경 내역 |
 | --- | --- |
+| 2026-09-12 | your corpses -> 너희의 시체들을<br>unlife -> 불생 |
 | 2026-09-06 | 최초 공개 |
 
 ## 개선할 점을 알려주세요.
