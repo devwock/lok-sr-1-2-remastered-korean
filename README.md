@@ -63,6 +63,7 @@ Steam에서 **Legacy of Kain™ Soul Reaver 1&2 Remastered**를 오른쪽 클릭
 
 | 공개일 | 변경 내역 |
 | --- | --- |
+| 2026-09-30 | Air forget -> 공기 대장간 |
 | 2026-09-12 | your corpses -> 너희의 시체들을<br>unlife -> 불생 |
 | 2026-09-06 | 최초 공개 |
 
