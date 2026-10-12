@@ -59,14 +59,6 @@ Steam에서 **Legacy of Kain™ Soul Reaver 1&2 Remastered**를 오른쪽 클릭
 | --- | --- |
 | ![속성](docs/assets/install/0.png) | ![Steam에서 게임 파일 무결성을 확인하는 방법](docs/assets/install/uninstall_1.png) |
 
-## 릴리즈 노트
-
-| 공개일 | 변경 내역 |
-| --- | --- |
-| 2026-09-30 | Air Forge -> 공기 대장간 |
-| 2026-09-12 | your corpses -> 너희의 시체들을<br>unlife -> 불생 |
-| 2026-09-06 | 최초 공개 |
-
 ## 개선할 점을 알려주세요.
 
 어색한 표현, 오역, 버그, 제안을 남겨주시면 확인 후 반영하겠습니다.
